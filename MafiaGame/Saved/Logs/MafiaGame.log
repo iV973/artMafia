@@ -2225,3 +2225,90 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.09-08.46.15:855][225]AssetCheck: New page: Asset Save: multiple assets
 [2020.07.09-08.46.15:856][225]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.07.09-08.46.15:856][225]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.09-08.51.13:137][233]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.09-08.51.13:137][233]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.09-08.51.24:280][597]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.09-08.51.24:331][597]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.09-08.51.55:004][731]LogDirectoryWatcher: A directory notification failed for 'C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.07.09-08.51.55:005][731]LogDirectoryWatcher: A directory notification failed for 'C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/Developers/S406UABM012T/Collections/' because it could not be accessed. Aborting watch request...
+[2020.07.09-08.51.55:005][731]LogDirectoryWatcher: A directory notification failed for 'C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.07.09-08.52.23:660][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.07.09-08.52.39:171][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.09-08.52.39:235][867]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/FirstPersonExampleMapB20EEDFD488EDD29D942A888A8157CEA.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.09-08.52.40:367][867]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/FirstPersonExampleMap_BuiltData6AD92B3E4DF37D5415A75F92F5E008A7.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.09-08.52.40:432][867]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-08.52.40:432][867]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.09-08.52.40:432][867]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.09-08.52.57:722][370]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.07.09-08.54.11:489][945]Cmd: EDCALLBACK SURFPROPS
+[2020.07.09-08.54.21:370][297]Cmd: EDCALLBACK SURFPROPS
+[2020.07.09-08.55.22:141][ 99]Cmd: TRANSACTION UNDO
+[2020.07.09-08.55.22:141][ 99]LogEditorTransaction: Undo Edit Brush Type
+[2020.07.09-08.55.23:507][139]Cmd: DELETE
+[2020.07.09-08.55.23:507][139]Cmd: ACTOR DELETE
+[2020.07.09-08.55.23:518][139]LogEditorActor: Deleted Actor: Brush
+[2020.07.09-08.55.23:536][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.07.09-08.55.23:546][139]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.07.09-08.55.31:960][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.07.09-08.55.32:005][399]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/FirstPersonExampleMapB12EC9B3406866AFFA5D9EBCF464D0BF.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.09-08.55.33:498][399]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/FirstPersonExampleMap_BuiltData8DC7C3644BDA02824F56E7A026FC0781.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.09-08.55.33:534][399]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-08.55.33:534][399]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.09-08.55.33:534][399]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.09-08.55.50:834][868]LogActorFactory: Actor Factory created SM_Classic_Leather_Sofa
+[2020.07.09-08.55.52:144][908]LogActorFactory: Actor Factory created SM_Classic_Leather_Sofa
+[2020.07.09-08.56.00:580][204]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.09-08.56.00:580][204]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.09-08.58.36:918][491]LogActorFactory: Actor Factory created SM_Classic_Leather_Armchair
+[2020.07.09-08.58.40:472][592]LogActorFactory: Actor Factory created SM_Classic_Leather_Armchair
+[2020.07.09-08.58.40:979][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.09-08.58.49:496][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa)
+[2020.07.09-08.58.56:845][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa2)
+[2020.07.09-08.59.01:539][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.09-08.59.03:113][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair)
+[2020.07.09-08.59.21:242][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.09-08.59.24:137][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa4)
+[2020.07.09-08.59.29:443][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa3)
+[2020.07.09-08.59.35:913][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.09-08.59.41:051][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair)
+[2020.07.09-08.59.43:373][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa2)
+[2020.07.09-08.59.46:476][672]Cmd: TRANSACTION UNDO
+[2020.07.09-08.59.46:476][672]LogEditorTransaction: Undo Move Actors
+[2020.07.09-08.59.52:679][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa)
+[2020.07.09-08.59.56:662][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair2)
+[2020.07.09-09.00.11:111][452]EditorErrors: New page: Actor attachment
+[2020.07.09-09.00.19:726][741]EditorErrors: New page: Actor attachment
+[2020.07.09-09.00.32:625][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa4)
+[2020.07.09-09.00.37:687][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa3)
+[2020.07.09-09.00.50:148][631]LogActorFactory: Actor Factory created SM_Classic_Leather_Sofa
+[2020.07.09-09.00.53:275][712]LogActorFactory: Actor Factory created SM_Classic_Leather_Sofa
+[2020.07.09-09.01.11:879][237]LogActorFactory: Actor Factory created SM_Classic_Leather_Armchair
+[2020.07.09-09.01.14:116][306]LogActorFactory: Actor Factory created SM_Classic_Leather_Armchair
+[2020.07.09-09.01.15:462][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x325)
+[2020.07.09-09.01.16:257][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair3)
+[2020.07.09-09.01.17:274][402]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.07.09-09.01.18:755][450]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.09-09.01.19:593][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair3)
+[2020.07.09-09.01.37:179][ 15]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.07.09-09.01.39:176][ 72]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.09-09.01.41:063][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.09-09.01.44:724][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair)
+[2020.07.09-09.01.53:410][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa2)
+[2020.07.09-09.02.00:878][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa)
+[2020.07.09-09.02.07:010][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa4)
+[2020.07.09-09.02.10:574][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair2)
+[2020.07.09-09.02.20:521][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.09-09.02.22:081][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa4)
+[2020.07.09-09.02.29:330][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.09-09.02.30:964][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa3)
+[2020.07.09-09.02.44:799][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa5)
+[2020.07.09-09.02.52:658][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair3)
+[2020.07.09-09.03.02:315][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair4)
+[2020.07.09-09.03.09:968][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa6)
+[2020.07.09-09.03.19:510][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair4)
+[2020.07.09-09.03.28:112][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.07.09-09.03.28:178][413]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/FirstPersonExampleMap57C38D874BF7747373E649AD4AA85B4F.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.09-09.03.29:411][413]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/FirstPersonExampleMap_BuiltData5D25012C40BB6F06F699528ABA9F5046.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.09-09.03.29:454][413]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-09.03.29:454][413]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.09-09.03.29:455][413]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
