@@ -798,3 +798,153 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.07.10-11.53.08:446][435]AssetReimport: Importing new asset /Game/Characters/Texture/FuseModel/FuseModel_Body_Normal.
 [2020.07.10-11.53.08:446][435]AssetReimport: Importing new asset /Game/Characters/Texture/FuseModel/FuseModel_Body_Metallic.
 [2020.07.10-11.53.08:446][435]AssetReimport: Importing new asset /Game/Characters/Texture/FuseModel/FuseModel_Body_Roughness.
+[2020.07.10-11.56.16:345][431]LogSlate: Window 'Message' being destroyed
+[2020.07.10-11.56.16:348][431]Message dialog closed, result: YesAll, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Characters/FuseModel1
+[2020.07.10-11.56.16:354][431]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../artMafia/Characters/Blender/FuseModel1.fbx)
+[2020.07.10-11.56.16:387][431]LogEditorFactories: Performing atomic reimport of [E:/artMafia/Characters/Blender/FuseModel1.fbx]
+[2020.07.10-11.56.16:402][431]LogFbx: Loading FBX Scene from E:/artMafia/Characters/Blender/FuseModel1.fbx
+[2020.07.10-11.56.16:478][431]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.10-11.56.16:492][431]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node default : The relative matrices do not match
+[2020.07.10-11.56.16:492][431]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node Eyes : The relative matrices do not match
+[2020.07.10-11.56.16:493][431]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node Body : The relative matrices do not match
+[2020.07.10-11.56.16:493][431]LogFbx: Warning: Not valid bind pose for Pose (Eyesmesh) - Node default : The relative matrices do not match
+[2020.07.10-11.56.16:494][431]LogFbx: Warning: Not valid bind pose for Pose (Eyesmesh) - Node Eyes : The relative matrices do not match
+[2020.07.10-11.56.16:494][431]LogFbx: Warning: Not valid bind pose for Pose (Eyesmesh) - Node Body : The relative matrices do not match
+[2020.07.10-11.56.16:495][431]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node default : The relative matrices do not match
+[2020.07.10-11.56.16:495][431]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node Eyes : The relative matrices do not match
+[2020.07.10-11.56.16:496][431]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node Body : The relative matrices do not match
+[2020.07.10-11.56.16:496][431]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.07.10-11.56.16:501][431]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - default
+[2020.07.10-11.56.16:501][431]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.07.10-11.56.16:509][431]LogFbx: Triangulating skeletal mesh default
+[2020.07.10-11.56.16:515][431]LogFbx: Triangulating skeletal mesh Eyes
+[2020.07.10-11.56.16:563][431]LogFbx: Triangulating skeletal mesh Body
+[2020.07.10-11.56.17:530][431]LogFbx: Warning: Bones digested - 82  Depth of hierarchy - 13
+[2020.07.10-11.56.18:421][431]LogSkeletalMesh: Section 0: 106 vertices, 1 active bones
+[2020.07.10-11.56.18:421][431]LogSkeletalMesh: Section 1: 804 vertices, 1 active bones
+[2020.07.10-11.56.18:424][431]LogSkeletalMesh: Section 2: 15983 vertices, 52 active bones
+[2020.07.10-11.56.18:426][431]LogSkeletalMesh: Section 0: Material=0, 114 triangles
+[2020.07.10-11.56.18:426][431]LogSkeletalMesh: Section 1: Material=1, 1520 triangles
+[2020.07.10-11.56.18:426][431]LogSkeletalMesh: Section 2: Material=2, 28924 triangles
+[2020.07.10-11.56.18:440][431]LogEditorFactories: -- imported successfully
+[2020.07.10-11.56.18:450][431]LogSkeletalMesh: Building Skeletal Mesh FuseModel1...
+[2020.07.10-11.56.19:225][431]LogSkeletalMesh: Section 0: 106 vertices, 1 active bones
+[2020.07.10-11.56.19:225][431]LogSkeletalMesh: Section 1: 804 vertices, 1 active bones
+[2020.07.10-11.56.19:228][431]LogSkeletalMesh: Section 2: 15983 vertices, 52 active bones
+[2020.07.10-11.56.19:230][431]LogSkeletalMesh: Section 0: Material=0, 114 triangles
+[2020.07.10-11.56.19:230][431]LogSkeletalMesh: Section 1: Material=1, 1520 triangles
+[2020.07.10-11.56.19:230][431]LogSkeletalMesh: Section 2: Material=2, 28924 triangles
+[2020.07.10-11.56.19:293][431]LogSkeletalMesh: Built Skeletal Mesh [0.84s] /Game/Characters/FuseModel1.FuseModel1
+[2020.07.10-11.56.19:297][431]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.10-11.56.19:297][431]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End_end  
+mixamorig:RightEye_end  
+mixamorig:LeftEye_end  
+mixamorig:LeftHandMiddle4_end  
+mixamorig:LeftHandThumb4_end  
+mixamorig:LeftHandIndex4_end  
+mixamorig:LeftHandRing4_end  
+mixamorig:LeftHandPinky4_end  
+mixamorig:RightHandMiddle4_end  
+mixamorig:RightHandThumb4_end  
+mixamorig:RightHandIndex4_end  
+mixamorig:RightHandRing4_end  
+mixamorig:RightHandPinky4_end  
+mixamorig:RightToe_End_end  
+mixamorig:LeftToe_End_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.07.10-11.56.28:744][771]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../artMafia/Characters/Blender/FuseModelFem-1.fbx)
+[2020.07.10-11.56.28:760][771]LogFbx: Loading FBX Scene from ../../../../../../artMafia/Characters/Blender/FuseModelFem-1.fbx
+[2020.07.10-11.56.28:839][771]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.10-11.56.32:127][771]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.10-11.56.32:176][771]LogFbx: Warning: Not valid bind pose for Pose (Eyelashesmesh) - Node Eyelashes : The relative matrices do not match
+[2020.07.10-11.56.32:177][771]LogFbx: Warning: Not valid bind pose for Pose (Eyelashesmesh) - Node default : The relative matrices do not match
+[2020.07.10-11.56.32:177][771]LogFbx: Warning: Not valid bind pose for Pose (Eyelashesmesh) - Node Body : The relative matrices do not match
+[2020.07.10-11.56.32:178][771]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node Eyelashes : The relative matrices do not match
+[2020.07.10-11.56.32:179][771]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node default : The relative matrices do not match
+[2020.07.10-11.56.32:179][771]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node Body : The relative matrices do not match
+[2020.07.10-11.56.32:180][771]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node Eyelashes : The relative matrices do not match
+[2020.07.10-11.56.32:181][771]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node default : The relative matrices do not match
+[2020.07.10-11.56.32:181][771]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node Body : The relative matrices do not match
+[2020.07.10-11.56.32:181][771]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.07.10-11.56.32:184][771]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Eyelashes
+[2020.07.10-11.56.32:184][771]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.07.10-11.56.32:190][771]LogFbx: Triangulating skeletal mesh Eyelashes
+[2020.07.10-11.56.32:197][771]LogFbx: Triangulating skeletal mesh default
+[2020.07.10-11.56.32:247][771]LogFbx: Triangulating skeletal mesh Body
+[2020.07.10-11.56.33:162][771]LogFbx: Warning: Bones digested - 82  Depth of hierarchy - 13
+[2020.07.10-11.56.34:012][771]LogSkeletalMesh: Section 0: 106 vertices, 1 active bones
+[2020.07.10-11.56.34:012][771]LogSkeletalMesh: Section 1: 804 vertices, 1 active bones
+[2020.07.10-11.56.34:015][771]LogSkeletalMesh: Section 2: 15989 vertices, 52 active bones
+[2020.07.10-11.56.34:017][771]LogSkeletalMesh: Section 0: Material=0, 114 triangles
+[2020.07.10-11.56.34:017][771]LogSkeletalMesh: Section 1: Material=1, 1520 triangles
+[2020.07.10-11.56.34:017][771]LogSkeletalMesh: Section 2: Material=2, 28922 triangles
+[2020.07.10-11.56.34:024][771]LogSkeletalMesh: Building Skeletal Mesh FuseModelFem-1...
+[2020.07.10-11.56.34:808][771]LogSkeletalMesh: Section 0: 106 vertices, 1 active bones
+[2020.07.10-11.56.34:808][771]LogSkeletalMesh: Section 1: 804 vertices, 1 active bones
+[2020.07.10-11.56.34:811][771]LogSkeletalMesh: Section 2: 15989 vertices, 52 active bones
+[2020.07.10-11.56.34:813][771]LogSkeletalMesh: Section 0: Material=0, 114 triangles
+[2020.07.10-11.56.34:813][771]LogSkeletalMesh: Section 1: Material=1, 1520 triangles
+[2020.07.10-11.56.34:813][771]LogSkeletalMesh: Section 2: Material=2, 28922 triangles
+[2020.07.10-11.56.34:874][771]LogSkeletalMesh: Built Skeletal Mesh [0.85s] /Game/Characters/FuseModelFem-1.FuseModelFem-1
+[2020.07.10-11.56.34:917][771]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.56.34:917][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.56.34:963][771]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.10-11.56.34:963][771]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:RightEye_end  
+mixamorig:LeftEye_end  
+mixamorig:HeadTop_End_end  
+mixamorig:LeftHandThumb4_end  
+mixamorig:LeftHandIndex4_end  
+mixamorig:LeftHandMiddle4_end  
+mixamorig:LeftHandRing4_end  
+mixamorig:LeftHandPinky4_end  
+mixamorig:RightHandPinky4_end  
+mixamorig:RightHandRing4_end  
+mixamorig:RightHandMiddle4_end  
+mixamorig:RightHandIndex4_end  
+mixamorig:RightHandThumb4_end  
+mixamorig:LeftToe_End_end  
+mixamorig:RightToe_End_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.07.10-11.56.38:338][966]AssetReimport: New page: Outstanding source content changes 17:56:38
+[2020.07.10-11.56.38:351][966]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Gloss.png)
+[2020.07.10-11.56.39:699][967]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Specular.png)
+[2020.07.10-11.56.40:567][968]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Normal.png)
+[2020.07.10-11.56.41:018][969]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Diffuse.png)
+[2020.07.10-11.56.41:992][970]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Opacity.png)
+[2020.07.10-11.56.42:295][971]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1.obj)
+[2020.07.10-11.56.42:338][971]LogFbx: Loading FBX Scene from E:/artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1.obj
+[2020.07.10-11.56.42:993][971]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.10-11.56.48:897][971]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.10-11.56.51:353][971]LogStaticMesh: Building static mesh FuseModelFem-1_Body...
+[2020.07.10-11.56.51:956][971]LogStaticMesh: Built static mesh [0.60s] /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body.FuseModelFem-1_Body
+[2020.07.10-11.56.52:357][971]LogStaticMesh: Building static mesh FuseModelFem-1_default...
+[2020.07.10-11.56.52:388][971]LogStaticMesh: Built static mesh [0.03s] /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_default.FuseModelFem-1_default
+[2020.07.10-11.56.52:411][971]LogStaticMesh: Building static mesh FuseModelFem-1_Eyelashes...
+[2020.07.10-11.56.52:417][971]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Eyelashes.FuseModelFem-1_Eyelashes
+[2020.07.10-11.56.52:891][972]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModelFem-1_Body_GlossA541447142A76320D5B434B786CB30A6.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Gloss.uasset'
+[2020.07.10-11.56.53:126][972]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModelFem-1_Body_SpecularA89F460F43C578A082451996C4B1C1FB.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Specular.uasset'
+[2020.07.10-11.56.53:404][972]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModelFem-1_Body_Normal78BE9B6148965955C3F9A09EA54CD9C5.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Normal.uasset'
+[2020.07.10-11.56.53:674][972]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModelFem-1_Body_DiffuseFEE8A4E4409D4D29D560B89F59309270.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Diffuse.uasset'
+[2020.07.10-11.56.53:751][972]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModelFem-1_Body_Opacity5CABDE344560DB26D87F07BC02818AB7.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Opacity.uasset'
+[2020.07.10-11.56.53:753][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1" FILE="../../../../../../artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1.uasset" SILENT=true
+[2020.07.10-11.56.53:760][972]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModelFem-11EE31973465E070DD039D0B8CF3B1AD2.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1.uasset'
+[2020.07.10-11.56.53:804][973]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-11.56.53:804][973]LogContentValidation: Display: Validating Texture2D /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Gloss.FuseModelFem-1_Body_Gloss
+[2020.07.10-11.56.53:804][973]LogContentValidation: Display: Validating Texture2D /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Specular.FuseModelFem-1_Body_Specular
+[2020.07.10-11.56.53:804][973]LogContentValidation: Display: Validating Texture2D /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Normal.FuseModelFem-1_Body_Normal
+[2020.07.10-11.56.53:804][973]LogContentValidation: Display: Validating Texture2D /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Diffuse.FuseModelFem-1_Body_Diffuse
+[2020.07.10-11.56.53:804][973]LogContentValidation: Display: Validating Texture2D /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Opacity.FuseModelFem-1_Body_Opacity
+[2020.07.10-11.56.56:784][169]AssetReimport: Importing new asset /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Gloss.
+[2020.07.10-11.56.56:784][169]AssetReimport: Importing new asset /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Specular.
+[2020.07.10-11.56.56:784][169]AssetReimport: Importing new asset /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Normal.
+[2020.07.10-11.56.56:784][169]AssetReimport: Importing new asset /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Diffuse.
+[2020.07.10-11.56.56:784][169]AssetReimport: Importing new asset /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1_Body_Opacity.
+[2020.07.10-11.56.56:784][169]AssetReimport: Importing new asset /Game/Characters/FuseCC/FuseModelFem-1/FuseModelFem-1.
