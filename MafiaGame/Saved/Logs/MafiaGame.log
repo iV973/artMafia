@@ -776,3 +776,25 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.07.10-11.49.50:114][924]AssetCheck: New page: Asset Save: multiple assets
 [2020.07.10-11.49.50:114][924]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.07.10-11.49.50:114][924]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.10-11.52.59:635][220]AssetReimport: New page: Outstanding source content changes 17:52:59
+[2020.07.10-11.52.59:718][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/Texture/FuseModel/FuseModel_Body_BaseColor.png)
+[2020.07.10-11.53.01:719][222]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/Texture/FuseModel/FuseModel_Body_AmbientOcclusion.png)
+[2020.07.10-11.53.02:207][223]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/Texture/FuseModel/FuseModel_Body_Normal.png)
+[2020.07.10-11.53.02:656][224]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/Texture/FuseModel/FuseModel_Body_Metallic.png)
+[2020.07.10-11.53.02:894][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/Characters/Texture/FuseModel/FuseModel_Body_Roughness.png)
+[2020.07.10-11.53.04:640][226]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel_Body_BaseColorE2B834AC46128A146C53C583D9A81363.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/Texture/FuseModel/FuseModel_Body_BaseColor.uasset'
+[2020.07.10-11.53.04:822][226]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel_Body_AmbientOcclusion722F8CE9411752D33E67A1966A144212.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/Texture/FuseModel/FuseModel_Body_AmbientOcclusion.uasset'
+[2020.07.10-11.53.05:113][226]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel_Body_Normal889DDFF246F9D958B5D35C964E400F20.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/Texture/FuseModel/FuseModel_Body_Normal.uasset'
+[2020.07.10-11.53.05:184][226]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel_Body_MetallicDF710B2D4D04461D453C329822DB328A.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/Texture/FuseModel/FuseModel_Body_Metallic.uasset'
+[2020.07.10-11.53.05:434][226]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel_Body_Roughness59F197BE4276F6A0D7DC71BC0B9B028A.tmp' to '../../../../../../artMafia/MafiaGame/Content/Characters/Texture/FuseModel/FuseModel_Body_Roughness.uasset'
+[2020.07.10-11.53.05:484][227]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-11.53.05:484][227]LogContentValidation: Display: Validating Texture2D /Game/Characters/Texture/FuseModel/FuseModel_Body_BaseColor.FuseModel_Body_BaseColor
+[2020.07.10-11.53.05:484][227]LogContentValidation: Display: Validating Texture2D /Game/Characters/Texture/FuseModel/FuseModel_Body_AmbientOcclusion.FuseModel_Body_AmbientOcclusion
+[2020.07.10-11.53.05:484][227]LogContentValidation: Display: Validating Texture2D /Game/Characters/Texture/FuseModel/FuseModel_Body_Normal.FuseModel_Body_Normal
+[2020.07.10-11.53.05:484][227]LogContentValidation: Display: Validating Texture2D /Game/Characters/Texture/FuseModel/FuseModel_Body_Metallic.FuseModel_Body_Metallic
+[2020.07.10-11.53.05:484][227]LogContentValidation: Display: Validating Texture2D /Game/Characters/Texture/FuseModel/FuseModel_Body_Roughness.FuseModel_Body_Roughness
+[2020.07.10-11.53.08:446][435]AssetReimport: Importing new asset /Game/Characters/Texture/FuseModel/FuseModel_Body_BaseColor.
+[2020.07.10-11.53.08:446][435]AssetReimport: Importing new asset /Game/Characters/Texture/FuseModel/FuseModel_Body_AmbientOcclusion.
+[2020.07.10-11.53.08:446][435]AssetReimport: Importing new asset /Game/Characters/Texture/FuseModel/FuseModel_Body_Normal.
+[2020.07.10-11.53.08:446][435]AssetReimport: Importing new asset /Game/Characters/Texture/FuseModel/FuseModel_Body_Metallic.
+[2020.07.10-11.53.08:446][435]AssetReimport: Importing new asset /Game/Characters/Texture/FuseModel/FuseModel_Body_Roughness.
