@@ -663,3 +663,110 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-11.43.24:891][  0]LogSlate: Took 0.045274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.07.10-11.44.19:015][255]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
 [2020.07.10-11.44.29:415][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa)
+[2020.07.10-11.47.31:963][ 23]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.10-11.47.31:987][ 23]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../artMafia/Characters/Blender/FuseModel1.fbx)
+[2020.07.10-11.47.32:102][ 23]LogFbx: Loading FBX Scene from ../../../../../../artMafia/Characters/Blender/FuseModel1.fbx
+[2020.07.10-11.47.32:202][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.10-11.48.12:904][ 23]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.10-11.48.13:012][ 23]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node default : The relative matrices do not match
+[2020.07.10-11.48.13:013][ 23]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node Eyes : The relative matrices do not match
+[2020.07.10-11.48.13:013][ 23]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node Body : The relative matrices do not match
+[2020.07.10-11.48.13:014][ 23]LogFbx: Warning: Not valid bind pose for Pose (Eyesmesh) - Node default : The relative matrices do not match
+[2020.07.10-11.48.13:014][ 23]LogFbx: Warning: Not valid bind pose for Pose (Eyesmesh) - Node Eyes : The relative matrices do not match
+[2020.07.10-11.48.13:015][ 23]LogFbx: Warning: Not valid bind pose for Pose (Eyesmesh) - Node Body : The relative matrices do not match
+[2020.07.10-11.48.13:015][ 23]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node default : The relative matrices do not match
+[2020.07.10-11.48.13:016][ 23]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node Eyes : The relative matrices do not match
+[2020.07.10-11.48.13:016][ 23]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node Body : The relative matrices do not match
+[2020.07.10-11.48.13:016][ 23]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.07.10-11.48.13:021][ 23]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - default
+[2020.07.10-11.48.13:021][ 23]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.07.10-11.48.13:197][ 23]LogMaterial: Display: Material /Game/Characters/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.10-11.48.13:199][ 23]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2020.07.10-11.48.13:371][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.07.10-11.48.13:371][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.07.10-11.48.13:371][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.07.10-11.48.13:371][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.10-11.48.13:381][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Diffuse.png
+[2020.07.10-11.48.13:381][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Specular.png
+[2020.07.10-11.48.13:381][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Gloss.png
+[2020.07.10-11.48.13:382][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Normal.png
+[2020.07.10-11.48.13:383][ 23]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2020.07.10-11.48.13:407][ 23]LogFbx: Triangulating skeletal mesh default
+[2020.07.10-11.48.13:417][ 23]LogMaterial: Display: Material /Game/Characters/Bodymat_001.Bodymat_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.10-11.48.13:418][ 23]LogMaterial: Display: Missing cached shader map for material Bodymat_001, compiling. 
+[2020.07.10-11.48.13:442][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Diffuse.png
+[2020.07.10-11.48.13:442][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Specular.png
+[2020.07.10-11.48.13:442][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Gloss.png
+[2020.07.10-11.48.13:443][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Normal.png
+[2020.07.10-11.48.13:445][ 23]LogMaterial: Display: Missing cached shader map for material Bodymat_001, compiling. 
+[2020.07.10-11.48.13:464][ 23]LogFbx: Triangulating skeletal mesh Eyes
+[2020.07.10-11.48.13:511][ 23]LogMaterial: Display: Material /Game/Characters/Bodymat_002.Bodymat_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.10-11.48.13:512][ 23]LogMaterial: Display: Missing cached shader map for material Bodymat_002, compiling. 
+[2020.07.10-11.48.13:538][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Diffuse.png
+[2020.07.10-11.48.13:539][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Specular.png
+[2020.07.10-11.48.13:539][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Gloss.png
+[2020.07.10-11.48.13:539][ 23]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Normal.png
+[2020.07.10-11.48.13:542][ 23]LogMaterial: Display: Missing cached shader map for material Bodymat_002, compiling. 
+[2020.07.10-11.48.13:564][ 23]LogFbx: Triangulating skeletal mesh Body
+[2020.07.10-11.48.14:630][ 23]LogFbx: Warning: Bones digested - 82  Depth of hierarchy - 13
+[2020.07.10-11.48.16:281][ 23]LogSkeletalMesh: Section 0: 106 vertices, 1 active bones
+[2020.07.10-11.48.16:282][ 23]LogSkeletalMesh: Section 1: 804 vertices, 1 active bones
+[2020.07.10-11.48.16:288][ 23]LogSkeletalMesh: Section 2: 15983 vertices, 52 active bones
+[2020.07.10-11.48.16:292][ 23]LogSkeletalMesh: Section 0: Material=0, 114 triangles
+[2020.07.10-11.48.16:292][ 23]LogSkeletalMesh: Section 1: Material=1, 1520 triangles
+[2020.07.10-11.48.16:292][ 23]LogSkeletalMesh: Section 2: Material=2, 28924 triangles
+[2020.07.10-11.48.16:315][ 23]LogSkeletalMesh: Building Skeletal Mesh FuseModel1...
+[2020.07.10-11.48.17:598][ 23]LogSkeletalMesh: Section 0: 106 vertices, 1 active bones
+[2020.07.10-11.48.17:598][ 23]LogSkeletalMesh: Section 1: 804 vertices, 1 active bones
+[2020.07.10-11.48.17:605][ 23]LogSkeletalMesh: Section 2: 15983 vertices, 52 active bones
+[2020.07.10-11.48.17:608][ 23]LogSkeletalMesh: Section 0: Material=0, 114 triangles
+[2020.07.10-11.48.17:608][ 23]LogSkeletalMesh: Section 1: Material=1, 1520 triangles
+[2020.07.10-11.48.17:608][ 23]LogSkeletalMesh: Section 2: Material=2, 28924 triangles
+[2020.07.10-11.48.17:777][ 23]LogSkeletalMesh: Built Skeletal Mesh [1.44s] /Game/Characters/FuseModel1.FuseModel1
+[2020.07.10-11.48.17:872][ 23]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.48.17:872][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.48.18:001][ 23]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.10-11.48.18:001][ 23]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End_end  
+mixamorig:RightEye_end  
+mixamorig:LeftEye_end  
+mixamorig:LeftHandMiddle4_end  
+mixamorig:LeftHandThumb4_end  
+mixamorig:LeftHandIndex4_end  
+mixamorig:LeftHandRing4_end  
+mixamorig:LeftHandPinky4_end  
+mixamorig:RightHandMiddle4_end  
+mixamorig:RightHandThumb4_end  
+mixamorig:RightHandIndex4_end  
+mixamorig:RightHandRing4_end  
+mixamorig:RightHandPinky4_end  
+mixamorig:RightToe_End_end  
+mixamorig:LeftToe_End_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.07.10-11.48.18:292][ 23]LogSlate: Took 0.022285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.10-11.48.19:548][ 51]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 117
+[2020.07.10-11.48.19:628][ 53]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 107
+[2020.07.10-11.48.20:083][ 70]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 97
+[2020.07.10-11.48.20:502][ 86]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 87
+[2020.07.10-11.48.25:064][244]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2020.07.10-11.48.25:554][261]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 67
+[2020.07.10-11.48.26:379][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2020.07.10-11.48.26:535][297]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.07.10-11.48.30:873][449]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2020.07.10-11.48.31:439][466]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.07.10-11.48.32:603][500]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.07.10-11.48.32:707][503]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.10-11.48.35:161][620]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.07.10-11.48.35:305][628]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.10-11.48.36:021][661]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.07.10-11.48.36:120][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.10-11.48.36:347][673]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.10-11.48.36:860][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.10-11.48.38:102][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.07.10-11.48.38:272][747]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FirstPersonExampleMap217A079D410C8212373E6B897DAA33A1.tmp' to '../../../../../../artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.10-11.48.39:679][747]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FirstPersonExampleMap_BuiltDataD1EBF43F43BD54C6364CE1A200F0B6F5.tmp' to '../../../../../../artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.10-11.48.39:718][747]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-11.48.39:718][747]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.10-11.48.39:719][747]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
