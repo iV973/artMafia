@@ -770,3 +770,9 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.07.10-11.48.39:718][747]AssetCheck: New page: Asset Save: multiple assets
 [2020.07.10-11.48.39:718][747]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.07.10-11.48.39:719][747]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.10-11.49.49:087][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.07.10-11.49.49:122][924]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FirstPersonExampleMap6E643A4B4814B87730D373A5F355B42C.tmp' to '../../../../../../artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.10-11.49.50:091][924]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FirstPersonExampleMap_BuiltData9C4DC04E484B6CE0975E2085B1EA1B5D.tmp' to '../../../../../../artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.10-11.49.50:114][924]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-11.49.50:114][924]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.10-11.49.50:114][924]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
