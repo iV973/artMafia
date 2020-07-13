@@ -2191,3 +2191,382 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.07.13-12.22.42:345][464]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/MixamoClothing/Character-1/FuseModel1_PhysicsAsset.FuseModel1_PhysicsAsset
 [2020.07.13-12.22.42:429][464]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 8 classes and 3 folders.
 [2020.07.13-12.22.42:485][464]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.07.13-12.25.41:791][877]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.07.13-12.25.42:629][877]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2020.07.13-12.25.56:842][140]LogRenderer: Reallocating scene render targets to support 1208x728 Format 10 NumSamples 1 (Frame:1).
+[2020.07.13-12.27.03:348][298]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.07.13-12.27.03:354][298]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.07.13-12.27.03:449][298]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.27.03:449][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.27.03:488][298]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.27.03:488][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.27.03:762][298]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.27.03:762][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.27.03:826][298]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.27.03:826][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.27.03:848][298]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.27.03:848][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.27.04:036][298]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.27.04:036][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.27.05:298][371]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.07.13-12.27.14:784][786]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.07.13-12.27.14:791][786]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.07.13-12.27.14:800][786]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.27.14:801][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.28.58:341][532]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../artMafia/Characters/Blender/FuseModel1_clothing.fbx)
+[2020.07.13-12.28.58:355][532]LogFbx: Loading FBX Scene from ../../../../../../artMafia/Characters/Blender/FuseModel1_clothing.fbx
+[2020.07.13-12.28.58:433][532]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.13-12.28.59:745][532]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.13-12.28.59:784][532]LogFbx: Warning: Not valid bind pose for Pose (Bottomsmesh) - Node Bottoms : The relative matrices do not match
+[2020.07.13-12.28.59:785][532]LogFbx: Warning: Not valid bind pose for Pose (Bottomsmesh) - Node Tops : The relative matrices do not match
+[2020.07.13-12.28.59:786][532]LogFbx: Warning: Not valid bind pose for Pose (Bottomsmesh) - Node Hair : The relative matrices do not match
+[2020.07.13-12.28.59:787][532]LogFbx: Warning: Not valid bind pose for Pose (Bottomsmesh) - Node Shoes : The relative matrices do not match
+[2020.07.13-12.28.59:787][532]LogFbx: Warning: Not valid bind pose for Pose (Topsmesh) - Node Bottoms : The relative matrices do not match
+[2020.07.13-12.28.59:788][532]LogFbx: Warning: Not valid bind pose for Pose (Topsmesh) - Node Tops : The relative matrices do not match
+[2020.07.13-12.28.59:789][532]LogFbx: Warning: Not valid bind pose for Pose (Topsmesh) - Node Hair : The relative matrices do not match
+[2020.07.13-12.28.59:789][532]LogFbx: Warning: Not valid bind pose for Pose (Topsmesh) - Node Shoes : The relative matrices do not match
+[2020.07.13-12.28.59:790][532]LogFbx: Warning: Not valid bind pose for Pose (Hairmesh) - Node Bottoms : The relative matrices do not match
+[2020.07.13-12.28.59:791][532]LogFbx: Warning: Not valid bind pose for Pose (Hairmesh) - Node Tops : The relative matrices do not match
+[2020.07.13-12.28.59:792][532]LogFbx: Warning: Not valid bind pose for Pose (Hairmesh) - Node Hair : The relative matrices do not match
+[2020.07.13-12.28.59:793][532]LogFbx: Warning: Not valid bind pose for Pose (Hairmesh) - Node Shoes : The relative matrices do not match
+[2020.07.13-12.28.59:794][532]LogFbx: Warning: Not valid bind pose for Pose (Shoesmesh) - Node Bottoms : The relative matrices do not match
+[2020.07.13-12.28.59:795][532]LogFbx: Warning: Not valid bind pose for Pose (Shoesmesh) - Node Tops : The relative matrices do not match
+[2020.07.13-12.28.59:796][532]LogFbx: Warning: Not valid bind pose for Pose (Shoesmesh) - Node Hair : The relative matrices do not match
+[2020.07.13-12.28.59:797][532]LogFbx: Warning: Not valid bind pose for Pose (Shoesmesh) - Node Shoes : The relative matrices do not match
+[2020.07.13-12.28.59:797][532]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.07.13-12.28.59:801][532]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Bottoms
+[2020.07.13-12.28.59:801][532]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.07.13-12.28.59:807][532]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Clothing/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-12.28.59:808][532]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-12.28.59:831][532]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.07.13-12.28.59:831][532]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.07.13-12.28.59:831][532]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.07.13-12.28.59:831][532]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.13-12.28.59:851][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Bottom_Diffuse.png
+[2020.07.13-12.28.59:851][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Bottom_Specular.png
+[2020.07.13-12.28.59:851][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Bottom_Gloss.png
+[2020.07.13-12.28.59:852][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Bottom_Normal.png
+[2020.07.13-12.28.59:853][532]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-12.28.59:874][532]LogFbx: Triangulating skeletal mesh Bottoms
+[2020.07.13-12.29.00:029][532]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Clothing/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-12.29.00:030][532]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2020.07.13-12.29.00:063][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Top_Diffuse.png
+[2020.07.13-12.29.00:064][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Top_Specular.png
+[2020.07.13-12.29.00:064][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Top_Gloss.png
+[2020.07.13-12.29.00:064][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Top_Normal.png
+[2020.07.13-12.29.00:068][532]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2020.07.13-12.29.00:096][532]LogFbx: Triangulating skeletal mesh Tops
+[2020.07.13-12.29.00:284][532]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Clothing/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-12.29.00:286][532]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-12.29.00:339][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Hair_Diffuse.png
+[2020.07.13-12.29.00:340][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Hair_Specular.png
+[2020.07.13-12.29.00:340][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Hair_Gloss.png
+[2020.07.13-12.29.00:342][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Hair_Normal.png
+[2020.07.13-12.29.00:347][532]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-12.29.00:388][532]LogFbx: Triangulating skeletal mesh Hair
+[2020.07.13-12.29.00:427][532]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Clothing/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-12.29.00:429][532]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2020.07.13-12.29.00:468][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Shoes_Diffuse.png
+[2020.07.13-12.29.00:468][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Shoes_Specular.png
+[2020.07.13-12.29.00:469][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Shoes_Gloss.png
+[2020.07.13-12.29.00:469][532]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Shoes_Normal.png
+[2020.07.13-12.29.00:474][532]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2020.07.13-12.29.00:541][532]LogFbx: Triangulating skeletal mesh Shoes
+[2020.07.13-12.29.00:914][532]LogFbx: Warning: Bones digested - 82  Depth of hierarchy - 13
+[2020.07.13-12.29.02:258][532]LogSkeletalMesh: Section 0: 2296 vertices, 10 active bones
+[2020.07.13-12.29.02:258][532]LogSkeletalMesh: Section 1: 2755 vertices, 24 active bones
+[2020.07.13-12.29.02:259][532]LogSkeletalMesh: Section 2: 490 vertices, 3 active bones
+[2020.07.13-12.29.02:260][532]LogSkeletalMesh: Section 3: 4334 vertices, 6 active bones
+[2020.07.13-12.29.02:262][532]LogSkeletalMesh: Section 0: Material=0, 4036 triangles
+[2020.07.13-12.29.02:262][532]LogSkeletalMesh: Section 1: Material=1, 4630 triangles
+[2020.07.13-12.29.02:262][532]LogSkeletalMesh: Section 2: Material=2, 828 triangles
+[2020.07.13-12.29.02:262][532]LogSkeletalMesh: Section 3: Material=3, 6628 triangles
+[2020.07.13-12.29.02:267][532]LogSkeletalMesh: Building Skeletal Mesh FuseModel1_clothing...
+[2020.07.13-12.29.03:506][532]LogSkeletalMesh: Section 0: 2296 vertices, 10 active bones
+[2020.07.13-12.29.03:506][532]LogSkeletalMesh: Section 1: 2755 vertices, 24 active bones
+[2020.07.13-12.29.03:506][532]LogSkeletalMesh: Section 2: 490 vertices, 3 active bones
+[2020.07.13-12.29.03:507][532]LogSkeletalMesh: Section 3: 4334 vertices, 6 active bones
+[2020.07.13-12.29.03:509][532]LogSkeletalMesh: Section 0: Material=0, 4036 triangles
+[2020.07.13-12.29.03:509][532]LogSkeletalMesh: Section 1: Material=1, 4630 triangles
+[2020.07.13-12.29.03:509][532]LogSkeletalMesh: Section 2: Material=2, 828 triangles
+[2020.07.13-12.29.03:509][532]LogSkeletalMesh: Section 3: Material=3, 6628 triangles
+[2020.07.13-12.29.03:579][532]LogSkeletalMesh: Built Skeletal Mesh [1.31s] /Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing.FuseModel1_clothing
+[2020.07.13-12.29.03:616][532]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.29.03:616][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.29.03:682][532]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.13-12.29.03:682][532]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End_end  
+mixamorig:RightEye_end  
+mixamorig:LeftEye_end  
+mixamorig:LeftHandMiddle4_end  
+mixamorig:LeftHandThumb4_end  
+mixamorig:LeftHandIndex4_end  
+mixamorig:LeftHandRing4_end  
+mixamorig:LeftHandPinky4_end  
+mixamorig:RightHandMiddle4_end  
+mixamorig:RightHandThumb4_end  
+mixamorig:RightHandIndex4_end  
+mixamorig:RightHandRing4_end  
+mixamorig:RightHandPinky4_end  
+mixamorig:RightToe_End_end  
+mixamorig:LeftToe_End_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.07.13-12.29.04:674][552]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 156
+[2020.07.13-12.29.04:882][556]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2020.07.13-12.29.05:406][565]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 136
+[2020.07.13-12.29.05:625][576]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 126
+[2020.07.13-12.29.10:425][729]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 116
+[2020.07.13-12.29.10:902][745]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 106
+[2020.07.13-12.29.11:770][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 96
+[2020.07.13-12.29.11:854][778]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 86
+[2020.07.13-12.29.15:641][892]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2020.07.13-12.29.16:149][910]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2020.07.13-12.29.17:344][951]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2020.07.13-12.29.17:366][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.07.13-12.29.20:489][ 60]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.07.13-12.29.21:614][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.07.13-12.29.22:385][126]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.07.13-12.29.23:077][150]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-12.29.25:045][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.13-12.29.25:169][223]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.13-12.29.25:335][235]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-12.29.25:706][258]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.13-12.29.25:931][273]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.07.13-12.29.26:473][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.13-12.30.14:836][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.07.13-12.30.22:467][ 95]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.13-12.30.24:133][ 95]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/MixamoClothing/Character-1/Clothing/Bottommat.Bottommat
+	Asset Name: /Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing.FuseModel1_clothing
+	Asset Name: /Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing_PhysicsAsset.FuseModel1_clothing_PhysicsAsset
+	Asset Name: /Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing_Skeleton.FuseModel1_clothing_Skeleton
+	Asset Name: /Game/MixamoClothing/Character-1/Clothing/Hairmat.Hairmat
+	Asset Name: /Game/MixamoClothing/Character-1/Clothing/Shoesmat.Shoesmat
+	Asset Name: /Game/MixamoClothing/Character-1/Clothing/Topmat.Topmat
+[2020.07.13-12.30.27:825][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.07.13-12.30.34:217][413]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../artMafia/Characters/Blender/FuseModel1_clothing.fbx)
+[2020.07.13-12.30.34:231][413]LogFbx: Loading FBX Scene from ../../../../../../artMafia/Characters/Blender/FuseModel1_clothing.fbx
+[2020.07.13-12.30.34:326][413]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.13-12.30.54:024][413]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.13-12.30.54:082][413]LogFbx: Warning: Not valid bind pose for Pose (Bottomsmesh) - Node Bottoms : The relative matrices do not match
+[2020.07.13-12.30.54:083][413]LogFbx: Warning: Not valid bind pose for Pose (Bottomsmesh) - Node Tops : The relative matrices do not match
+[2020.07.13-12.30.54:084][413]LogFbx: Warning: Not valid bind pose for Pose (Bottomsmesh) - Node Hair : The relative matrices do not match
+[2020.07.13-12.30.54:084][413]LogFbx: Warning: Not valid bind pose for Pose (Bottomsmesh) - Node Shoes : The relative matrices do not match
+[2020.07.13-12.30.54:085][413]LogFbx: Warning: Not valid bind pose for Pose (Topsmesh) - Node Bottoms : The relative matrices do not match
+[2020.07.13-12.30.54:086][413]LogFbx: Warning: Not valid bind pose for Pose (Topsmesh) - Node Tops : The relative matrices do not match
+[2020.07.13-12.30.54:086][413]LogFbx: Warning: Not valid bind pose for Pose (Topsmesh) - Node Hair : The relative matrices do not match
+[2020.07.13-12.30.54:087][413]LogFbx: Warning: Not valid bind pose for Pose (Topsmesh) - Node Shoes : The relative matrices do not match
+[2020.07.13-12.30.54:088][413]LogFbx: Warning: Not valid bind pose for Pose (Hairmesh) - Node Bottoms : The relative matrices do not match
+[2020.07.13-12.30.54:088][413]LogFbx: Warning: Not valid bind pose for Pose (Hairmesh) - Node Tops : The relative matrices do not match
+[2020.07.13-12.30.54:089][413]LogFbx: Warning: Not valid bind pose for Pose (Hairmesh) - Node Hair : The relative matrices do not match
+[2020.07.13-12.30.54:090][413]LogFbx: Warning: Not valid bind pose for Pose (Hairmesh) - Node Shoes : The relative matrices do not match
+[2020.07.13-12.30.54:091][413]LogFbx: Warning: Not valid bind pose for Pose (Shoesmesh) - Node Bottoms : The relative matrices do not match
+[2020.07.13-12.30.54:092][413]LogFbx: Warning: Not valid bind pose for Pose (Shoesmesh) - Node Tops : The relative matrices do not match
+[2020.07.13-12.30.54:093][413]LogFbx: Warning: Not valid bind pose for Pose (Shoesmesh) - Node Hair : The relative matrices do not match
+[2020.07.13-12.30.54:094][413]LogFbx: Warning: Not valid bind pose for Pose (Shoesmesh) - Node Shoes : The relative matrices do not match
+[2020.07.13-12.30.54:094][413]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.07.13-12.30.54:099][413]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Bottoms
+[2020.07.13-12.30.54:099][413]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.07.13-12.30.54:105][413]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Clothing/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-12.30.54:106][413]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-12.30.54:143][413]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.07.13-12.30.54:143][413]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.07.13-12.30.54:143][413]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.07.13-12.30.54:143][413]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.13-12.30.54:143][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Bottom_Diffuse.png
+[2020.07.13-12.30.54:144][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Bottom_Specular.png
+[2020.07.13-12.30.54:145][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Bottom_Gloss.png
+[2020.07.13-12.30.54:145][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Bottom_Normal.png
+[2020.07.13-12.30.54:146][413]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-12.30.54:168][413]LogFbx: Triangulating skeletal mesh Bottoms
+[2020.07.13-12.30.54:341][413]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Clothing/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-12.30.54:343][413]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2020.07.13-12.30.54:373][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Top_Diffuse.png
+[2020.07.13-12.30.54:373][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Top_Specular.png
+[2020.07.13-12.30.54:374][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Top_Gloss.png
+[2020.07.13-12.30.54:374][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Top_Normal.png
+[2020.07.13-12.30.54:378][413]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2020.07.13-12.30.54:409][413]LogFbx: Triangulating skeletal mesh Tops
+[2020.07.13-12.30.54:608][413]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Clothing/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-12.30.54:611][413]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-12.30.54:659][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Hair_Diffuse.png
+[2020.07.13-12.30.54:660][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Hair_Specular.png
+[2020.07.13-12.30.54:660][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Hair_Gloss.png
+[2020.07.13-12.30.54:661][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Hair_Normal.png
+[2020.07.13-12.30.54:666][413]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-12.30.54:701][413]LogFbx: Triangulating skeletal mesh Hair
+[2020.07.13-12.30.54:739][413]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Clothing/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-12.30.54:741][413]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2020.07.13-12.30.54:781][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Shoes_Diffuse.png
+[2020.07.13-12.30.54:781][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Shoes_Specular.png
+[2020.07.13-12.30.54:781][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Shoes_Gloss.png
+[2020.07.13-12.30.54:782][413]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_20957f28-87b7-485f-9c02-ee86a1bcd9f8.fbm\FuseModel1Clothing_Shoes_Normal.png
+[2020.07.13-12.30.54:788][413]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2020.07.13-12.30.54:829][413]LogFbx: Triangulating skeletal mesh Shoes
+[2020.07.13-12.30.55:146][413]LogFbx: Warning: Bones digested - 82  Depth of hierarchy - 13
+[2020.07.13-12.30.56:532][413]LogSkeletalMesh: Section 0: 2296 vertices, 10 active bones
+[2020.07.13-12.30.56:533][413]LogSkeletalMesh: Section 1: 2755 vertices, 24 active bones
+[2020.07.13-12.30.56:533][413]LogSkeletalMesh: Section 2: 490 vertices, 3 active bones
+[2020.07.13-12.30.56:533][413]LogSkeletalMesh: Section 3: 4334 vertices, 6 active bones
+[2020.07.13-12.30.56:535][413]LogSkeletalMesh: Section 0: Material=0, 4036 triangles
+[2020.07.13-12.30.56:535][413]LogSkeletalMesh: Section 1: Material=1, 4630 triangles
+[2020.07.13-12.30.56:535][413]LogSkeletalMesh: Section 2: Material=2, 828 triangles
+[2020.07.13-12.30.56:535][413]LogSkeletalMesh: Section 3: Material=3, 6628 triangles
+[2020.07.13-12.30.56:540][413]LogSkeletalMesh: Building Skeletal Mesh FuseModel1_clothing...
+[2020.07.13-12.30.57:804][413]LogSkeletalMesh: Section 0: 2296 vertices, 10 active bones
+[2020.07.13-12.30.57:804][413]LogSkeletalMesh: Section 1: 2755 vertices, 24 active bones
+[2020.07.13-12.30.57:804][413]LogSkeletalMesh: Section 2: 490 vertices, 3 active bones
+[2020.07.13-12.30.57:805][413]LogSkeletalMesh: Section 3: 4334 vertices, 6 active bones
+[2020.07.13-12.30.57:807][413]LogSkeletalMesh: Section 0: Material=0, 4036 triangles
+[2020.07.13-12.30.57:807][413]LogSkeletalMesh: Section 1: Material=1, 4630 triangles
+[2020.07.13-12.30.57:807][413]LogSkeletalMesh: Section 2: Material=2, 828 triangles
+[2020.07.13-12.30.57:807][413]LogSkeletalMesh: Section 3: Material=3, 6628 triangles
+[2020.07.13-12.30.57:860][413]LogSkeletalMesh: Built Skeletal Mesh [1.32s] /Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing.FuseModel1_clothing
+[2020.07.13-12.30.57:910][413]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.30.57:910][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.30.57:990][413]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.13-12.30.57:990][413]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End_end  
+mixamorig:RightEye_end  
+mixamorig:LeftEye_end  
+mixamorig:LeftHandMiddle4_end  
+mixamorig:LeftHandThumb4_end  
+mixamorig:LeftHandIndex4_end  
+mixamorig:LeftHandRing4_end  
+mixamorig:LeftHandPinky4_end  
+mixamorig:RightHandMiddle4_end  
+mixamorig:RightHandThumb4_end  
+mixamorig:RightHandIndex4_end  
+mixamorig:RightHandRing4_end  
+mixamorig:RightHandPinky4_end  
+mixamorig:RightToe_End_end  
+mixamorig:LeftToe_End_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.07.13-12.30.59:013][432]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 156
+[2020.07.13-12.30.59:083][434]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2020.07.13-12.30.59:692][443]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 136
+[2020.07.13-12.30.59:914][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 126
+[2020.07.13-12.31.04:837][606]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 116
+[2020.07.13-12.31.05:551][627]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 106
+[2020.07.13-12.31.06:599][658]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 96
+[2020.07.13-12.31.06:760][663]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 86
+[2020.07.13-12.31.10:853][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2020.07.13-12.31.11:417][807]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2020.07.13-12.31.12:498][852]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2020.07.13-12.31.12:670][858]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.07.13-12.31.15:913][931]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.07.13-12.31.16:934][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.07.13-12.31.17:962][975]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.07.13-12.31.18:682][990]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-12.31.21:633][ 56]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.07.13-12.31.21:639][ 56]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.07.13-12.31.21:843][ 61]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-12.31.22:588][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.13-12.31.22:819][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.07.13-12.31.23:489][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.07.13-12.34.59:143][973]AssetReimport: New page: Outstanding source content changes 18:34:59
+[2020.07.13-12.34.59:147][973]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_BaseColor.png)
+[2020.07.13-12.34.59:670][974]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Roughness.png)
+[2020.07.13-12.34.59:785][975]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Metallic.png)
+[2020.07.13-12.34.59:888][976]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Normal.png)
+[2020.07.13-12.35.00:023][977]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_AmbientOcclusion.png)
+[2020.07.13-12.35.00:206][978]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_BaseColor.png)
+[2020.07.13-12.35.00:438][979]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Roughness.png)
+[2020.07.13-12.35.00:697][980]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Metallic.png)
+[2020.07.13-12.35.00:757][981]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_AmbientOcclusion.png)
+[2020.07.13-12.35.00:898][982]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_BaseColor.png)
+[2020.07.13-12.35.01:387][983]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Normal.png)
+[2020.07.13-12.35.01:542][984]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_AmbientOcclusion.png)
+[2020.07.13-12.35.01:743][985]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Normal.png)
+[2020.07.13-12.35.01:958][986]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Metallic.png)
+[2020.07.13-12.35.02:096][987]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Roughness.png)
+[2020.07.13-12.35.02:320][988]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_BaseColor.png)
+[2020.07.13-12.35.04:160][989]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_AmbientOcclusion.png)
+[2020.07.13-12.35.04:537][990]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Normal.png)
+[2020.07.13-12.35.04:968][991]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Metallic.png)
+[2020.07.13-12.35.05:226][992]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Roughness.png)
+[2020.07.13-12.35.06:484][993]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_BaseColor.png)
+[2020.07.13-12.35.06:994][994]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_AmbientOcclusion.png)
+[2020.07.13-12.35.07:177][995]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Normal.png)
+[2020.07.13-12.35.07:346][996]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Metallic.png)
+[2020.07.13-12.35.07:451][997]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Roughness.png)
+[2020.07.13-12.35.07:868][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Top_BaseColo3A9D20024AE5715B223D82BFA3C61186.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_BaseColor.uasset'
+[2020.07.13-12.35.07:910][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Hair_RoughneA6C0C81249289311B2E571A727FBADA4.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Roughness.uasset'
+[2020.07.13-12.35.07:944][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Hair_Metalli35E681554F3341B6D9A856BA1A5E0E8C.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Metallic.uasset'
+[2020.07.13-12.35.08:016][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Hair_NormalF33909B347A7BA077945B2B9BEA283E4.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Normal.uasset'
+[2020.07.13-12.35.08:064][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Hair_Ambient02E216114F4AE90F764784BF00F6D5DF.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_AmbientOcclusion.uasset'
+[2020.07.13-12.35.08:132][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Hair_BaseColACB86E294AA8856BE2B6868FF7ADE399.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_BaseColor.uasset'
+[2020.07.13-12.35.08:348][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Bottom_Rough858DD2D5464CED16E59C8E996E316B0F.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Roughness.uasset'
+[2020.07.13-12.35.08:377][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Bottom_MetalFFD66C5542B625EB093727A1D0DB48C9.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Metallic.uasset'
+[2020.07.13-12.35.08:435][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Bottom_AmbieD0A993564A926E3AB660CE99861C973E.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_AmbientOcclusion.uasset'
+[2020.07.13-12.35.08:523][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Bottom_BaseC7CE0B3F2476174E6D46C6EA638E2E039.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_BaseColor.uasset'
+[2020.07.13-12.35.08:623][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Bottom_Norma6E0D96D94C7698CC0A56CD904DF15812.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Normal.uasset'
+[2020.07.13-12.35.08:692][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Top_AmbientO07A8E0ED4B93916DA50AB79F93E100FC.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_AmbientOcclusion.uasset'
+[2020.07.13-12.35.08:796][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Top_NormalA852608140BC7B7AD8B3DCBCCF441787.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Normal.uasset'
+[2020.07.13-12.35.08:827][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Top_Metallic930EB390424C8A561F69E7B66136BFB8.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Metallic.uasset'
+[2020.07.13-12.35.08:878][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Top_Roughnes22BC4A6B43C2E1F8782AE1851EBEFEE2.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Roughness.uasset'
+[2020.07.13-12.35.09:183][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Body_BaseCol4926FE0C4077EC2B926622B4BE863589.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_BaseColor.uasset'
+[2020.07.13-12.35.09:339][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Body_Ambient1FC1DC9B499DDE18539A43AC0279239A.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_AmbientOcclusion.uasset'
+[2020.07.13-12.35.09:633][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Body_Normal969F0C5143AFFAB31080E8B0B4D1DE0D.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Normal.uasset'
+[2020.07.13-12.35.09:709][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Body_MetalliA1736B784B11029FD090D4B68E68A7A4.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Metallic.uasset'
+[2020.07.13-12.35.09:960][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Body_RoughneFD43C8564C3823B00C026689F3C37A24.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Roughness.uasset'
+[2020.07.13-12.35.10:061][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Shoes_BaseCoBC20069C41A02F5DA7540480B8D34715.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_BaseColor.uasset'
+[2020.07.13-12.35.10:126][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Shoes_Ambien1772C51F4A91B72E2402BA92E3E0074E.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_AmbientOcclusion.uasset'
+[2020.07.13-12.35.10:238][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Shoes_Normal3F2C2697479A81B99E094FB75B633DFF.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Normal.uasset'
+[2020.07.13-12.35.10:267][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Shoes_Metall6B0189CA4DBA06F74D17DAA75ABA1D50.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Metallic.uasset'
+[2020.07.13-12.35.10:340][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel-1Clothing_Shoes_RoughnBC3971D34F7EEA8475E8B9ABCAFB6042.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Roughness.uasset'
+[2020.07.13-12.35.10:549][999]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_BaseColor.FuseModel-1Clothing_Top_BaseColor
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Roughness.FuseModel-1Clothing_Hair_Roughness
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Metallic.FuseModel-1Clothing_Hair_Metallic
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Normal.FuseModel-1Clothing_Hair_Normal
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_AmbientOcclusion.FuseModel-1Clothing_Hair_AmbientOcclusion
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_BaseColor.FuseModel-1Clothing_Hair_BaseColor
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Roughness.FuseModel-1Clothing_Bottom_Roughness
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Metallic.FuseModel-1Clothing_Bottom_Metallic
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_AmbientOcclusion.FuseModel-1Clothing_Bottom_AmbientOcclusion
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_BaseColor.FuseModel-1Clothing_Bottom_BaseColor
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Normal.FuseModel-1Clothing_Bottom_Normal
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_AmbientOcclusion.FuseModel-1Clothing_Top_AmbientOcclusion
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Normal.FuseModel-1Clothing_Top_Normal
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Metallic.FuseModel-1Clothing_Top_Metallic
+[2020.07.13-12.35.10:549][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Roughness.FuseModel-1Clothing_Top_Roughness
+[2020.07.13-12.35.10:550][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_BaseColor.FuseModel-1Clothing_Body_BaseColor
+[2020.07.13-12.35.10:550][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_AmbientOcclusion.FuseModel-1Clothing_Body_AmbientOcclusion
+[2020.07.13-12.35.10:550][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Normal.FuseModel-1Clothing_Body_Normal
+[2020.07.13-12.35.10:550][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Metallic.FuseModel-1Clothing_Body_Metallic
+[2020.07.13-12.35.10:550][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Roughness.FuseModel-1Clothing_Body_Roughness
+[2020.07.13-12.35.10:550][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_BaseColor.FuseModel-1Clothing_Shoes_BaseColor
+[2020.07.13-12.35.10:550][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_AmbientOcclusion.FuseModel-1Clothing_Shoes_AmbientOcclusion
+[2020.07.13-12.35.10:550][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Normal.FuseModel-1Clothing_Shoes_Normal
+[2020.07.13-12.35.10:550][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Metallic.FuseModel-1Clothing_Shoes_Metallic
+[2020.07.13-12.35.10:550][999]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Roughness.FuseModel-1Clothing_Shoes_Roughness
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_BaseColor.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Roughness.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Metallic.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_Normal.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_AmbientOcclusion.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Hair_BaseColor.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Roughness.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Metallic.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_AmbientOcclusion.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_BaseColor.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Bottom_Normal.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_AmbientOcclusion.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Normal.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Metallic.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Top_Roughness.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_BaseColor.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_AmbientOcclusion.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Normal.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Metallic.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Body_Roughness.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_BaseColor.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_AmbientOcclusion.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Normal.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Metallic.
+[2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Roughness.
