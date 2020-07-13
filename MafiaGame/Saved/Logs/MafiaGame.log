@@ -3636,3 +3636,1450 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.07.13-13.40.05:124][554]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/Clothing/Hairmat.Hairmat
 [2020.07.13-13.40.05:124][554]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/Clothing/Shoesmat.Shoesmat
 [2020.07.13-13.40.05:124][554]LogContentValidation: Display: Validating PhysicsAsset /Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing_PhysicsAsset.FuseModel1_clothing_PhysicsAsset
+[2020.07.13-13.41.38:511][138]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MixamoClothing/Character-1/Clothing/Hairmat.Hairmat
+[2020.07.13-13.41.38:512][138]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.41.38:631][138]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.41.38:650][138]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.41.38:674][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.41.38:674][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.41.38:674][138]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.41.38:674][138]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.41.38:678][138]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.07.13-13.41.39:299][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.41.39:531][157]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.41.39:643][160]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-13.41.39:687][161]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.07.13-13.41.39:900][166]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.41.40:031][169]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-13.41.40:336][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.07.13-13.41.40:336][174]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.07.13-13.41.40:347][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.07.13-13.41.40:705][183]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.07.13-13.41.40:752][184]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-13.41.40:846][186]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.07.13-13.41.41:026][193]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.41.41:118][197]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-13.41.41:389][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.07.13-13.41.41:470][213]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.07.13-13.41.41:491][214]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.07.13-13.41.41:615][219]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.13-13.41.42:031][229]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.13-13.41.42:263][236]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.13-13.41.42:334][238]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.13-13.41.42:558][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.13-13.41.42:786][250]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-13.41.42:941][254]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.07.13-13.41.43:029][255]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.41.43:224][260]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.07.13-13.41.43:297][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.07.13-13.41.43:403][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.07.13-13.41.43:443][266]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.07.13-13.41.43:886][277]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.41.43:964][280]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.07.13-13.41.43:964][280]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.07.13-13.41.44:169][289]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.07.13-13.41.44:349][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.07.13-13.41.44:457][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.07.13-13.41.44:672][306]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.07.13-13.41.44:782][309]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.07.13-13.41.44:934][314]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.07.13-13.41.45:198][321]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.07.13-13.41.45:227][322]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.13-13.41.45:331][325]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.07.13-13.41.45:581][332]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.07.13-13.41.45:727][336]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.07.13-13.41.45:822][339]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.07.13-13.41.46:058][346]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.07.13-13.41.46:095][347]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.07.13-13.41.46:293][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.13-13.41.46:425][356]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.07.13-13.41.46:457][357]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.13-13.41.46:630][361]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.07.13-13.41.46:968][375]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.07.13-13.41.47:175][380]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.07.13-13.41.47:216][381]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.13-13.41.47:517][389]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.13-13.41.47:662][390]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.07.13-13.41.48:488][391]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.07.13-13.41.48:488][391]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.07.13-13.41.48:488][391]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.13-13.41.48:488][391]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2020.07.13-13.41.48:488][391]MaterialEditorStats: Texture samplers: 2/16
+[2020.07.13-13.41.58:115][867]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.41.58:135][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.41.58:144][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.41.58:144][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.41.58:144][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.41.58:144][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.41.58:148][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.41.58:163][867]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.41.58:187][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.41.58:203][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.41.58:208][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.41.58:229][867]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.41.58:255][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-13.41.58:272][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.41.58:278][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.41.58:284][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-13.41.58:306][867]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.41.58:336][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.13-13.41.58:359][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.41.58:366][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.41.58:376][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-13.41.58:385][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.13-13.41.58:410][867]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.41.58:444][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.07.13-13.41.58:467][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.41.58:474][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.41.58:481][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-13.41.58:488][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.13-13.41.58:493][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.07.13-13.41.58:498][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2020.07.13-13.41.58:663][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.07.13-13.41.58:815][876]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.07.13-13.41.58:843][877]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.07.13-13.41.59:279][889]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2020.07.13-13.41.59:313][890]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2020.07.13-13.41.59:313][890]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2020.07.13-13.41.59:557][897]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.07.13-13.41.59:698][901]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2020.07.13-13.41.59:967][902]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.07.13-13.41.59:967][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2020.07.13-13.42.00:077][902]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.07.13-13.42.00:134][902]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.07.13-13.42.00:430][902]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.07.13-13.42.00:463][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.07.13-13.42.00:589][902]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.07.13-13.42.00:718][902]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.07.13-13.42.00:785][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.07.13-13.42.01:076][905]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.07.13-13.42.01:167][908]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.07.13-13.42.01:289][912]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.42.01:387][915]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.07.13-13.42.01:819][926]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.42.01:963][931]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.42.02:025][934]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.42.02:258][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.07.13-13.42.02:519][950]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.07.13-13.42.02:792][957]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.07.13-13.42.02:992][962]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.07.13-13.42.03:052][964]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.07.13-13.42.03:129][967]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.07.13-13.42.03:306][973]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.07.13-13.42.03:308][973]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.07.13-13.42.03:308][973]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.07.13-13.42.03:308][973]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.13-13.42.03:308][973]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2020.07.13-13.42.03:308][973]MaterialEditorStats: Texture samplers: 2/16
+[2020.07.13-13.42.03:716][983]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.13-13.42.03:723][983]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.07.13-13.42.03:786][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.07.13-13.42.03:884][988]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.07.13-13.42.04:337][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.07.13-13.42.04:383][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.13-13.42.04:403][  3]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.07.13-13.42.04:426][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.13-13.42.05:023][ 21]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.13-13.42.05:086][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.07.13-13.42.05:117][ 24]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.13-13.42.05:148][ 25]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.13-13.42.05:703][ 38]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.42.05:748][ 39]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.13-13.42.05:748][ 39]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.13-13.42.10:074][257]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.42.10:095][257]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.13-13.42.10:101][257]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.42.10:101][257]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.42.10:101][257]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.42.10:101][257]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.42.10:622][273]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.42.10:798][278]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.42.10:945][282]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.07.13-13.42.10:981][283]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.42.11:182][289]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.42.11:370][294]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-13.42.11:631][301]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.07.13-13.42.11:631][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.07.13-13.42.11:686][302]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.07.13-13.42.12:097][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.07.13-13.42.12:203][316]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-13.42.12:282][318]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.07.13-13.42.12:392][321]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.42.12:593][326]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-13.42.12:884][333]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.07.13-13.42.13:070][338]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.07.13-13.42.13:177][341]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.07.13-13.42.13:293][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.13-13.42.13:776][356]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.13-13.42.13:990][361]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.13-13.42.14:028][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.13-13.42.14:392][371]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.13-13.42.14:596][376]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-13.42.14:872][383]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.07.13-13.42.15:048][387]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.13-13.42.15:192][391]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.13-13.42.15:319][394]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.13-13.42.15:334][394]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.07.13-13.42.15:334][394]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.07.13-13.42.15:334][394]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.13-13.42.15:334][394]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.07.13-13.42.15:334][394]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.13-13.42.15:334][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.07.13-13.42.15:334][394]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.13-13.46.38:784][763]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.46.38:806][763]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.46.38:806][763]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.46.38:806][763]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.46.38:806][763]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.46.38:808][763]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.46.39:492][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.46.39:667][787]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.46.39:784][791]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-13.46.39:880][794]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.07.13-13.46.40:060][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.46.40:245][805]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-13.46.40:534][813]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.07.13-13.46.40:566][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.07.13-13.46.40:569][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.07.13-13.46.40:943][825]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.07.13-13.46.41:050][828]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-13.46.41:146][831]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.07.13-13.46.41:321][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.46.41:427][839]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-13.46.41:737][847]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.07.13-13.46.41:874][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.07.13-13.46.41:911][852]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.46.42:007][855]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.13-13.46.42:442][866]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.07.13-13.46.42:672][873]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.13-13.46.42:751][876]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.13-13.46.42:924][883]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.13-13.46.43:229][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-13.46.43:425][897]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.07.13-13.46.43:668][903]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.46.43:788][906]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.13-13.46.43:788][906]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.13-13.46.43:840][907]MaterialEditorStats: Base pass shader: 126 instructions
+[2020.07.13-13.46.43:840][907]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2020.07.13-13.46.43:840][907]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.13-13.46.43:840][907]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.07.13-13.46.43:840][907]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.13-13.46.43:840][907]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.13-13.46.43:840][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.13-13.47.06:491][942]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.47.06:511][942]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-13.47.06:517][942]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.07.13-13.47.06:517][942]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.07.13-13.47.06:517][942]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.07.13-13.47.06:517][942]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.07.13-13.47.07:223][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.47.07:404][968]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.47.07:548][972]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-13.47.07:600][973]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.07.13-13.47.07:807][980]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.47.07:934][984]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-13.47.08:188][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.07.13-13.47.08:214][993]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.07.13-13.47.08:236][994]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.07.13-13.47.08:579][  8]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.07.13-13.47.08:629][ 10]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-13.47.08:766][ 16]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.13-13.47.08:864][ 20]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.13-13.47.08:974][ 25]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-13.47.09:305][ 34]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.07.13-13.47.09:417][ 37]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.07.13-13.47.09:485][ 39]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.07.13-13.47.09:521][ 40]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.07.13-13.47.10:000][ 56]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.13-13.47.10:174][ 63]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.13-13.47.10:218][ 65]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.13-13.47.10:462][ 72]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.07.13-13.47.10:763][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-13.47.11:027][ 87]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.13-13.47.11:222][ 92]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.47.11:333][ 95]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.13-13.47.11:336][ 95]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.13-13.47.11:394][ 96]MaterialEditorStats: Base pass shader: 126 instructions
+[2020.07.13-13.47.11:394][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2020.07.13-13.47.11:394][ 96]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.13-13.47.11:394][ 96]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.07.13-13.47.11:394][ 96]MaterialEditorStats: Texture samplers: 5/16
+[2020.07.13-13.47.11:394][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.07.13-13.47.11:394][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.13-13.47.24:644][700]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.47.24:667][700]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.47.24:667][700]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.47.24:667][700]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.47.24:667][700]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.47.24:669][700]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.07.13-13.47.25:193][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.47.25:351][719]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.47.25:492][723]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-13.47.25:499][723]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.07.13-13.47.25:802][729]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.47.25:917][733]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-13.47.26:117][739]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.07.13-13.47.26:163][741]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.07.13-13.47.26:185][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.07.13-13.47.26:540][755]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.07.13-13.47.26:635][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-13.47.26:681][761]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.13-13.47.26:738][763]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.47.26:778][763]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.47.26:853][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2020.07.13-13.47.26:997][770]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2020.07.13-13.47.27:303][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.07.13-13.47.27:439][779]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.07.13-13.47.27:459][779]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.07.13-13.47.27:688][786]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.07.13-13.47.27:977][794]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.07.13-13.47.28:043][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.07.13-13.47.28:134][799]LogMaterialEditor: Applying material Hairmat
+[2020.07.13-13.47.29:066][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.07.13-13.47.29:066][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.07.13-13.47.29:066][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-13.47.29:066][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.07.13-13.47.29:066][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.07.13-13.47.29:066][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.07.13-13.47.29:066][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.07.13-13.47.29:066][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.07.13-13.47.29:083][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.13-13.47.29:083][799]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.47.29:180][799]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.47.29:269][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.07.13-13.47.29:294][799]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.13-13.47.29:860][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2020.07.13-13.47.29:860][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2020.07.13-13.47.29:860][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 69
+[2020.07.13-13.47.29:860][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2020.07.13-13.47.30:420][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2020.07.13-13.47.30:420][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2020.07.13-13.47.30:420][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 65
+[2020.07.13-13.47.30:420][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2020.07.13-13.47.30:420][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2020.07.13-13.47.30:420][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2020.07.13-13.47.30:980][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2020.07.13-13.47.30:980][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2020.07.13-13.47.30:980][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2020.07.13-13.47.30:980][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2020.07.13-13.47.30:980][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.07.13-13.47.30:980][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2020.07.13-13.47.31:540][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 55
+[2020.07.13-13.47.31:540][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2020.07.13-13.47.31:540][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 53
+[2020.07.13-13.47.31:540][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2020.07.13-13.47.31:540][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2020.07.13-13.47.32:101][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2020.07.13-13.47.32:101][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2020.07.13-13.47.32:101][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.07.13-13.47.32:101][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2020.07.13-13.47.32:662][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.07.13-13.47.32:662][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2020.07.13-13.47.32:662][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.07.13-13.47.32:662][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2020.07.13-13.47.33:223][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.07.13-13.47.33:223][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2020.07.13-13.47.33:223][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.07.13-13.47.33:223][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2020.07.13-13.47.33:223][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.07.13-13.47.33:324][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.07.13-13.47.33:324][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.47.33:328][799]TextureStreamingBuild: Display: Compiling optional shaders took 4.039 seconds.
+[2020.07.13-13.47.33:366][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.07.13-13.47.35:960][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.07.13-13.47.36:561][881]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.13-13.47.37:296][898]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-13.47.38:258][920]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.13-13.47.38:473][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.13-13.47.38:556][927]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.07.13-13.47.39:130][940]MaterialEditorStats: Base pass shader: 130 instructions
+[2020.07.13-13.47.39:130][940]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2020.07.13-13.47.39:130][940]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.13-13.47.39:130][940]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.07.13-13.47.39:130][940]MaterialEditorStats: Texture samplers: 8/16
+[2020.07.13-13.47.39:130][940]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2020.07.13-13.47.39:130][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.13-13.47.43:729][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.07.13-13.47.43:775][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/Clothing/Hairmat" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Hairmat.uasset" SILENT=true
+[2020.07.13-13.47.43:797][ 83]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/HairmatC13191E1423B8103927831A7ABC34D59.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Hairmat.uasset'
+[2020.07.13-13.47.43:808][ 83]AssetCheck: New page: Asset Save: Hairmat
+[2020.07.13-13.47.43:808][ 83]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/Clothing/Hairmat.Hairmat
+[2020.07.13-13.47.45:419][157]LogRenderer: Reallocating scene render targets to support 1208x864 Format 10 NumSamples 1 (Frame:1331).
+[2020.07.13-13.48.20:574][627]LogEditorTransaction: Undo Create Pin Link
+[2020.07.13-13.48.20:575][627]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.48.20:655][627]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.48.20:655][627]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.48.20:655][627]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.48.20:655][627]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.48.21:018][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.13-13.48.21:046][627]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2020.07.13-13.48.21:083][627]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2020.07.13-13.48.21:124][627]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2020.07.13-13.48.21:127][627]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.48.21:158][627]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.48.21:273][627]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 85
+[2020.07.13-13.48.21:375][631]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2020.07.13-13.48.21:437][633]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 83
+[2020.07.13-13.48.21:807][642]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2020.07.13-13.48.21:858][644]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 81
+[2020.07.13-13.48.21:972][649]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2020.07.13-13.48.21:995][650]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 79
+[2020.07.13-13.48.22:379][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2020.07.13-13.48.22:495][662]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2020.07.13-13.48.22:508][663]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2020.07.13-13.48.22:565][663]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2020.07.13-13.48.22:581][664]LogEditorTransaction: Undo Create Pin Link
+[2020.07.13-13.48.22:585][664]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.48.22:786][664]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.13-13.48.22:791][664]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2020.07.13-13.48.22:826][664]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2020.07.13-13.48.22:859][664]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.48.22:885][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2020.07.13-13.48.22:885][664]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2020.07.13-13.48.22:893][664]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.07.13-13.48.23:081][668]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 87
+[2020.07.13-13.48.23:161][671]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 86
+[2020.07.13-13.48.23:360][678]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 85
+[2020.07.13-13.48.23:574][682]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2020.07.13-13.48.23:747][687]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 83
+[2020.07.13-13.48.23:785][688]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.07.13-13.48.24:208][698]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 81
+[2020.07.13-13.48.24:244][699]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 80
+[2020.07.13-13.48.24:249][699]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 79
+[2020.07.13-13.48.24:561][707]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2020.07.13-13.48.24:679][710]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2020.07.13-13.48.24:972][717]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2020.07.13-13.48.25:006][718]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 75
+[2020.07.13-13.48.25:088][720]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 74
+[2020.07.13-13.48.25:226][724]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 73
+[2020.07.13-13.48.25:473][730]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.07.13-13.48.25:591][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2020.07.13-13.48.25:697][733]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2020.07.13-13.48.25:942][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 69
+[2020.07.13-13.48.25:983][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2020.07.13-13.48.26:143][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2020.07.13-13.48.26:337][753]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2020.07.13-13.48.26:364][754]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 65
+[2020.07.13-13.48.26:514][760]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2020.07.13-13.48.26:899][773]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 63
+[2020.07.13-13.48.26:985][776]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.48.27:023][776]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.48.27:083][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 66
+[2020.07.13-13.48.27:100][777]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 65
+[2020.07.13-13.48.27:460][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2020.07.13-13.48.27:670][792]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 63
+[2020.07.13-13.48.27:938][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2020.07.13-13.48.28:093][803]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2020.07.13-13.48.28:236][807]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2020.07.13-13.48.28:344][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2020.07.13-13.48.28:409][811]MaterialEditorStats: Base pass shader: 130 instructions
+[2020.07.13-13.48.28:409][811]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2020.07.13-13.48.28:409][811]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.13-13.48.28:409][811]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.07.13-13.48.28:409][811]MaterialEditorStats: Texture samplers: 7/16
+[2020.07.13-13.48.28:409][811]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2020.07.13-13.48.28:409][811]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.13-13.48.28:692][819]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2020.07.13-13.48.28:708][819]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2020.07.13-13.48.28:725][819]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.07.13-13.48.29:035][829]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2020.07.13-13.48.29:136][831]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2020.07.13-13.48.29:404][839]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 53
+[2020.07.13-13.48.29:416][840]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2020.07.13-13.48.29:552][846]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2020.07.13-13.48.29:622][849]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2020.07.13-13.48.29:782][855]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.48.29:815][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.07.13-13.48.29:906][857]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.07.13-13.48.30:022][860]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.07.13-13.48.30:161][864]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.07.13-13.48.30:391][870]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.07.13-13.48.30:425][871]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.07.13-13.48.30:670][877]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2020.07.13-13.48.30:862][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2020.07.13-13.48.30:899][883]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.07.13-13.48.31:072][886]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2020.07.13-13.48.31:444][896]LogMaterialEditor: Applying material Hairmat
+[2020.07.13-13.48.32:414][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.07.13-13.48.32:415][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.07.13-13.48.32:415][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.07.13-13.48.32:415][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2020.07.13-13.48.32:415][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.07.13-13.48.32:415][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.07.13-13.48.32:415][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.07.13-13.48.32:432][896]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.48.32:542][896]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2020.07.13-13.48.32:594][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2020.07.13-13.48.32:594][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.07.13-13.48.32:618][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.07.13-13.48.32:628][896]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.13-13.48.33:194][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.07.13-13.48.33:194][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2020.07.13-13.48.33:194][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2020.07.13-13.48.33:194][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2020.07.13-13.48.33:194][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2020.07.13-13.48.33:754][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 67
+[2020.07.13-13.48.33:754][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2020.07.13-13.48.33:754][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 65
+[2020.07.13-13.48.33:754][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2020.07.13-13.48.34:315][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2020.07.13-13.48.34:315][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.07.13-13.48.34:315][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2020.07.13-13.48.34:315][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2020.07.13-13.48.34:315][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 59
+[2020.07.13-13.48.34:876][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.07.13-13.48.34:876][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.07.13-13.48.34:876][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.07.13-13.48.34:876][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 55
+[2020.07.13-13.48.34:876][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2020.07.13-13.48.34:876][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2020.07.13-13.48.35:437][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2020.07.13-13.48.35:437][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2020.07.13-13.48.35:437][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2020.07.13-13.48.35:437][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.07.13-13.48.35:437][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.07.13-13.48.35:437][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2020.07.13-13.48.35:998][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.07.13-13.48.35:998][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2020.07.13-13.48.35:998][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2020.07.13-13.48.36:559][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2020.07.13-13.48.36:559][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.07.13-13.48.36:559][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2020.07.13-13.48.36:892][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2020.07.13-13.48.36:892][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.07.13-13.48.36:892][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.07.13-13.48.36:892][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.07.13-13.48.36:892][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.07.13-13.48.36:902][896]TextureStreamingBuild: Display: Compiling optional shaders took 4.278 seconds.
+[2020.07.13-13.48.36:929][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.07.13-13.48.37:022][896]MaterialEditorStats: Base pass shader: 130 instructions
+[2020.07.13-13.48.37:022][896]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2020.07.13-13.48.37:023][896]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.13-13.48.37:023][896]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.07.13-13.48.37:023][896]MaterialEditorStats: Texture samplers: 7/16
+[2020.07.13-13.48.37:023][896]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2020.07.13-13.48.37:023][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.13-13.48.39:493][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.07.13-13.48.40:085][968]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.13-13.48.40:840][986]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-13.48.42:020][ 15]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.48.42:239][ 21]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.13-13.48.42:274][ 22]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.07.13-13.48.42:911][ 39]MaterialEditorStats: Base pass shader: 130 instructions
+[2020.07.13-13.48.42:911][ 39]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2020.07.13-13.48.42:911][ 39]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.13-13.48.42:911][ 39]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.07.13-13.48.42:911][ 39]MaterialEditorStats: Texture samplers: 8/16
+[2020.07.13-13.48.42:911][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2020.07.13-13.48.42:911][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.13-13.48.44:819][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.07.13-13.48.44:858][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/Clothing/Hairmat" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Hairmat.uasset" SILENT=true
+[2020.07.13-13.48.44:873][127]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Hairmat6AD5E55E40C1FBADB00196A09269DF12.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Hairmat.uasset'
+[2020.07.13-13.48.44:885][127]AssetCheck: New page: Asset Save: Hairmat
+[2020.07.13-13.48.44:885][127]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/Clothing/Hairmat.Hairmat
+[2020.07.13-13.49.06:871][ 78]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MixamoClothing/Character-1/Clothing/Bottommat.Bottommat
+[2020.07.13-13.49.06:872][ 78]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.49.06:999][ 78]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.49.07:016][ 78]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.49.07:044][ 78]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.49.07:044][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.49.07:044][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.49.07:044][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.49.07:044][ 78]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.07.13-13.49.07:701][ 95]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.49.07:839][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.49.08:027][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-13.49.08:027][101]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.07.13-13.49.08:208][106]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.49.08:387][110]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-13.49.08:573][114]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.07.13-13.49.08:607][115]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.07.13-13.49.08:643][116]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.07.13-13.49.08:993][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.07.13-13.49.09:131][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-13.49.09:156][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.13-13.49.09:333][139]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.07.13-13.49.09:515][144]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-13.49.09:671][148]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.07.13-13.49.09:832][153]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.07.13-13.49.09:870][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.07.13-13.49.09:925][155]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.07.13-13.49.09:942][155]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.49.10:447][168]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.07.13-13.49.10:682][175]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2020.07.13-13.49.10:718][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.07.13-13.49.10:934][182]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.07.13-13.49.10:992][184]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.49.11:422][197]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.07.13-13.49.11:444][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.07.13-13.49.11:507][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.49.11:788][213]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.07.13-13.49.11:885][217]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.07.13-13.49.12:036][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.07.13-13.49.12:310][230]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.07.13-13.49.12:312][230]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.07.13-13.49.12:543][237]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.07.13-13.49.12:790][244]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.07.13-13.49.12:790][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.13-13.49.12:962][249]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.13-13.49.13:199][256]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.07.13-13.49.13:347][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.07.13-13.49.13:369][261]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.07.13-13.49.13:655][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.49.13:709][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.07.13-13.49.13:842][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.13-13.49.13:932][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.07.13-13.49.14:007][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-13.49.14:171][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.07.13-13.49.14:510][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-13.49.14:676][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.07.13-13.49.14:752][271]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.13-13.49.15:085][277]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.07.13-13.49.15:203][279]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.07.13-13.49.15:842][297]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.07.13-13.49.15:842][297]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.07.13-13.49.15:842][297]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.13-13.49.15:842][297]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2020.07.13-13.49.15:842][297]MaterialEditorStats: Texture samplers: 2/16
+[2020.07.13-13.49.24:691][714]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.49.24:708][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.49.24:717][714]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.07.13-13.49.24:718][714]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.07.13-13.49.24:718][714]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.07.13-13.49.24:718][714]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.07.13-13.49.24:722][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.49.24:736][714]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.49.24:756][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.49.24:769][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.49.24:774][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.49.24:793][714]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.49.24:815][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-13.49.24:831][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.49.24:836][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.49.24:842][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-13.49.24:859][714]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.49.24:884][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.13-13.49.24:904][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.49.24:909][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.49.24:915][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-13.49.24:921][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.13-13.49.24:947][714]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.49.24:976][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.07.13-13.49.25:000][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.49.25:007][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.49.25:013][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-13.49.25:018][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.13-13.49.25:024][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.07.13-13.49.25:084][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.07.13-13.49.25:237][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.07.13-13.49.25:420][723]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.07.13-13.49.25:451][724]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.07.13-13.49.25:879][736]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2020.07.13-13.49.25:912][737]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.07.13-13.49.25:942][738]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2020.07.13-13.49.26:222][745]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.07.13-13.49.26:336][749]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.07.13-13.49.26:628][757]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.07.13-13.49.26:661][758]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2020.07.13-13.49.26:753][761]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2020.07.13-13.49.26:845][764]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.07.13-13.49.27:144][772]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2020.07.13-13.49.27:256][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2020.07.13-13.49.27:393][779]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.07.13-13.49.27:577][784]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.07.13-13.49.27:611][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.07.13-13.49.27:866][792]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.07.13-13.49.27:971][795]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.07.13-13.49.28:039][797]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.07.13-13.49.28:203][802]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.07.13-13.49.28:575][813]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-13.49.28:716][819]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.07.13-13.49.28:790][822]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.07.13-13.49.29:160][832]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.07.13-13.49.29:263][835]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.07.13-13.49.29:529][843]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.07.13-13.49.29:665][848]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.07.13-13.49.29:753][852]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.07.13-13.49.29:915][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.07.13-13.49.30:014][862]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.07.13-13.49.30:301][873]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.07.13-13.49.30:399][877]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.07.13-13.49.30:440][879]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.07.13-13.49.30:526][883]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.07.13-13.49.30:981][901]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.07.13-13.49.30:981][901]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.13-13.49.31:068][905]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.07.13-13.49.31:068][905]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.07.13-13.49.31:621][922]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.13-13.49.31:644][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.13-13.49.31:665][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.07.13-13.49.31:685][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.07.13-13.49.32:211][946]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.13-13.49.32:233][947]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.13-13.49.32:273][949]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.13-13.49.37:765][258]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.07.13-13.49.37:765][258]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.07.13-13.49.37:765][258]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.13-13.49.37:765][258]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2020.07.13-13.49.37:765][258]MaterialEditorStats: Texture samplers: 2/16
+[2020.07.13-13.50.01:281][419]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.50.01:303][419]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.13-13.50.01:308][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.50.01:308][419]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.50.01:308][419]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.50.01:308][419]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.50.02:004][440]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.50.02:191][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.50.02:343][449]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.07.13-13.50.02:343][449]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.50.02:578][455]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.50.02:703][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-13.50.02:967][467]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.07.13-13.50.02:992][468]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.07.13-13.50.03:015][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.07.13-13.50.03:340][482]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.07.13-13.50.03:424][485]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-13.50.03:515][489]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.07.13-13.50.03:687][496]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.13-13.50.03:826][501]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-13.50.04:092][507]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.07.13-13.50.04:215][511]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.07.13-13.50.04:278][513]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.07.13-13.50.04:368][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.07.13-13.50.04:881][528]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.13-13.50.05:075][533]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.13-13.50.05:117][534]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.07.13-13.50.05:349][540]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.07.13-13.50.05:713][549]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-13.50.05:957][555]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.07.13-13.50.06:152][560]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.13-13.50.06:268][563]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.13-13.50.06:306][564]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.13-13.50.06:363][565]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.07.13-13.50.06:363][565]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.07.13-13.50.06:363][565]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.13-13.50.06:363][565]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.07.13-13.50.06:363][565]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.13-13.50.06:363][565]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.07.13-13.50.06:363][565]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.13-13.50.06:966][588]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.50.06:986][588]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.50.06:986][588]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.50.06:986][588]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.50.06:986][588]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.50.06:987][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-13.50.07:513][603]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.50.07:680][608]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.50.07:818][612]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-13.50.07:825][612]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.07.13-13.50.08:100][620]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.50.08:212][623]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-13.50.08:514][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.07.13-13.50.08:545][632]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.07.13-13.50.08:573][633]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.07.13-13.50.08:961][643]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.07.13-13.50.09:068][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-13.50.09:177][649]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.13-13.50.09:367][654]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.07.13-13.50.09:444][656]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-13.50.09:721][663]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.07.13-13.50.09:829][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.07.13-13.50.09:891][668]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.07.13-13.50.09:993][671]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.07.13-13.50.10:434][681]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.13-13.50.10:620][688]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.13-13.50.10:714][690]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.13-13.50.10:922][699]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.13-13.50.11:154][708]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-13.50.11:215][710]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.50.11:251][710]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-13.50.11:322][712]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.07.13-13.50.11:674][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.07.13-13.50.11:745][723]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.07.13-13.50.11:781][724]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.07.13-13.50.11:880][727]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.07.13-13.50.12:408][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.07.13-13.50.12:414][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.07.13-13.50.12:481][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.07.13-13.50.12:707][748]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.50.12:834][751]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.50.13:017][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-13.50.13:197][761]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.07.13-13.50.13:250][763]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.50.13:383][768]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.07.13-13.50.13:641][778]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.07.13-13.50.13:665][779]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.07.13-13.50.13:776][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.07.13-13.50.13:994][793]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.07.13-13.50.14:094][797]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.07.13-13.50.14:206][802]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.07.13-13.50.14:461][809]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.07.13-13.50.14:509][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.07.13-13.50.14:769][817]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.07.13-13.50.14:885][820]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.07.13-13.50.14:925][821]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.07.13-13.50.15:148][827]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.07.13-13.50.15:479][835]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.13-13.50.15:706][841]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.13-13.50.15:783][843]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.13-13.50.16:088][850]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.07.13-13.50.16:259][855]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.07.13-13.50.16:394][860]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.07.13-13.50.16:658][869]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.13-13.50.16:782][874]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.13-13.50.16:896][879]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.07.13-13.50.19:438][ 36]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.50.19:462][ 36]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.07.13-13.50.19:467][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.50.19:467][ 36]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.50.19:467][ 36]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.50.19:467][ 36]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.50.19:937][ 49]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.50.20:111][ 54]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.50.20:256][ 58]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.07.13-13.50.20:289][ 59]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.50.20:503][ 64]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-13.50.20:642][ 67]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-13.50.20:882][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.07.13-13.50.20:908][ 76]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.07.13-13.50.20:935][ 77]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.07.13-13.50.21:296][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.07.13-13.50.21:375][ 92]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-13.50.21:428][ 95]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.07.13-13.50.21:647][104]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.13-13.50.21:724][107]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-13.50.21:823][111]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.50.21:851][111]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.50.21:968][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.07.13-13.50.22:161][117]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.07.13-13.50.22:161][117]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.07.13-13.50.22:272][121]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.07.13-13.50.22:616][128]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.07.13-13.50.22:812][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.07.13-13.50.22:842][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.07.13-13.50.22:842][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.07.13-13.50.23:400][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-13.50.23:494][149]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.07.13-13.50.23:637][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-13.50.23:718][155]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.07.13-13.50.24:011][162]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.07.13-13.50.24:265][167]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-13.50.24:470][173]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.07.13-13.50.24:506][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.07.13-13.50.24:541][175]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.07.13-13.50.24:596][176]LogMaterialEditor: Applying material Bottommat
+[2020.07.13-13.50.25:561][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.07.13-13.50.25:561][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-13.50.25:561][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.07.13-13.50.25:561][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.13-13.50.25:561][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-13.50.25:579][176]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.50.25:645][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.13-13.50.25:692][176]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2020.07.13-13.50.25:744][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.07.13-13.50.25:771][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.07.13-13.50.25:784][176]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.13-13.50.26:351][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2020.07.13-13.50.26:351][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 69
+[2020.07.13-13.50.26:351][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2020.07.13-13.50.26:351][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 67
+[2020.07.13-13.50.26:351][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2020.07.13-13.50.26:351][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2020.07.13-13.50.26:912][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2020.07.13-13.50.26:912][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2020.07.13-13.50.26:912][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.07.13-13.50.26:912][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 61
+[2020.07.13-13.50.27:473][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2020.07.13-13.50.27:473][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2020.07.13-13.50.27:473][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.07.13-13.50.27:473][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.07.13-13.50.27:473][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2020.07.13-13.50.28:034][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2020.07.13-13.50.28:034][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2020.07.13-13.50.28:034][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2020.07.13-13.50.28:034][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2020.07.13-13.50.28:034][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2020.07.13-13.50.28:596][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2020.07.13-13.50.28:596][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 49
+[2020.07.13-13.50.28:596][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2020.07.13-13.50.28:596][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.07.13-13.50.29:157][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.07.13-13.50.29:157][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.07.13-13.50.29:157][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2020.07.13-13.50.29:157][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2020.07.13-13.50.29:716][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2020.07.13-13.50.29:716][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2020.07.13-13.50.29:716][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2020.07.13-13.50.29:716][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.07.13-13.50.29:716][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.07.13-13.50.29:716][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.07.13-13.50.29:772][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.13-13.50.29:776][176]TextureStreamingBuild: Display: Compiling optional shaders took 3.997 seconds.
+[2020.07.13-13.50.29:798][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.07.13-13.50.32:314][235]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.50.32:884][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.07.13-13.50.33:471][261]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.07.13-13.50.34:481][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.13-13.50.34:696][289]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.07.13-13.50.34:738][290]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.13-13.50.35:361][304]MaterialEditorStats: Base pass shader: 130 instructions
+[2020.07.13-13.50.35:361][304]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2020.07.13-13.50.35:361][304]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.13-13.50.35:361][304]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.07.13-13.50.35:361][304]MaterialEditorStats: Texture samplers: 8/16
+[2020.07.13-13.50.35:361][304]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2020.07.13-13.50.35:361][304]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.13-13.50.40:111][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.13-13.50.40:153][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/Clothing/Bottommat" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Bottommat.uasset" SILENT=true
+[2020.07.13-13.50.40:176][452]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Bottommat8AC342C047A966B60E3CB78FBDFB412A.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Bottommat.uasset'
+[2020.07.13-13.50.40:187][452]AssetCheck: New page: Asset Save: Bottommat
+[2020.07.13-13.50.40:187][452]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/Clothing/Bottommat.Bottommat
+[2020.07.13-13.53.12:857][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.13-13.53.12:997][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FirstPersonExampleMap2A9562044DDB916514F8CDA38C483BC0.tmp' to '../../../../../../artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.13-13.53.14:048][998]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FirstPersonExampleMap_BuiltData46F64FD84F8AF8F97C5E06B81C4F8319.tmp' to '../../../../../../artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.13-13.53.14:084][998]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.53.14:085][998]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.13-13.53.14:085][998]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.13-13.53.26:904][331]LogSlate: Window 'Message' being destroyed
+[2020.07.13-13.53.26:908][331]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/MixamoClothing/Character-1/Clothing/Topmat.Topmat
+(Selecting 'No' will cause all changes to be lost!)
+[2020.07.13-13.53.27:493][331]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2020.07.13-13.53.27:552][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.53.27:552][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-13.53.27:552][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-13.53.27:552][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-13.53.27:563][331]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2020.07.13-13.53.27:640][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.07.13-13.53.27:647][331]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.13-13.53.28:213][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2020.07.13-13.53.28:213][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2020.07.13-13.53.28:773][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.07.13-13.53.28:773][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2020.07.13-13.53.28:773][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2020.07.13-13.53.28:773][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 59
+[2020.07.13-13.53.28:773][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.07.13-13.53.28:773][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2020.07.13-13.53.29:334][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2020.07.13-13.53.29:334][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 55
+[2020.07.13-13.53.29:334][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2020.07.13-13.53.29:334][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2020.07.13-13.53.29:334][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.07.13-13.53.29:896][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2020.07.13-13.53.29:896][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2020.07.13-13.53.29:896][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.07.13-13.53.29:896][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.07.13-13.53.29:896][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.07.13-13.53.30:457][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.07.13-13.53.30:457][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.07.13-13.53.30:457][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2020.07.13-13.53.30:457][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2020.07.13-13.53.31:018][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2020.07.13-13.53.31:018][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2020.07.13-13.53.31:018][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2020.07.13-13.53.31:018][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.07.13-13.53.31:238][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.07.13-13.53.31:239][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.07.13-13.53.31:239][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.07.13-13.53.31:243][331]TextureStreamingBuild: Display: Compiling optional shaders took 3.599 seconds.
+[2020.07.13-13.53.31:269][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.07.13-13.53.33:226][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.07.13-13.53.33:731][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.13-13.53.34:193][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.07.13-13.53.34:417][331]LogSlate: Window 'Message' being destroyed
+[2020.07.13-13.53.34:423][331]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/MixamoClothing/Character-1/Clothing/Shoesmat.Shoesmat
+(Selecting 'No' will cause all changes to be lost!)
+[2020.07.13-13.53.35:350][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.53.35:350][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.13-13.53.35:350][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.13-13.53.35:366][331]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2020.07.13-13.53.35:461][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-13.53.35:479][331]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2020.07.13-13.53.35:548][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2020.07.13-13.53.35:548][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.07.13-13.53.35:557][331]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.13-13.53.36:123][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2020.07.13-13.53.36:123][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 65
+[2020.07.13-13.53.36:123][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2020.07.13-13.53.36:123][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 63
+[2020.07.13-13.53.36:123][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2020.07.13-13.53.36:684][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2020.07.13-13.53.36:684][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2020.07.13-13.53.36:684][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 59
+[2020.07.13-13.53.36:684][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2020.07.13-13.53.36:684][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.07.13-13.53.36:684][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2020.07.13-13.53.37:245][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2020.07.13-13.53.37:245][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2020.07.13-13.53.37:245][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2020.07.13-13.53.37:245][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2020.07.13-13.53.37:806][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.07.13-13.53.37:806][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2020.07.13-13.53.37:806][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.07.13-13.53.37:806][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.07.13-13.53.37:806][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.07.13-13.53.38:367][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.07.13-13.53.38:367][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.07.13-13.53.38:367][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2020.07.13-13.53.38:367][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2020.07.13-13.53.38:927][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2020.07.13-13.53.38:927][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2020.07.13-13.53.39:270][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2020.07.13-13.53.39:270][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.07.13-13.53.39:270][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.07.13-13.53.39:270][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.07.13-13.53.39:270][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.13-13.53.39:277][331]TextureStreamingBuild: Display: Compiling optional shaders took 3.727 seconds.
+[2020.07.13-13.53.39:300][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.07.13-13.53.39:393][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.07.13-13.53.41:364][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.53.41:723][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.13-13.53.42:235][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.13-13.53.42:271][331]LogSlate: Window 'Save Content' being destroyed
+[2020.07.13-13.53.43:434][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.13-13.53.43:434][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.13-13.53.43:434][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.13-13.53.43:712][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/Clothing/Shoesmat" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Shoesmat.uasset" SILENT=true
+[2020.07.13-13.53.43:736][331]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/ShoesmatFD373C144B1C0145F6B64D9FF59A9B23.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Shoesmat.uasset'
+[2020.07.13-13.53.43:767][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/Clothing/Topmat" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Topmat.uasset" SILENT=true
+[2020.07.13-13.53.43:792][331]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Topmat066BA28D4FEE28112E8FAE8AB0A19D28.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Clothing/Topmat.uasset'
+[2020.07.13-13.53.43:878][331]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.53.43:878][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-13.53.43:933][331]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.53.43:933][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-13.53.43:982][331]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.53.43:982][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-13.53.44:184][331]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.53.44:184][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-13.53.44:189][331]LogSlate: Window 'Topmat' being destroyed
+[2020.07.13-13.53.44:229][331]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.53.44:229][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-13.53.44:324][331]LogSlate: Window 'Message Log' being destroyed
+[2020.07.13-13.53.44:328][331]LogSlate: Window 'MafiaGame - Unreal Editor' being destroyed
+[2020.07.13-13.53.44:328][331]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-13.53.44:531][331]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.53.44:531][331]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/Clothing/Shoesmat.Shoesmat
+[2020.07.13-13.53.44:531][331]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/Clothing/Topmat.Topmat
+[2020.07.13-13.53.44:539][332]Cmd: QUIT_EDITOR
+[2020.07.13-13.53.44:539][332]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.07.13-13.53.44:551][332]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.07.13-13.53.44:658][332]LogExit: Preparing to exit.
+[2020.07.13-13.53.44:972][332]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.53.44:974][332]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.53.44:975][332]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.53.44:976][332]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.53.45:003][332]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.07.13-13.53.45:030][332]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.53.45:031][332]LogExit: Editor shut down
+[2020.07.13-13.53.45:032][332]LogExit: Transaction tracking system shut down
+[2020.07.13-13.53.45:282][332]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001F9C79A0340), frame # 152332
+[2020.07.13-13.53.45:282][332]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F9C78C2AC0), frame # 152332
+[2020.07.13-13.53.45:282][332]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F9C791DE00), frame # 152332
+[2020.07.13-13.53.45:357][332]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F9BDF6BE00), frame # 152332
+[2020.07.13-13.53.45:357][332]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F9BE1351C0), frame # 152332
+[2020.07.13-13.53.45:511][332]LogExit: Object subsystem successfully closed.
+[2020.07.13-13.53.45:553][332]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.07.13-13.53.45:572][332]LogModuleManager: Shutting down and abandoning module BlueprintGraph (798)
+[2020.07.13-13.53.45:572][332]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (796)
+[2020.07.13-13.53.45:572][332]LogModuleManager: Shutting down and abandoning module PinnedCommandList (794)
+[2020.07.13-13.53.45:572][332]LogModuleManager: Shutting down and abandoning module SkeletonEditor (792)
+[2020.07.13-13.53.45:595][332]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.07.13-13.53.45:595][332]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.07.13-13.53.45:595][332]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.07.13-13.53.45:598][332]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.07.13-13.53.45:598][332]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.07.13-13.53.45:598][332]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.07.13-13.53.45:598][332]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.07.13-13.53.45:598][332]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.07.13-13.53.45:598][332]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.07.13-13.53.45:598][332]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.07.13-13.53.45:598][332]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.07.13-13.53.45:599][332]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.07.13-13.53.45:600][332]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.07.13-13.53.45:601][332]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.07.13-13.53.46:315][332]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.07.13-13.53.46:316][332]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.07.13-13.53.46:316][332]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.07.13-13.53.46:316][332]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.07.13-13.53.46:316][332]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.07.13-13.53.46:316][332]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.07.13-13.53.46:316][332]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.07.13-13.53.46:316][332]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.07.13-13.53.46:348][332]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.07.13-13.53.46:357][332]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.07.13-13.53.46:357][332]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.07.13-13.53.46:358][332]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.07.13-13.53.46:358][332]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.07.13-13.53.46:358][332]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.07.13-13.53.46:358][332]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.07.13-13.53.46:358][332]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.07.13-13.53.46:362][332]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.07.13-13.53.46:559][332]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.07.13-13.53.46:560][332]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.07.13-13.53.46:561][332]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.07.13-13.53.46:562][332]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.07.13-13.53.46:663][332]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.07.13-13.53.46:764][332]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.07.13-13.53.46:764][332]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.07.13-13.53.46:764][332]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.07.13-13.53.46:765][332]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.07.13-13.53.46:766][332]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.07.13-13.53.46:767][332]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.07.13-13.53.46:767][332]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.07.13-13.53.46:768][332]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.07.13-13.53.46:768][332]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.07.13-13.53.46:768][332]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.07.13-13.53.46:768][332]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.07.13-13.53.46:768][332]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.07.13-13.53.46:768][332]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.07.13-13.53.46:768][332]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.07.13-13.53.46:769][332]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.07.13-13.53.46:773][332]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.07.13-13.53.46:776][332]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.07.13-13.53.46:777][332]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.07.13-13.53.46:793][332]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.07.13-13.53.46:801][332]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.07.13-13.53.46:801][332]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.07.13-13.53.46:801][332]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.07.13-13.53.46:801][332]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.07.13-13.53.46:801][332]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.07.13-13.53.46:801][332]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.07.13-13.53.46:801][332]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.07.13-13.53.46:801][332]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.07.13-13.53.46:801][332]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.07.13-13.53.46:807][332]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.07.13-13.53.46:836][332]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.07.13-13.53.46:836][332]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.07.13-13.53.46:836][332]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.07.13-13.53.46:836][332]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.07.13-13.53.46:837][332]LogHMD: Freeing OpenVRDLLHandle.
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.07.13-13.53.46:837][332]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.07.13-13.53.46:839][332]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.07.13-13.53.46:839][332]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.07.13-13.53.46:868][332]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.07.13-13.53.46:868][332]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.07.13-13.53.46:868][332]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD23F8E87-4EFB-B4C5-0635-D78270D1E85E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=525e731847a8a0e4437c778c48475d65%7Ce85c1e6f328d479b8eaefacf25622ffb%7C5f66fcbe-e8b6-4f33-988b-0141c2277b4c&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.07.13-13.53.46:875][332]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.07.13-13.53.46:877][332]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.07.13-13.53.46:878][332]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.07.13-13.53.46:880][332]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.07.13-13.53.46:881][332]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.07.13-13.53.46:881][332]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.07.13-13.53.46:881][332]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.07.13-13.53.46:881][332]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.07.13-13.53.46:882][332]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.07.13-13.53.46:882][332]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.07.13-13.53.46:882][332]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.07.13-13.53.46:883][332]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.07.13-13.53.46:883][332]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.07.13-13.53.46:883][332]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.07.13-13.53.46:883][332]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.07.13-13.53.46:883][332]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.07.13-13.53.46:883][332]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.07.13-13.53.46:883][332]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.07.13-13.53.46:883][332]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.07.13-13.53.46:883][332]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.07.13-13.53.46:883][332]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.07.13-13.53.47:262][332]LogD3D11RHI: Shutdown
+[2020.07.13-13.53.47:263][332]LogD3D11RHI: CleanupD3DDevice
+[2020.07.13-13.53.47:316][332]LogExit: Exiting.
+[2020.07.13-13.53.47:349][332]Log file closed, 07/13/20 16:53:47
