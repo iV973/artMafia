@@ -1,8 +1,8 @@
-﻿Log file open, 07/13/20 14:50:23
+﻿Log file open, 07/13/20 14:56:45
 LogInit: Display: Running engine for game: MafiaGame
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.619823
+LogStats: Stats thread started at 0.616703
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -194,890 +194,803 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
-[2020.07.13-11.50.23:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2020.07.13-11.50.23:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.07.13-11.50.23:957][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
-[2020.07.13-11.50.23:957][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
-[2020.07.13-11.50.23:961][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.07.13-11.50.23:961][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
-[2020.07.13-11.50.23:962][  0]LogInit: Selected Device Profile: [Windows]
-[2020.07.13-11.50.23:962][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.07.13-11.50.23:962][  0]LogHAL: Display: Platform has ~ 14 GB [14961037312 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.07.13-11.50.23:962][  0]LogInit: Going up to parent DeviceProfile []
-[2020.07.13-11.50.23:962][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.07.13-11.50.23:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
-[2020.07.13-11.50.23:963][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.07.13-11.50.23:964][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.07.13-11.50.23:964][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.07.13-11.50.23:964][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2020.07.13-11.50.23:964][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
-[2020.07.13-11.50.23:964][  0]LogInit: Computer: DESKTOP-NVG105D
-[2020.07.13-11.50.23:964][  0]LogInit: User: vikto
-[2020.07.13-11.50.23:964][  0]LogInit: CPU Page size=4096, Cores=4
-[2020.07.13-11.50.23:964][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.07.13-11.50.23:964][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
-[2020.07.13-11.50.23:964][  0]LogMemory: Platform Memory Stats for Windows
-[2020.07.13-11.50.23:964][  0]LogMemory: Process Physical Memory: 115.46 MB used, 115.46 MB peak
-[2020.07.13-11.50.23:964][  0]LogMemory: Process Virtual Memory: 96.38 MB used, 96.38 MB peak
-[2020.07.13-11.50.23:964][  0]LogMemory: Physical Memory: 5224.35 MB used,  9043.61 MB free, 14267.96 MB total
-[2020.07.13-11.50.23:964][  0]LogMemory: Virtual Memory: 5146.57 MB used,  134212584.00 MB free, 134217728.00 MB total
-[2020.07.13-11.50.23:971][  0]LogWindows: WindowsPlatformFeatures enabled
-[2020.07.13-11.50.24:014][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2020.07.13-11.50.24:015][  0]LogInit: Using OS detected language (uk-UA).
-[2020.07.13-11.50.24:015][  0]LogInit: Using OS detected locale (uk-UA).
-[2020.07.13-11.50.24:017][  0]LogTextLocalizationManager: No localization for 'uk-UA' exists, so 'en' will be used for the language.
-[2020.07.13-11.50.24:245][  0]LogInit: Setting process to per monitor DPI aware
-[2020.07.13-11.50.24:281][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.07.13-11.50.24:281][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.07.13-11.50.24:439][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.07.13-11.50.24:439][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2020.07.13-11.50.24:439][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2020.07.13-11.50.24:439][  0]LogD3D11RHI: D3D11 adapters:
-[2020.07.13-11.50.24:529][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
-[2020.07.13-11.50.24:529][  0]LogD3D11RHI:       4018/0/7133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2020.07.13-11.50.24:553][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) RX Vega 11 Graphics' (Feature Level 11_0)
-[2020.07.13-11.50.24:553][  0]LogD3D11RHI:       2032/0/7133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
-[2020.07.13-11.50.24:555][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.07.13-11.50.24:555][  0]LogD3D11RHI:       0/0/7133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.07.13-11.50.24:555][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.07.13-11.50.24:574][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.07.13-11.50.24:574][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
-[2020.07.13-11.50.24:574][  0]LogWindows: EnumDisplayDevices:
-[2020.07.13-11.50.24:575][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:1 D:1)
-[2020.07.13-11.50.24:575][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
-[2020.07.13-11.50.24:575][  0]LogWindows:    2. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
-[2020.07.13-11.50.24:576][  0]LogWindows:    3. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
-[2020.07.13-11.50.24:576][  0]LogWindows:    4. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
-[2020.07.13-11.50.24:576][  0]LogWindows:    5. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
-[2020.07.13-11.50.24:577][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2020.07.13-11.50.24:577][  0]LogWindows:    7. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2020.07.13-11.50.24:577][  0]LogWindows:    8. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2020.07.13-11.50.24:577][  0]LogWindows:    9. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2020.07.13-11.50.24:577][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2020.07.13-11.50.24:577][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
-[2020.07.13-11.50.24:577][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
-[2020.07.13-11.50.24:577][  0]LogD3D11RHI:      Driver Date: 4-3-2020
-[2020.07.13-11.50.24:577][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
-[2020.07.13-11.50.24:641][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2020.07.13-11.50.24:643][  0]LogD3D11RHI: [Aftermath] Enabled and primed
-[2020.07.13-11.50.24:643][  0]LogD3D11RHI: Async texture creation enabled
-[2020.07.13-11.50.24:643][  0]LogD3D11RHI: Array index from any shader is supported
-[2020.07.13-11.50.24:663][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2020.07.13-11.50.24:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2020.07.13-11.50.25:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2020.07.13-11.50.25:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2020.07.13-11.50.25:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2020.07.13-11.50.25:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2020.07.13-11.50.25:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2020.07.13-11.50.25:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2020.07.13-11.50.25:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2020.07.13-11.50.25:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2020.07.13-11.50.25:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2020.07.13-11.50.25:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2020.07.13-11.50.25:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2020.07.13-11.50.25:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2020.07.13-11.50.25:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2020.07.13-11.50.25:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2020.07.13-11.50.25:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2020.07.13-11.50.25:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2020.07.13-11.50.25:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2020.07.13-11.50.25:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2020.07.13-11.50.25:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2020.07.13-11.50.25:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2020.07.13-11.50.25:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2020.07.13-11.50.25:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2020.07.13-11.50.25:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2020.07.13-11.50.25:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2020.07.13-11.50.25:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2020.07.13-11.50.25:210][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2020.07.13-11.50.25:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2020.07.13-11.50.25:221][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.07.13-11.50.25:234][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.07.13-11.50.25:326][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../../artMafia/MafiaGame/Intermediate/Shaders/WorkingDirectory/14560/).
-[2020.07.13-11.50.25:326][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vikto/AppData/Local/Temp/UnrealShaderWorkingDir/6FD45D0940E4AFF20C2FFD936B9BABB9/'.
-[2020.07.13-11.50.25:327][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.07.13-11.50.25:327][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.07.13-11.50.25:327][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.07.13-11.50.26:090][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.07.13-11.50.26:144][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/vikto/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
-[2020.07.13-11.50.26:144][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vikto/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
-[2020.07.13-11.50.26:144][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../artMafia/MafiaGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.07.13-11.50.26:144][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.07.13-11.50.26:144][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../artMafia/MafiaGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.07.13-11.50.26:144][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.07.13-11.50.26:155][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.07.13-11.50.26:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.07.13-11.50.26:155][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2020.07.13-11.50.26:156][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.07.13-11.50.26:156][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.07.13-11.50.26:156][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.07.13-11.50.26:216][  0]LogSlate: Using FreeType 2.10.0
-[2020.07.13-11.50.26:216][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.07.13-11.50.26:244][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
-[2020.07.13-11.50.26:486][  0]LogInit: Selected Device Profile: [Windows]
-[2020.07.13-11.50.26:608][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.07.13-11.50.26:608][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.07.13-11.50.26:608][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.07.13-11.50.26:608][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.07.13-11.50.26:608][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.07.13-11.50.26:625][  0]LogNetVersion: MafiaGame 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1002246912)
-[2020.07.13-11.50.27:058][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001719C1B0340), frame # 0
-[2020.07.13-11.50.27:058][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001719C0DAAC0), frame # 0
-[2020.07.13-11.50.27:059][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001719C135E00), frame # 0
-[2020.07.13-11.50.27:116][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.050202 seconds
-[2020.07.13-11.50.27:121][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
-[2020.07.13-11.50.27:121][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
-[2020.07.13-11.50.27:121][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.07.13-11.50.27:565][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.07.13-11.50.27:571][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.07.13-11.50.27:689][  0]SourceControl: Source control is disabled
-[2020.07.13-11.50.27:689][  0]SourceControl: Source control is disabled
-[2020.07.13-11.50.27:694][  0]SourceControl: Source control is disabled
-[2020.07.13-11.50.27:699][  0]SourceControl: Source control is disabled
-[2020.07.13-11.50.27:709][  0]SourceControl: Source control is disabled
-[2020.07.13-11.50.27:728][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.07.13-11.50.27:729][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.07.13-11.50.28:046][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.07.13-11.50.28:077][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2020.07.13-11.50.28:077][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2020.07.13-11.50.28:140][  0]LogOcInput: OculusInput pre-init called
-[2020.07.13-11.50.28:154][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2020.07.13-11.50.28:154][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2020.07.13-11.50.28:230][  0]LogEngine: Initializing Engine...
-[2020.07.13-11.50.28:232][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.07.13-11.50.28:232][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2020.07.13-11.50.28:232][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2020.07.13-11.50.28:344][  0]LogInit: Initializing FReadOnlyCVARCache
-[2020.07.13-11.50.28:353][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.07.13-11.50.28:353][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001719F5E3C00), frame # 0
-[2020.07.13-11.50.28:353][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001719F66B240), frame # 0
-[2020.07.13-11.50.28:367][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2020.07.13-11.50.28:367][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2020.07.13-11.50.28:367][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2020.07.13-11.50.28:367][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2020.07.13-11.50.28:367][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2020.07.13-11.50.28:367][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2020.07.13-11.50.28:367][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2020.07.13-11.50.28:367][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2020.07.13-11.50.28:367][  0]LogAudio: Display: Using built-in audio occlusion.
-[2020.07.13-11.50.28:367][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2020.07.13-11.50.28:386][  0]LogAudioMixer: Display: 0: FrontLeft
-[2020.07.13-11.50.28:386][  0]LogAudioMixer: Display: 1: FrontRight
-[2020.07.13-11.50.28:460][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
-[2020.07.13-11.50.28:463][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2020.07.13-11.50.28:465][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2020.07.13-11.50.28:466][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2020.07.13-11.50.28:466][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2020.07.13-11.50.28:468][  0]LogInit: FAudioDevice initialized.
-[2020.07.13-11.50.28:468][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.07.13-11.50.28:588][  0]LogDerivedDataCache: Saved boot cache 0.12s 75MB C:/Users/vikto/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
-[2020.07.13-11.50.28:597][  0]LogInit: Texture streaming: Enabled
-[2020.07.13-11.50.28:618][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.07.13-11.50.28:618][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2020.07.13-11.50.28:620][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2020.07.13-11.50.28:683][  0]LogInit: Transaction tracking system initialized
-[2020.07.13-11.50.28:713][  0]BlueprintLog: New page: Editor Load
-[2020.07.13-11.50.28:811][  0]LocalizationService: Localization service is disabled
-[2020.07.13-11.50.28:922][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.07.13-11.50.28:923][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.07.13-11.50.28:994][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.07.13-11.50.28:994][  0]LogCook: Display: Mobile HDR setting 1
-[2020.07.13-11.50.29:103][  0]LogFileCache: Scanning file cache for directory 'E:/artMafia/MafiaGame/Content/' took 0.00s
-[2020.07.13-11.50.29:370][  0]SourceControl: Source control is disabled
-[2020.07.13-11.50.29:370][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.450
-[2020.07.13-11.50.29:370][  0]Cmd: MAP LOAD FILE="../../../../../../artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.07.13-11.50.29:370][  0]LightingResults: New page: Lighting Build
-[2020.07.13-11.50.29:371][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2020.07.13-11.50.29:371][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.07.13-11.50.29:371][  0]MapCheck: New page: Map Check
-[2020.07.13-11.50.29:371][  0]LightingResults: New page: Lighting Build
-[2020.07.13-11.50.29:380][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001719F5E3C00), frame # 0
-[2020.07.13-11.50.29:380][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001719F66B240), frame # 0
-[2020.07.13-11.50.29:381][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
-[2020.07.13-11.50.29:670][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2020.07.13-11.50.29:670][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001718E217E00), frame # 0
-[2020.07.13-11.50.29:670][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001718E431080), frame # 0
-[2020.07.13-11.50.29:689][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.07.13-11.50.29:702][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
-[2020.07.13-11.50.29:703][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.07.13-11.50.29:703][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,139ms to complete.
-[2020.07.13-11.50.29:703][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.333
-[2020.07.13-11.50.29:705][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.785
-[2020.07.13-11.50.29:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.07.13-11.50.29:839][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.07.13-11.50.29:846][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.07.13-11.50.29:855][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.07.13-11.50.29:863][  0]LogCollectionManager: Loaded 0 collections in 0.000996 seconds
-[2020.07.13-11.50.29:878][  0]LogFileCache: Scanning file cache for directory 'E:/artMafia/MafiaGame/Saved/Collections/' took 0.00s
-[2020.07.13-11.50.29:878][  0]LogFileCache: Scanning file cache for directory 'E:/artMafia/MafiaGame/Content/Developers/vikto/Collections/' took 0.00s
-[2020.07.13-11.50.29:878][  0]LogFileCache: Scanning file cache for directory 'E:/artMafia/MafiaGame/Content/Collections/' took 0.00s
-[2020.07.13-11.50.29:878][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 3427 classes and 821 folders.
-[2020.07.13-11.50.29:881][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2020.07.13-11.50.29:930][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2020.07.13-11.50.29:931][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
-[2020.07.13-11.50.30:023][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.07.13-11.50.30:025][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.07.13-11.50.30:028][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.07.13-11.50.30:092][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
-[2020.07.13-11.50.30:256][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2020.07.13-11.50.30:256][  0]LogLoad: (Engine Initialization) Total time: 8.34 seconds
-[2020.07.13-11.50.30:256][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.07.13-11.50.30:300][  0]LogAssetRegistry: Asset discovery search completed in 4.0572 seconds
-[2020.07.13-11.50.30:304][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
-[2020.07.13-11.50.30:306][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.07.13-11.50.30:340][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.07.13-11.50.35:607][497]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
-[2020.07.13-11.50.42:829][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
-[2020.07.13-11.50.42:915][159]LogSlate: Window '' being destroyed
-[2020.07.13-11.50.42:917][159]LogSlate: Window 'MafiaGame - Unreal Editor' being destroyed
-[2020.07.13-11.50.42:917][159]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2020.07.13-11.50.43:191][160]Cmd: QUIT_EDITOR
-[2020.07.13-11.50.43:191][160]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
-[2020.07.13-11.50.43:200][160]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
-[2020.07.13-11.50.43:283][160]LogExit: Preparing to exit.
-[2020.07.13-11.50.43:786][160]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
-[2020.07.13-11.50.43:786][160]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
-[2020.07.13-11.50.43:798][160]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
-[2020.07.13-11.50.43:801][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
-[2020.07.13-11.50.43:801][160]LogExit: Editor shut down
-[2020.07.13-11.50.43:801][160]LogExit: Transaction tracking system shut down
-[2020.07.13-11.50.43:961][160]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001718E217E00), frame # 1160
-[2020.07.13-11.50.43:961][160]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001718E431080), frame # 1160
-[2020.07.13-11.50.43:964][160]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001719C1B0340), frame # 1160
-[2020.07.13-11.50.43:964][160]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001719C0DAAC0), frame # 1160
-[2020.07.13-11.50.43:964][160]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001719C135E00), frame # 1160
-[2020.07.13-11.50.43:990][160]LogExit: Object subsystem successfully closed.
-[2020.07.13-11.50.44:017][160]LogShaderCompilers: Display: Shaders left to compile 0
-[2020.07.13-11.50.44:028][160]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
-[2020.07.13-11.50.44:028][160]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
-[2020.07.13-11.50.44:028][160]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module OculusMR (756)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
-[2020.07.13-11.50.44:029][160]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module BspMode (700)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module SessionServices (690)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
-[2020.07.13-11.50.44:030][160]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
-[2020.07.13-11.50.44:901][160]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
-[2020.07.13-11.50.44:901][160]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module TraceServices (655)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module MergeActors (646)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module XmlParser (634)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module Blutility (632)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
-[2020.07.13-11.50.44:902][160]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module AutomationController (612)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module Layers (608)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module Persona (598)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
-[2020.07.13-11.50.44:935][160]LogModuleManager: Shutting down and abandoning module Kismet (592)
-[2020.07.13-11.50.44:936][160]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
-[2020.07.13-11.50.44:936][160]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
-[2020.07.13-11.50.44:936][160]LogModuleManager: Shutting down and abandoning module StructViewer (586)
-[2020.07.13-11.50.44:936][160]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
-[2020.07.13-11.50.44:936][160]LogModuleManager: Shutting down and abandoning module Toolbox (582)
-[2020.07.13-11.50.44:936][160]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
-[2020.07.13-11.50.44:936][160]LogModuleManager: Shutting down and abandoning module OutputLog (578)
-[2020.07.13-11.50.44:936][160]LogModuleManager: Shutting down and abandoning module GammaUI (576)
-[2020.07.13-11.50.44:936][160]LogModuleManager: Shutting down and abandoning module Documentation (574)
-[2020.07.13-11.50.44:936][160]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module MovieScene (566)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module PortalServices (558)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module AIModule (548)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
-[2020.07.13-11.50.44:937][160]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module Synthesis (532)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module OculusInput (524)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module CableComponent (514)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module AssetTags (508)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
-[2020.07.13-11.50.44:957][160]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module BackChannel (432)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module SourceControl (383)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module SoundFields (364)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
-[2020.07.13-11.50.44:958][160]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
-[2020.07.13-11.50.44:959][160]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
-[2020.07.13-11.50.44:959][160]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
-[2020.07.13-11.50.44:959][160]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
-[2020.07.13-11.50.44:959][160]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
-[2020.07.13-11.50.45:060][160]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
-[2020.07.13-11.50.45:161][160]LogMagicLeapPlanes: Planes tracker already destroyed.
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
-[2020.07.13-11.50.45:161][160]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module Niagara (318)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module DataValidation (304)
-[2020.07.13-11.50.45:161][160]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
-[2020.07.13-11.50.45:162][160]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
-[2020.07.13-11.50.45:162][160]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
-[2020.07.13-11.50.45:162][160]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module MainFrame (296)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module HotReload (295)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module TreeMap (289)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module Paper2D (282)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module Overlay (266)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module VREditor (262)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module UMG (250)
-[2020.07.13-11.50.45:163][160]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
-[2020.07.13-11.50.45:164][160]LogModuleManager: Shutting down and abandoning module MessageLog (247)
-[2020.07.13-11.50.45:164][160]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
-[2020.07.13-11.50.45:164][160]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module Slate (234)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module SlateCore (232)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module MRMesh (226)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module Networking (218)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module Core (216)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module Sequencer (211)
-[2020.07.13-11.50.45:165][160]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module XGEController (180)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
-[2020.07.13-11.50.45:166][160]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
-[2020.07.13-11.50.45:167][160]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
-[2020.07.13-11.50.45:167][160]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
-[2020.07.13-11.50.45:167][160]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
-[2020.07.13-11.50.45:167][160]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
-[2020.07.13-11.50.45:167][160]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
-[2020.07.13-11.50.45:167][160]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
-[2020.07.13-11.50.45:167][160]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
-[2020.07.13-11.50.45:167][160]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
-[2020.07.13-11.50.45:167][160]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
-[2020.07.13-11.50.45:168][160]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
-[2020.07.13-11.50.45:168][160]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
-[2020.07.13-11.50.45:168][160]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
-[2020.07.13-11.50.45:168][160]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
-[2020.07.13-11.50.45:168][160]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
-[2020.07.13-11.50.45:168][160]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
-[2020.07.13-11.50.45:168][160]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
-[2020.07.13-11.50.45:168][160]LogModuleManager: Shutting down and abandoning module Messaging (121)
-[2020.07.13-11.50.45:168][160]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
-[2020.07.13-11.50.45:169][160]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module InputCore (112)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module Settings (110)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module Chaos (100)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module SteamVR (88)
-[2020.07.13-11.50.45:172][160]LogHMD: Freeing OpenVRDLLHandle.
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
-[2020.07.13-11.50.45:172][160]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
-[2020.07.13-11.50.45:174][160]LogModuleManager: Shutting down and abandoning module XMPP (71)
-[2020.07.13-11.50.45:174][160]LogModuleManager: Shutting down and abandoning module WebSockets (70)
-[2020.07.13-11.50.45:179][160]LogModuleManager: Shutting down and abandoning module HTTP (67)
-[2020.07.13-11.50.45:179][160]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2020.07.13-11.50.45:179][160]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4DE374C2-493D-3A56-E450-3298E9B4F405%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=525e731847a8a0e4437c778c48475d65%7Ce85c1e6f328d479b8eaefacf25622ffb%7C5f66fcbe-e8b6-4f33-988b-0141c2277b4c&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
-[2020.07.13-11.50.45:212][160]LogModuleManager: Shutting down and abandoning module SSL (66)
-[2020.07.13-11.50.45:213][160]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
-[2020.07.13-11.50.45:215][160]LogModuleManager: Shutting down and abandoning module Media (61)
-[2020.07.13-11.50.45:216][160]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
-[2020.07.13-11.50.45:216][160]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
-[2020.07.13-11.50.45:216][160]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
-[2020.07.13-11.50.45:216][160]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
-[2020.07.13-11.50.45:216][160]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module RenderCore (30)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module Landscape (28)
-[2020.07.13-11.50.45:217][160]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module Renderer (18)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module Engine (16)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module PakFile (4)
-[2020.07.13-11.50.45:218][160]LogModuleManager: Shutting down and abandoning module RSA (3)
-[2020.07.13-11.50.45:500][160]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
-[2020.07.13-11.50.45:500][160]LogD3D11RHI: Shutdown
-[2020.07.13-11.50.45:500][160]LogD3D11RHI: CleanupD3DDevice
-[2020.07.13-11.50.45:515][160]LogExit: Exiting.
-[2020.07.13-11.50.45:543][160]Log file closed, 07/13/20 14:50:45
+[2020.07.13-11.56.45:521][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-11.56.45:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.13-11.56.45:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-11.56.45:522][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-11.56.45:525][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:525][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.13-11.56.45:525][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.13-11.56.45:525][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:525][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.13-11.56.45:525][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:525][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.13-11.56.45:525][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.13-11.56.45:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.13-11.56.45:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.13-11.56.45:527][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.13-11.56.45:527][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.13-11.56.45:527][  0]LogHAL: Display: Platform has ~ 14 GB [14961037312 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.13-11.56.45:527][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.13-11.56.45:527][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.13-11.56.45:527][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.07.13-11.56.45:528][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-11.56.45:529][  0]LogInit: Computer: DESKTOP-NVG105D
+[2020.07.13-11.56.45:529][  0]LogInit: User: vikto
+[2020.07.13-11.56.45:529][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.13-11.56.45:529][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.13-11.56.45:529][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
+[2020.07.13-11.56.45:529][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.13-11.56.45:529][  0]LogMemory: Process Physical Memory: 115.45 MB used, 115.45 MB peak
+[2020.07.13-11.56.45:529][  0]LogMemory: Process Virtual Memory: 96.37 MB used, 96.37 MB peak
+[2020.07.13-11.56.45:529][  0]LogMemory: Physical Memory: 7562.15 MB used,  6705.80 MB free, 14267.96 MB total
+[2020.07.13-11.56.45:529][  0]LogMemory: Virtual Memory: 5146.57 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.07.13-11.56.45:536][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.13-11.56.45:582][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.07.13-11.56.45:582][  0]LogInit: Using OS detected language (uk-UA).
+[2020.07.13-11.56.45:583][  0]LogInit: Using OS detected locale (uk-UA).
+[2020.07.13-11.56.45:585][  0]LogTextLocalizationManager: No localization for 'uk-UA' exists, so 'en' will be used for the language.
+[2020.07.13-11.56.45:795][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.13-11.56.45:832][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.13-11.56.45:832][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.13-11.56.45:983][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.13-11.56.45:983][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.13-11.56.45:983][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.13-11.56.45:983][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.13-11.56.46:072][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.07.13-11.56.46:072][  0]LogD3D11RHI:       4018/0/7133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.13-11.56.46:098][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) RX Vega 11 Graphics' (Feature Level 11_0)
+[2020.07.13-11.56.46:098][  0]LogD3D11RHI:       2032/0/7133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2020.07.13-11.56.46:100][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.13-11.56.46:100][  0]LogD3D11RHI:       0/0/7133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.13-11.56.46:100][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.13-11.56.46:119][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.13-11.56.46:119][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.13-11.56.46:119][  0]LogWindows: EnumDisplayDevices:
+[2020.07.13-11.56.46:119][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:1 D:1)
+[2020.07.13-11.56.46:120][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
+[2020.07.13-11.56.46:120][  0]LogWindows:    2. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
+[2020.07.13-11.56.46:120][  0]LogWindows:    3. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
+[2020.07.13-11.56.46:121][  0]LogWindows:    4. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
+[2020.07.13-11.56.46:121][  0]LogWindows:    5. 'AMD Radeon(TM) RX Vega 11 Graphics' (P:0 D:0)
+[2020.07.13-11.56.46:121][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.07.13-11.56.46:121][  0]LogWindows:    7. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.07.13-11.56.46:122][  0]LogWindows:    8. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.07.13-11.56.46:122][  0]LogWindows:    9. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.07.13-11.56.46:122][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.07.13-11.56.46:122][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.07.13-11.56.46:122][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.07.13-11.56.46:122][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.07.13-11.56.46:122][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.07.13-11.56.46:186][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.13-11.56.46:188][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.07.13-11.56.46:188][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.13-11.56.46:188][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.07.13-11.56.46:206][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.13-11.56.46:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.13-11.56.46:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.13-11.56.46:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.13-11.56.46:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.13-11.56.46:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.13-11.56.46:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.13-11.56.46:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.13-11.56.46:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.13-11.56.46:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.13-11.56.46:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.13-11.56.46:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.13-11.56.46:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.13-11.56.46:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.13-11.56.46:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.07.13-11.56.46:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.13-11.56.46:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.13-11.56.46:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.13-11.56.46:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.13-11.56.46:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.13-11.56.46:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.13-11.56.46:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.13-11.56.46:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.13-11.56.46:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.13-11.56.46:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.13-11.56.46:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.13-11.56.46:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.13-11.56.46:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.13-11.56.46:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.13-11.56.46:903][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.13-11.56.46:916][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.13-11.56.47:003][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../../artMafia/MafiaGame/Intermediate/Shaders/WorkingDirectory/6992/).
+[2020.07.13-11.56.47:004][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vikto/AppData/Local/Temp/UnrealShaderWorkingDir/7C7AABA14ACE14255CF8F5B088A95B4C/'.
+[2020.07.13-11.56.47:004][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.13-11.56.47:004][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.13-11.56.47:004][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.13-11.56.47:758][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.13-11.56.47:803][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/vikto/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.13-11.56.47:803][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vikto/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.07.13-11.56.47:803][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../artMafia/MafiaGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.13-11.56.47:803][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.13-11.56.47:803][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../artMafia/MafiaGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.13-11.56.47:804][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.13-11.56.47:814][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.13-11.56.47:814][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.13-11.56.47:814][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.13-11.56.47:816][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.13-11.56.47:816][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.13-11.56.47:816][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.13-11.56.47:868][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.13-11.56.47:869][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.13-11.56.47:895][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.07.13-11.56.48:130][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.13-11.56.48:255][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.13-11.56.48:255][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.13-11.56.48:255][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.13-11.56.48:255][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.13-11.56.48:255][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.13-11.56.48:271][  0]LogNetVersion: MafiaGame 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1002246912)
+[2020.07.13-11.56.48:691][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001F9C79A0340), frame # 0
+[2020.07.13-11.56.48:691][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F9C78C2AC0), frame # 0
+[2020.07.13-11.56.48:692][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F9C791DE00), frame # 0
+[2020.07.13-11.56.48:752][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.053413 seconds
+[2020.07.13-11.56.48:757][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.07.13-11.56.48:757][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.07.13-11.56.48:757][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.13-11.56.49:211][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.13-11.56.49:216][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.13-11.56.49:332][  0]SourceControl: Source control is disabled
+[2020.07.13-11.56.49:332][  0]SourceControl: Source control is disabled
+[2020.07.13-11.56.49:338][  0]SourceControl: Source control is disabled
+[2020.07.13-11.56.49:343][  0]SourceControl: Source control is disabled
+[2020.07.13-11.56.49:353][  0]SourceControl: Source control is disabled
+[2020.07.13-11.56.49:371][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.13-11.56.49:372][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.13-11.56.49:690][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.13-11.56.49:723][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.13-11.56.49:723][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.13-11.56.49:785][  0]LogOcInput: OculusInput pre-init called
+[2020.07.13-11.56.49:800][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.13-11.56.49:800][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.13-11.56.49:876][  0]LogEngine: Initializing Engine...
+[2020.07.13-11.56.49:877][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.13-11.56.49:877][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.07.13-11.56.49:878][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.13-11.56.49:989][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.13-11.56.49:998][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.13-11.56.49:998][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F9CA573C00), frame # 0
+[2020.07.13-11.56.49:998][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F9CA5FB240), frame # 0
+[2020.07.13-11.56.50:011][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.13-11.56.50:011][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.13-11.56.50:011][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.13-11.56.50:011][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.13-11.56.50:011][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.13-11.56.50:011][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.13-11.56.50:012][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.13-11.56.50:012][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.13-11.56.50:012][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.13-11.56.50:012][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.13-11.56.50:031][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.13-11.56.50:031][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.13-11.56.50:119][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.07.13-11.56.50:122][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.13-11.56.50:124][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.13-11.56.50:124][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.13-11.56.50:125][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.13-11.56.50:126][  0]LogInit: FAudioDevice initialized.
+[2020.07.13-11.56.50:127][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.13-11.56.50:248][  0]LogDerivedDataCache: Saved boot cache 0.12s 75MB C:/Users/vikto/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.13-11.56.50:257][  0]LogInit: Texture streaming: Enabled
+[2020.07.13-11.56.50:281][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.13-11.56.50:281][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.13-11.56.50:283][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.13-11.56.50:344][  0]LogInit: Transaction tracking system initialized
+[2020.07.13-11.56.50:376][  0]BlueprintLog: New page: Editor Load
+[2020.07.13-11.56.50:476][  0]LocalizationService: Localization service is disabled
+[2020.07.13-11.56.50:585][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.13-11.56.50:586][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.13-11.56.50:656][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.13-11.56.50:656][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.13-11.56.50:830][  0]LogFileCache: Scanning file cache for directory 'E:/artMafia/MafiaGame/Content/' took 0.00s
+[2020.07.13-11.56.51:039][  0]SourceControl: Source control is disabled
+[2020.07.13-11.56.51:039][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.528
+[2020.07.13-11.56.51:039][  0]Cmd: MAP LOAD FILE="../../../../../../artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.13-11.56.51:039][  0]LightingResults: New page: Lighting Build
+[2020.07.13-11.56.51:040][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-11.56.51:040][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-11.56.51:040][  0]MapCheck: New page: Map Check
+[2020.07.13-11.56.51:040][  0]LightingResults: New page: Lighting Build
+[2020.07.13-11.56.51:049][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F9CA573C00), frame # 0
+[2020.07.13-11.56.51:049][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F9CA5FB240), frame # 0
+[2020.07.13-11.56.51:049][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.07.13-11.56.51:339][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.13-11.56.51:339][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F9BDF6BE00), frame # 0
+[2020.07.13-11.56.51:339][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F9BE1351C0), frame # 0
+[2020.07.13-11.56.51:349][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.13-11.56.51:368][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.07.13-11.56.51:369][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.13-11.56.51:369][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,247ms to complete.
+[2020.07.13-11.56.51:369][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.331
+[2020.07.13-11.56.51:372][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.861
+[2020.07.13-11.56.51:679][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-11.56.51:686][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-11.56.51:693][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-11.56.51:701][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-11.56.51:709][  0]LogCollectionManager: Loaded 0 collections in 0.000806 seconds
+[2020.07.13-11.56.51:724][  0]LogFileCache: Scanning file cache for directory 'E:/artMafia/MafiaGame/Saved/Collections/' took 0.00s
+[2020.07.13-11.56.51:724][  0]LogFileCache: Scanning file cache for directory 'E:/artMafia/MafiaGame/Content/Developers/vikto/Collections/' took 0.00s
+[2020.07.13-11.56.51:724][  0]LogFileCache: Scanning file cache for directory 'E:/artMafia/MafiaGame/Content/Collections/' took 0.00s
+[2020.07.13-11.56.51:724][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 3427 classes and 821 folders.
+[2020.07.13-11.56.51:726][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.13-11.56.51:776][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.13-11.56.51:777][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.07.13-11.56.51:893][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.13-11.56.51:895][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.13-11.56.51:899][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.13-11.56.51:966][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.07.13-11.56.52:124][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.13-11.56.52:125][  0]LogLoad: (Engine Initialization) Total time: 8.61 seconds
+[2020.07.13-11.56.52:125][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.13-11.56.52:168][  0]LogAssetRegistry: Asset discovery search completed in 4.2735 seconds
+[2020.07.13-11.56.52:172][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.07.13-11.56.52:173][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.13-11.56.52:199][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.13-11.58.41:552][624]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.13-11.58.41:619][624]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../artMafia/Characters/Blender/FuseModel1.fbx)
+[2020.07.13-11.58.41:779][624]LogFbx: Loading FBX Scene from ../../../../../../artMafia/Characters/Blender/FuseModel1.fbx
+[2020.07.13-11.58.41:876][624]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.13-11.58.45:789][624]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.13-11.58.45:835][624]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node default : The relative matrices do not match
+[2020.07.13-11.58.45:835][624]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node Eyes : The relative matrices do not match
+[2020.07.13-11.58.45:836][624]LogFbx: Warning: Not valid bind pose for Pose (defaultmesh) - Node Body : The relative matrices do not match
+[2020.07.13-11.58.45:836][624]LogFbx: Warning: Not valid bind pose for Pose (Eyesmesh) - Node default : The relative matrices do not match
+[2020.07.13-11.58.45:837][624]LogFbx: Warning: Not valid bind pose for Pose (Eyesmesh) - Node Eyes : The relative matrices do not match
+[2020.07.13-11.58.45:837][624]LogFbx: Warning: Not valid bind pose for Pose (Eyesmesh) - Node Body : The relative matrices do not match
+[2020.07.13-11.58.45:838][624]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node default : The relative matrices do not match
+[2020.07.13-11.58.45:838][624]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node Eyes : The relative matrices do not match
+[2020.07.13-11.58.45:839][624]LogFbx: Warning: Not valid bind pose for Pose (Bodymesh) - Node Body : The relative matrices do not match
+[2020.07.13-11.58.45:839][624]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.07.13-11.58.45:843][624]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - default
+[2020.07.13-11.58.45:843][624]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.07.13-11.58.46:045][624]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-11.58.46:047][624]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2020.07.13-11.58.46:269][624]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.07.13-11.58.46:269][624]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.07.13-11.58.46:269][624]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.07.13-11.58.46:269][624]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.13-11.58.46:270][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Diffuse.png
+[2020.07.13-11.58.46:270][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Specular.png
+[2020.07.13-11.58.46:270][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Gloss.png
+[2020.07.13-11.58.46:271][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Normal.png
+[2020.07.13-11.58.46:272][624]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2020.07.13-11.58.46:296][624]LogFbx: Triangulating skeletal mesh default
+[2020.07.13-11.58.46:305][624]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Bodymat_001.Bodymat_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-11.58.46:306][624]LogMaterial: Display: Missing cached shader map for material Bodymat_001, compiling. 
+[2020.07.13-11.58.46:328][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Diffuse.png
+[2020.07.13-11.58.46:328][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Specular.png
+[2020.07.13-11.58.46:328][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Gloss.png
+[2020.07.13-11.58.46:328][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Normal.png
+[2020.07.13-11.58.46:330][624]LogMaterial: Display: Missing cached shader map for material Bodymat_001, compiling. 
+[2020.07.13-11.58.46:351][624]LogFbx: Triangulating skeletal mesh Eyes
+[2020.07.13-11.58.46:401][624]LogMaterial: Display: Material /Game/MixamoClothing/Character-1/Bodymat_002.Bodymat_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.13-11.58.46:403][624]LogMaterial: Display: Missing cached shader map for material Bodymat_002, compiling. 
+[2020.07.13-11.58.46:425][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Diffuse.png
+[2020.07.13-11.58.46:425][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Specular.png
+[2020.07.13-11.58.46:425][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Gloss.png
+[2020.07.13-11.58.46:425][624]LogFbxMaterialImport: Display: Unable to find Texture file E:\home\app\mixamo-mini\tmp\skins_a0ee0318-68d3-4b06-8c9a-b56b4ab496cd.fbm\FuseModel1_Body_Normal.png
+[2020.07.13-11.58.46:427][624]LogMaterial: Display: Missing cached shader map for material Bodymat_002, compiling. 
+[2020.07.13-11.58.46:452][624]LogFbx: Triangulating skeletal mesh Body
+[2020.07.13-11.58.47:587][624]LogFbx: Warning: Bones digested - 82  Depth of hierarchy - 13
+[2020.07.13-11.58.49:288][624]LogSkeletalMesh: Section 0: 106 vertices, 1 active bones
+[2020.07.13-11.58.49:288][624]LogSkeletalMesh: Section 1: 804 vertices, 1 active bones
+[2020.07.13-11.58.49:294][624]LogSkeletalMesh: Section 2: 15983 vertices, 52 active bones
+[2020.07.13-11.58.49:297][624]LogSkeletalMesh: Section 0: Material=0, 114 triangles
+[2020.07.13-11.58.49:297][624]LogSkeletalMesh: Section 1: Material=1, 1520 triangles
+[2020.07.13-11.58.49:297][624]LogSkeletalMesh: Section 2: Material=2, 28924 triangles
+[2020.07.13-11.58.49:307][624]LogSkeletalMesh: Building Skeletal Mesh FuseModel1...
+[2020.07.13-11.58.50:578][624]LogSkeletalMesh: Section 0: 106 vertices, 1 active bones
+[2020.07.13-11.58.50:579][624]LogSkeletalMesh: Section 1: 804 vertices, 1 active bones
+[2020.07.13-11.58.50:583][624]LogSkeletalMesh: Section 2: 15983 vertices, 52 active bones
+[2020.07.13-11.58.50:586][624]LogSkeletalMesh: Section 0: Material=0, 114 triangles
+[2020.07.13-11.58.50:586][624]LogSkeletalMesh: Section 1: Material=1, 1520 triangles
+[2020.07.13-11.58.50:586][624]LogSkeletalMesh: Section 2: Material=2, 28924 triangles
+[2020.07.13-11.58.50:719][624]LogSkeletalMesh: Built Skeletal Mesh [1.41s] /Game/MixamoClothing/Character-1/FuseModel1.FuseModel1
+[2020.07.13-11.58.50:819][624]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-11.58.50:819][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-11.58.50:940][624]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.13-11.58.50:940][624]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End_end  
+mixamorig:RightEye_end  
+mixamorig:LeftEye_end  
+mixamorig:LeftHandMiddle4_end  
+mixamorig:LeftHandThumb4_end  
+mixamorig:LeftHandIndex4_end  
+mixamorig:LeftHandRing4_end  
+mixamorig:LeftHandPinky4_end  
+mixamorig:RightHandMiddle4_end  
+mixamorig:RightHandThumb4_end  
+mixamorig:RightHandIndex4_end  
+mixamorig:RightHandRing4_end  
+mixamorig:RightHandPinky4_end  
+mixamorig:RightToe_End_end  
+mixamorig:LeftToe_End_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.07.13-11.58.51:249][624]LogSlate: Took 0.039415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.13-11.58.52:315][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 117
+[2020.07.13-11.58.52:415][662]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 107
+[2020.07.13-11.58.52:872][680]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 97
+[2020.07.13-11.58.53:152][697]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 87
+[2020.07.13-11.58.57:881][920]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2020.07.13-11.58.58:455][949]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 67
+[2020.07.13-11.58.59:265][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2020.07.13-11.58.59:294][993]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.07.13-11.59.03:089][189]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2020.07.13-11.59.03:702][221]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.07.13-11.59.04:958][285]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.07.13-11.59.04:978][286]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-11.59.07:310][409]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.07.13-11.59.07:453][417]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.13-11.59.08:037][447]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.07.13-11.59.08:235][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.13-11.59.08:456][470]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.13-11.59.08:996][497]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.13-12.00.24:988][ 60]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_PhysicsAsset68F17FB94DEAD2A683D6C381F325A9A8.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/FuseModel1_PhysicsAsset.uasset'
+[2020.07.13-12.00.24:990][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/FuseModel1_Skeleton" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/FuseModel1_Skeleton.uasset" SILENT=true
+[2020.07.13-12.00.25:000][ 60]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_SkeletonF0C019C3459EF9876E0EE79C16FE6F38.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/FuseModel1_Skeleton.uasset'
+[2020.07.13-12.00.25:012][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/Bodymat_002" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Bodymat_002.uasset" SILENT=true
+[2020.07.13-12.00.25:024][ 60]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Bodymat_0029E9C34DB42609F12B6B804BD757C5201.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Bodymat_002.uasset'
+[2020.07.13-12.00.25:037][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/Bodymat_001" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Bodymat_001.uasset" SILENT=true
+[2020.07.13-12.00.25:052][ 60]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Bodymat_001B89D951F4B05553300F6AD9591C7B9B1.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Bodymat_001.uasset'
+[2020.07.13-12.00.25:064][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/Bodymat" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Bodymat.uasset" SILENT=true
+[2020.07.13-12.00.25:077][ 60]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Bodymat207DC9F744733B91A0E917A64EA5947E.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Bodymat.uasset'
+[2020.07.13-12.00.25:090][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/FuseModel1" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/FuseModel1.uasset" SILENT=true
+[2020.07.13-12.00.25:256][ 60]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1AE249F6749441655454DD0971824CF5E.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/FuseModel1.uasset'
+[2020.07.13-12.00.25:277][ 60]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-12.00.25:277][ 60]LogContentValidation: Display: Validating PhysicsAsset /Game/MixamoClothing/Character-1/FuseModel1_PhysicsAsset.FuseModel1_PhysicsAsset
+[2020.07.13-12.00.25:277][ 60]LogContentValidation: Display: Validating Skeleton /Game/MixamoClothing/Character-1/FuseModel1_Skeleton.FuseModel1_Skeleton
+[2020.07.13-12.00.25:277][ 60]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/Bodymat_002.Bodymat_002
+[2020.07.13-12.00.25:277][ 60]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/Bodymat_001.Bodymat_001
+[2020.07.13-12.00.25:277][ 60]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/Bodymat.Bodymat
+[2020.07.13-12.00.25:277][ 60]LogContentValidation: Display: Validating SkeletalMesh /Game/MixamoClothing/Character-1/FuseModel1.FuseModel1
+[2020.07.13-12.03.38:135][ 87]AssetReimport: New page: Outstanding source content changes 18:03:38
+[2020.07.13-12.03.38:212][ 88]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Roughness.png)
+[2020.07.13-12.03.39:795][ 89]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Metallic.png)
+[2020.07.13-12.03.40:032][ 90]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Normal.png)
+[2020.07.13-12.03.40:496][ 91]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_AmbientOcclusion.png)
+[2020.07.13-12.03.40:907][ 92]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_BaseColor.png)
+[2020.07.13-12.03.43:066][ 93]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_RoughnessBCFDB0AA4C884CADC69839AD7DB5CD03.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Roughness.uasset'
+[2020.07.13-12.03.43:140][ 93]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_Metallic9DF3DD8D45FE78F167BC8C818D484DDC.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Metallic.uasset'
+[2020.07.13-12.03.43:428][ 93]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_Normal997597E94EF11A54237F839637BAE203.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Normal.uasset'
+[2020.07.13-12.03.43:564][ 93]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_AmbientOcclusionEB8D8FD740B66FE25325C9B4967EE309.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_AmbientOcclusion.uasset'
+[2020.07.13-12.03.43:860][ 93]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_BaseColorE6525AFF461F101096946E85D9B71134.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_BaseColor.uasset'
+[2020.07.13-12.03.43:909][ 94]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-12.03.43:909][ 94]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Roughness.FuseModel1_Body_Roughness
+[2020.07.13-12.03.43:909][ 94]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Metallic.FuseModel1_Body_Metallic
+[2020.07.13-12.03.43:909][ 94]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Normal.FuseModel1_Body_Normal
+[2020.07.13-12.03.43:909][ 94]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_AmbientOcclusion.FuseModel1_Body_AmbientOcclusion
+[2020.07.13-12.03.43:909][ 94]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_BaseColor.FuseModel1_Body_BaseColor
+[2020.07.13-12.03.46:875][314]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Roughness.
+[2020.07.13-12.03.46:875][314]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Metallic.
+[2020.07.13-12.03.46:875][314]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_Normal.
+[2020.07.13-12.03.46:875][314]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_AmbientOcclusion.
+[2020.07.13-12.03.46:875][314]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Texture/FuseModel1/FuseModel1_Body_BaseColor.
+[2020.07.13-12.05.08:327][360]AssetReimport: New page: Outstanding source content changes 18:05:08
+[2020.07.13-12.05.08:328][360]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Opacity.png)
+[2020.07.13-12.05.08:781][361]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_OpacityB154383B4D7A163482D4B2898EB56975.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Opacity.uasset'
+[2020.07.13-12.05.08:813][362]AssetCheck: New page: Asset Save: FuseModel1_Body_Opacity
+[2020.07.13-12.05.08:813][362]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Opacity.FuseModel1_Body_Opacity
+[2020.07.13-12.05.11:831][549]AssetReimport: Importing new asset /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Opacity.
+[2020.07.13-12.05.12:009][564]AssetReimport: New page: Outstanding source content changes 18:05:12
+[2020.07.13-12.05.12:019][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Normal.png)
+[2020.07.13-12.05.12:511][565]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Diffuse.png)
+[2020.07.13-12.05.14:144][566]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_NormalD6F0624E48835DEE830ED5B66DCD322A.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Normal.uasset'
+[2020.07.13-12.05.14:455][566]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_Diffuse722D8BB842B858FCDD7873A70FABE3CD.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Diffuse.uasset'
+[2020.07.13-12.05.14:489][567]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-12.05.14:489][567]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Normal.FuseModel1_Body_Normal
+[2020.07.13-12.05.14:489][567]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Diffuse.FuseModel1_Body_Diffuse
+[2020.07.13-12.05.16:702][715]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Specular.png)
+[2020.07.13-12.05.17:824][716]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_Specular617EA23B4F0C9D1082E34A8A0D91265E.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Specular.uasset'
+[2020.07.13-12.05.17:855][717]AssetCheck: New page: Asset Save: FuseModel1_Body_Specular
+[2020.07.13-12.05.17:855][717]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Specular.FuseModel1_Body_Specular
+[2020.07.13-12.05.20:840][863]AssetReimport: Importing new asset /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Normal.
+[2020.07.13-12.05.20:840][863]AssetReimport: Importing new asset /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Diffuse.
+[2020.07.13-12.05.20:840][863]AssetReimport: Importing new asset /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Specular.
+[2020.07.13-12.05.22:117][957]AssetReimport: New page: Outstanding source content changes 18:05:22
+[2020.07.13-12.05.22:124][957]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1.obj)
+[2020.07.13-12.05.22:154][957]LogFbx: Loading FBX Scene from E:/artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1.obj
+[2020.07.13-12.05.22:601][957]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.13-12.05.25:727][957]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.13-12.05.28:324][957]LogStaticMesh: Building static mesh FuseModel1_Body...
+[2020.07.13-12.05.29:089][957]LogStaticMesh: Built static mesh [0.77s] /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body.FuseModel1_Body
+[2020.07.13-12.05.29:365][957]LogStaticMesh: Building static mesh FuseModel1_default...
+[2020.07.13-12.05.29:370][957]LogStaticMesh: Built static mesh [0.01s] /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_default.FuseModel1_default
+[2020.07.13-12.05.29:435][957]LogStaticMesh: Building static mesh FuseModel1_Eyes...
+[2020.07.13-12.05.29:457][957]LogStaticMesh: Built static mesh [0.02s] /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Eyes.FuseModel1_Eyes
+[2020.07.13-12.05.29:662][958]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Gloss.png)
+[2020.07.13-12.05.30:927][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1.uasset" SILENT=true
+[2020.07.13-12.05.30:934][959]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel146DCA2834164F1BA622EA0912E7068D3.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1.uasset'
+[2020.07.13-12.05.31:220][959]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_Gloss7DE88A534962B98D3004219DBC7CDBD3.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Gloss.uasset'
+[2020.07.13-12.05.31:239][960]AssetCheck: New page: Asset Save: FuseModel1_Body_Gloss
+[2020.07.13-12.05.31:240][960]LogContentValidation: Display: Validating Texture2D /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Gloss.FuseModel1_Body_Gloss
+[2020.07.13-12.05.34:230][155]AssetReimport: Importing new asset /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1.
+[2020.07.13-12.05.34:230][155]AssetReimport: Importing new asset /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Gloss.
+[2020.07.13-12.06.45:582][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/CharacterModel1" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/CharacterModel1.uasset" SILENT=true
+[2020.07.13-12.06.45:595][423]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/CharacterModel1BE54A22D44869B7AFC9CCE8C77DC0ECC.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/CharacterModel1.uasset'
+[2020.07.13-12.06.45:696][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.07.13-12.06.45:714][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.07.13-12.06.45:722][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.07.13-12.06.45:737][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoClothing/Character-1/FuseModel1" FILE="../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/FuseModel1.uasset" SILENT=true
+[2020.07.13-12.06.45:919][423]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1590907F54D51DB5B92C8F79AC10A44E5.tmp' to '../../../../../../artMafia/MafiaGame/Content/MixamoClothing/Character-1/FuseModel1.uasset'
+[2020.07.13-12.06.46:087][423]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-12.06.46:088][423]LogContentValidation: Display: Validating Material /Game/MixamoClothing/Character-1/CharacterModel1.CharacterModel1
+[2020.07.13-12.06.46:088][423]LogContentValidation: Display: Validating SkeletalMesh /Game/MixamoClothing/Character-1/FuseModel1.FuseModel1
+[2020.07.13-12.07.05:448][599]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MixamoClothing/Character-1/CharacterModel1.CharacterModel1
+[2020.07.13-12.07.05:462][599]LogMaterial: Display: Missing cached shader map for material CharacterModel1, compiling. 
+[2020.07.13-12.07.06:224][599]LogMaterial: Display: Missing cached shader map for material CharacterModel1, compiling. 
+[2020.07.13-12.07.06:246][599]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-12.07.06:246][599]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-12.07.06:246][599]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-12.07.06:246][599]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-12.07.06:260][599]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.07.13-12.07.06:336][599]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.13-12.07.06:772][600]LogSlate: Took 0.023563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.13-12.07.06:796][601]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.07.13-12.07.06:959][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-12.07.07:097][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-12.07.07:167][613]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.07.13-12.07.07:360][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-12.07.07:494][623]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.13-12.07.07:847][636]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.07.13-12.07.07:847][636]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.07.13-12.07.07:868][637]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.07.13-12.07.08:283][655]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.07.13-12.07.08:399][661]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.13-12.07.08:490][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.07.13-12.07.08:675][675]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.07.08:793][681]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.13-12.07.09:060][692]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.07.13-12.07.09:197][696]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.07.13-12.07.09:254][698]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.07.09:362][703]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.13-12.07.09:886][723]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.07.13-12.07.10:174][733]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.13-12.07.10:259][736]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.13-12.07.10:469][744]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.13-12.07.10:843][756]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-12.07.11:168][767]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.07.13-12.07.11:467][778]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.07.11:468][778]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.13-12.07.11:516][780]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.13-12.07.11:567][781]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.07.13-12.07.11:567][781]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.07.13-12.07.11:567][781]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.13-12.07.11:567][781]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2020.07.13-12.07.11:567][781]MaterialEditorStats: Texture samplers: 2/16
+[2020.07.13-12.07.12:546][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.07.13-12.07.12:548][805]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.07.13-12.07.12:549][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/FuseCC/FuseModel1/Body] ([1] browsable assets)...
+[2020.07.13-12.07.12:567][805]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MixamoClothing/FuseCC/FuseModel1/Body.Body]
+[2020.07.13-12.07.12:567][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/FuseCC/FuseModel1/Body]
+[2020.07.13-12.07.12:586][805]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Body_Auto1B37D13A14153C6D4507935895E4ADD65.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/FuseCC/FuseModel1/Body_Auto1.uasset'
+[2020.07.13-12.07.12:586][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Eyes] ([1] browsable assets)...
+[2020.07.13-12.07.12:603][805]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Eyes.FuseModel1_Eyes]
+[2020.07.13-12.07.12:603][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Eyes]
+[2020.07.13-12.07.12:632][805]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Eyes_Auto1119E545641FDD16906048F8ED87AF5FB.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Eyes_Auto1.uasset'
+[2020.07.13-12.07.12:632][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_default] ([1] browsable assets)...
+[2020.07.13-12.07.12:645][805]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_default.FuseModel1_default]
+[2020.07.13-12.07.12:645][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_default]
+[2020.07.13-12.07.12:660][805]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_default_Auto12DCE552E4C4B45E79F027593D3FFA496.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_default_Auto1.uasset'
+[2020.07.13-12.07.12:661][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Diffuse] ([1] browsable assets)...
+[2020.07.13-12.07.12:668][805]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Diffuse.FuseModel1_Body_Diffuse]
+[2020.07.13-12.07.12:668][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Diffuse]
+[2020.07.13-12.07.12:706][805]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_Diffuse_Auto1CE016749471102AF1E1292BBB090448D.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Diffuse_Auto1.uasset'
+[2020.07.13-12.07.12:707][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body] ([1] browsable assets)...
+[2020.07.13-12.07.12:720][805]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body.FuseModel1_Body]
+[2020.07.13-12.07.12:720][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body]
+[2020.07.13-12.07.12:806][805]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_Body_Auto14049098341E0BDA3A8FA2DB079668943.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/FuseCC/FuseModel1/FuseModel1_Body_Auto1.uasset'
+[2020.07.13-12.07.12:828][805]LogFileHelpers: Auto-saving content packages took 0.280
+[2020.07.13-12.07.36:406][135]LogMaterial: Display: Missing cached shader map for material CharacterModel1, compiling. 
+[2020.07.13-12.07.36:420][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-12.07.36:431][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.07.13-12.07.36:432][135]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.07.13-12.07.36:432][135]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.07.13-12.07.36:432][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.07.13-12.07.36:436][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.07.13-12.07.36:439][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-12.07.36:451][135]LogMaterial: Display: Missing cached shader map for material CharacterModel1, compiling. 
+[2020.07.13-12.07.36:474][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-12.07.36:491][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.07.13-12.07.36:497][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-12.07.36:502][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-12.07.36:535][135]LogMaterial: Display: Missing cached shader map for material CharacterModel1, compiling. 
+[2020.07.13-12.07.36:559][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-12.07.36:573][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.07.13-12.07.36:577][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-12.07.36:582][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-12.07.36:587][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-12.07.36:606][135]LogMaterial: Display: Missing cached shader map for material CharacterModel1, compiling. 
+[2020.07.13-12.07.36:631][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.13-12.07.36:648][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.07.13-12.07.36:653][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-12.07.36:659][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.07.13-12.07.36:663][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.13-12.07.36:668][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.13-12.07.36:993][142]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.07.13-12.07.37:179][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.07.13-12.07.37:330][157]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.07.13-12.07.37:401][160]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.07.13-12.07.37:794][175]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2020.07.13-12.07.37:814][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2020.07.13-12.07.37:834][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2020.07.13-12.07.38:160][193]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.07.13-12.07.38:241][197]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2020.07.13-12.07.38:533][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.07.13-12.07.38:579][213]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2020.07.13-12.07.38:667][217]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.07.13-12.07.38:808][224]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.07.13-12.07.39:070][236]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.07.13-12.07.39:194][242]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.07.13-12.07.39:792][243]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.07.13-12.07.39:792][243]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.07.13-12.07.39:792][243]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.07.13-12.07.39:792][243]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.07.13-12.07.39:792][243]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.07.13-12.07.39:812][244]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.07.13-12.07.39:970][250]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.07.13-12.07.40:393][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.07.13-12.07.40:677][280]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.07.13-12.07.40:697][281]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.07.13-12.07.40:998][295]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.07.13-12.07.41:217][305]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.07.13-12.07.41:410][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.07.13-12.07.41:551][311]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.07.13-12.07.41:675][311]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.07.13-12.07.41:741][311]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.07.13-12.07.41:826][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.07.13-12.07.42:121][311]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.13-12.07.42:198][311]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.07.13-12.07.42:253][311]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.07.13-12.07.42:272][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.07.13-12.07.42:429][312]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.07.13-12.07.42:429][312]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.07.13-12.07.42:429][312]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.13-12.07.42:429][312]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2020.07.13-12.07.42:429][312]MaterialEditorStats: Texture samplers: 2/16
+[2020.07.13-12.07.42:829][326]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.07.42:851][327]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.07.13-12.07.42:893][329]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.13-12.07.42:913][330]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.13-12.07.43:552][357]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.13-12.07.43:614][360]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.13-12.07.43:633][361]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-12.07.43:651][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.07.13-12.07.44:287][388]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.07.13-12.07.44:287][388]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.07.13-12.07.44:327][389]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
