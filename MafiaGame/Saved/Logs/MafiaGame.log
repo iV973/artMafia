@@ -2597,3 +2597,102 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.07.13-12.40.01:933][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing_PhysicsAsset]
 [2020.07.13-12.40.01:952][208]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_clothing_PhysicsAssetD4EDF59E4A4D43C471BB0ABB3F138768.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing_PhysicsAsset_Auto2.uasset'
 [2020.07.13-12.40.01:953][208]LogFileHelpers: Auto-saving content packages took 0.477
+[2020.07.13-13.18.37:153][537]LogTexture: Display: Building textures: 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7 (AutoDXT, 1000X1000)
+[2020.07.13-13.18.37:153][537]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.37:184][537]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.18.37:185][537]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.18.37:185][537]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-13.18.37:185][537]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.18.37:194][537]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyContent/127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat.127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat
+[2020.07.13-13.18.37:195][537]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.37:373][537]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.37:386][537]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.37:404][537]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.13-13.18.38:332][557]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.07.13-13.18.39:341][583]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.07.13-13.18.39:958][598]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.07.13-13.18.40:177][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.07.13-13.18.40:497][612]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.13-13.18.40:523][613]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.13-13.18.40:631][616]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.13-13.18.41:068][627]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.13-13.18.41:111][628]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.13-13.18.41:462][637]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.07.13-13.18.41:615][641]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.13-13.18.41:646][642]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.13-13.18.41:882][648]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.13-13.18.41:920][648]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.41:976][649]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.13-13.18.42:233][660]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.13-13.18.42:254][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.13-13.18.42:371][667]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.13-13.18.42:824][688]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.13-13.18.42:923][693]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.07.13-13.18.42:996][697]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.13-13.18.43:221][708]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.13-13.18.43:412][717]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.07.13-13.18.45:178][846]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.07.13-13.18.45:178][846]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.07.13-13.18.45:178][846]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.13-13.18.45:178][846]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.13-13.18.45:178][846]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.07.13-13.18.45:178][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.13-13.18.46:061][886]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.46:087][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.13-13.18.46:087][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.13-13.18.46:087][887]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-13.18.46:087][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.13-13.18.46:645][912]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.13-13.18.46:845][922]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.07.13-13.18.46:983][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.13-13.18.46:983][928]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.13-13.18.46:995][928]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.46:996][928]LogMaterial: Warning: /Engine/Transient.127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.07.13-13.18.46:996][928]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.07.13-13.18.47:008][928]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.47:009][928]LogMaterial: Warning: /Engine/Transient.127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.07.13-13.18.47:009][928]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.07.13-13.18.47:012][928]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.47:013][928]LogMaterial: Warning: /Engine/Transient.127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.07.13-13.18.47:013][928]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.07.13-13.18.47:019][928]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.07.13-13.18.50:218][ 53]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.50:219][ 53]LogMaterial: Warning: /Engine/Transient.127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.07.13-13.18.50:219][ 53]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.07.13-13.18.51:107][113]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.51:108][113]LogMaterial: Warning: /Engine/Transient.127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.07.13-13.18.51:108][113]LogMaterial: Display: 	Volume materials must use an Additive blend mode.
+[2020.07.13-13.18.51:116][113]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.51:117][113]LogMaterial: Warning: /Engine/Transient.127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.07.13-13.18.51:117][113]LogMaterial: Display: 	Volume materials must use an Additive blend mode.
+[2020.07.13-13.18.51:119][113]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.51:119][113]LogMaterial: Warning: /Engine/Transient.127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.07.13-13.18.51:119][113]LogMaterial: Display: 	Volume materials must use an Additive blend mode.
+[2020.07.13-13.18.51:123][113]MaterialEditorStats: Error: [SM5] Volume materials must use an Additive blend mode.
+[2020.07.13-13.18.52:646][179]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.52:647][179]LogMaterial: Warning: /Engine/Transient.127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.07.13-13.18.52:647][179]LogMaterial: Display: 	Volume materials must use an Additive blend mode.
+[2020.07.13-13.18.53:297][228]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.53:311][228]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.13-13.18.53:311][228]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.13-13.18.53:311][228]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-13.18.53:311][228]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.13-13.18.53:312][228]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.53:320][228]LogMaterial: Display: Missing cached shader map for material 127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat, compiling. 
+[2020.07.13-13.18.53:914][244]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.13-13.18.54:116][249]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.13-13.18.54:339][255]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.07.13-13.18.54:347][255]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.13-13.18.54:919][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.07.13-13.18.54:954][271]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.07.13-13.18.54:964][271]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.07.13-13.18.55:239][276]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.13-13.18.55:446][276]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.13-13.18.56:561][276]LogSlate: Window 'Message' being destroyed
+[2020.07.13-13.18.56:565][276]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/MyContent/127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat.127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2020.07.13-13.18.56:566][276]LogSlate: Window '127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat' being destroyed
+[2020.07.13-13.18.56:567][276]LogSlate: Window '127028-e8f3f6805d36e739cc3bc9b3ac1a4db7_Mat' being destroyed
+[2020.07.13-13.18.56:623][276]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.18.56:623][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
