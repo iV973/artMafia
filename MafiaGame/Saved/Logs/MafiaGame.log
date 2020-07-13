@@ -2570,3 +2570,30 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Normal.
 [2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Metallic.
 [2020.07.13-12.35.13:367][135]AssetReimport: Importing new asset /Game/MixamoClothing/Character-1/Clothing/Textures/FuseModel-1Clothing_Shoes_Roughness.
+[2020.07.13-12.40.01:455][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.13-12.40.01:476][208]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.039
+[2020.07.13-12.40.01:477][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing] ([1] browsable assets)...
+[2020.07.13-12.40.01:508][208]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing.FuseModel1_clothing]
+[2020.07.13-12.40.01:508][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing]
+[2020.07.13-12.40.01:597][208]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_clothing_Auto2E0F950F4422AAB6A0807A69E2CA0FAD4.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing_Auto2.uasset'
+[2020.07.13-12.40.01:598][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/Character-1/Clothing/Bottommat] ([1] browsable assets)...
+[2020.07.13-12.40.01:628][208]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MixamoClothing/Character-1/Clothing/Bottommat.Bottommat]
+[2020.07.13-12.40.01:628][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/Character-1/Clothing/Bottommat]
+[2020.07.13-12.40.01:740][208]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Bottommat_Auto2823B72334557BB7BA819829B62E3D8BD.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/Character-1/Clothing/Bottommat_Auto2.uasset'
+[2020.07.13-12.40.01:741][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/Character-1/Clothing/Topmat] ([1] browsable assets)...
+[2020.07.13-12.40.01:771][208]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MixamoClothing/Character-1/Clothing/Topmat.Topmat]
+[2020.07.13-12.40.01:771][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/Character-1/Clothing/Topmat]
+[2020.07.13-12.40.01:810][208]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Topmat_Auto2A614FF0147F69B92FF3951B52AF809E2.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/Character-1/Clothing/Topmat_Auto2.uasset'
+[2020.07.13-12.40.01:811][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/Character-1/Clothing/Hairmat] ([1] browsable assets)...
+[2020.07.13-12.40.01:843][208]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MixamoClothing/Character-1/Clothing/Hairmat.Hairmat]
+[2020.07.13-12.40.01:843][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/Character-1/Clothing/Hairmat]
+[2020.07.13-12.40.01:859][208]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Hairmat_Auto2651D2C7D44DA7D4E42FEF9BDF477A779.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/Character-1/Clothing/Hairmat_Auto2.uasset'
+[2020.07.13-12.40.01:860][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/Character-1/Clothing/Shoesmat] ([1] browsable assets)...
+[2020.07.13-12.40.01:887][208]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MixamoClothing/Character-1/Clothing/Shoesmat.Shoesmat]
+[2020.07.13-12.40.01:887][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/Character-1/Clothing/Shoesmat]
+[2020.07.13-12.40.01:901][208]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/Shoesmat_Auto2C75BE11240BDED1E76DAE9B0CC66307A.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/Character-1/Clothing/Shoesmat_Auto2.uasset'
+[2020.07.13-12.40.01:902][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing_PhysicsAsset] ([1] browsable assets)...
+[2020.07.13-12.40.01:933][208]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing_PhysicsAsset.FuseModel1_clothing_PhysicsAsset]
+[2020.07.13-12.40.01:933][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing_PhysicsAsset]
+[2020.07.13-12.40.01:952][208]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/FuseModel1_clothing_PhysicsAssetD4EDF59E4A4D43C471BB0ABB3F138768.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MixamoClothing/Character-1/Clothing/FuseModel1_clothing_PhysicsAsset_Auto2.uasset'
+[2020.07.13-12.40.01:953][208]LogFileHelpers: Auto-saving content packages took 0.477
