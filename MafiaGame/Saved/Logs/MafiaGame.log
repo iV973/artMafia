@@ -1222,3 +1222,954 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.13-13.15.06:448][814]AssetCheck: New page: Asset Save: multiple assets
 [2020.07.13-13.15.06:448][814]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
 [2020.07.13-13.15.06:448][814]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-13.17.48:116][783]LogEditorViewport: Clicking on Actor (LMB): BP_Modern_Cupboard_C (BP_Modern_Cupboard)
+[2020.07.13-13.17.54:407][972]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_2_C (BP_Classic_Commode_2)
+[2020.07.13-13.18.00:478][172]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_2_C (BP_Classic_Commode_2)
+[2020.07.13-13.18.02:420][229]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_2_C (BP_Classic_Commode_3)
+[2020.07.13-13.18.04:516][297]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_2_C (BP_Classic_Commode_2)
+[2020.07.13-13.18.06:446][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x311)
+[2020.07.13-13.18.06:964][358]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_2_C (BP_Classic_Commode_3)
+[2020.07.13-13.18.39:354][238]LogActorFactory: Actor Factory created SM_TV
+[2020.07.13-13.18.42:597][352]LogActorFactory: Actor Factory created SM_TV
+[2020.07.13-13.19.28:147][722]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.07.13-13.19.28:873][741]Cmd: DELETE
+[2020.07.13-13.19.28:873][741]Cmd: ACTOR DELETE
+[2020.07.13-13.19.28:911][741]LogEditorActor: Deleted Actor: SkyLight
+[2020.07.13-13.19.28:950][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.07.13-13.19.28:963][741]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.07.13-13.21.25:075][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-13.21.25:117][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.07.13-13.21.25:330][388]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafiaF48C7CE74E0B6E4AB13DDA8BFE2EBD0F.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-13.21.25:405][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-13.21.25:458][388]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltData2EDDF6E04591C709205D77BA3FDB2EBE.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-13.21.25:489][388]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.21.25:490][388]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-13.21.25:490][388]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-13.21.48:555][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (boxwood_plant_boxwood_plant03)
+[2020.07.13-13.21.50:075][875]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (boxwood_plant_boxwood_plant01)
+[2020.07.13-13.22.06:483][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-13.22.06:528][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.07.13-13.22.06:761][247]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia7E6D7D7943B4C2F50E1C12993755F496.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-13.22.06:850][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-13.22.06:898][247]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltData416B548C41181177D8E9679257CD0732.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-13.22.06:933][247]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.22.06:933][247]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-13.22.06:934][247]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-13.28.06:976][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Cupboard_Door_Left)
+[2020.07.13-13.28.08:094][549]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_DoorFrame)
+[2020.07.13-13.28.09:000][570]Cmd: DELETE
+[2020.07.13-13.28.09:000][570]Cmd: ACTOR DELETE
+[2020.07.13-13.28.09:028][570]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-13.28.09:030][570]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-13.28.09:074][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.07.13-13.28.09:082][570]LogEditorActor: Deleted 2 Actors (0.082 secs)
+[2020.07.13-13.28.10:895][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.07.13-13.28.11:986][647]Cmd: DELETE
+[2020.07.13-13.28.11:987][647]Cmd: ACTOR DELETE
+[2020.07.13-13.28.12:004][647]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-13.28.12:041][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.07.13-13.28.12:049][647]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.07.13-13.28.12:782][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x318)
+[2020.07.13-13.28.13:474][683]Cmd: DELETE
+[2020.07.13-13.28.13:475][683]Cmd: ACTOR DELETE
+[2020.07.13-13.28.13:491][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-13.28.13:533][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.07.13-13.28.13:538][683]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2020.07.13-13.28.14:518][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x308)
+[2020.07.13-13.28.19:537][848]Cmd: TRANSACTION UNDO
+[2020.07.13-13.28.19:537][848]LogEditorTransaction: Undo Move Actors
+[2020.07.13-13.28.22:158][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x313)
+[2020.07.13-13.28.32:948][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-13.28.32:997][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.07.13-13.28.33:220][191]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafiaBB938F2E4F517B74688361979E99333B.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-13.28.33:295][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-13.28.33:347][191]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltData35AEACB14AB7CCB5AB825989F20FEC24.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-13.28.33:380][191]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.28.33:380][191]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-13.28.33:380][191]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-13.29.28:385][876]LogEditorViewport: Clicking on Actor (LMB): BP_Modern_Cupboard_C (BP_Modern_Cupboard)
+[2020.07.13-13.29.29:196][902]Cmd: DELETE
+[2020.07.13-13.29.29:196][902]Cmd: ACTOR DELETE
+[2020.07.13-13.29.29:214][902]LogEditorActor: Deleted Actor: BP_Modern_Cupboard_C
+[2020.07.13-13.29.29:261][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.07.13-13.29.29:266][902]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2020.07.13-13.29.30:154][936]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_2_C (BP_Classic_Commode_2)
+[2020.07.13-13.29.30:914][960]Cmd: DELETE
+[2020.07.13-13.29.30:914][960]Cmd: ACTOR DELETE
+[2020.07.13-13.29.30:924][960]LogEditorActor: Deleted Actor: BP_Classic_Commode_2_C
+[2020.07.13-13.29.30:960][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.07.13-13.29.30:962][960]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.07.13-13.29.31:875][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TV)
+[2020.07.13-13.29.32:504][ 11]Cmd: DELETE
+[2020.07.13-13.29.32:505][ 11]Cmd: ACTOR DELETE
+[2020.07.13-13.29.32:518][ 11]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-13.29.32:548][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.07.13-13.29.32:554][ 11]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.07.13-13.29.33:341][ 41]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_2_C (BP_Classic_Commode_3)
+[2020.07.13-13.29.33:986][ 61]Cmd: DELETE
+[2020.07.13-13.29.33:986][ 61]Cmd: ACTOR DELETE
+[2020.07.13-13.29.33:999][ 61]LogEditorActor: Deleted Actor: BP_Classic_Commode_2_C
+[2020.07.13-13.29.34:037][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.07.13-13.29.34:044][ 61]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.07.13-13.29.36:215][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf2)
+[2020.07.13-13.29.36:943][150]Cmd: DELETE
+[2020.07.13-13.29.36:943][150]Cmd: ACTOR DELETE
+[2020.07.13-13.29.36:957][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-13.29.36:986][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.07.13-13.29.36:991][150]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.07.13-13.29.38:118][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf)
+[2020.07.13-13.29.38:855][209]Cmd: DELETE
+[2020.07.13-13.29.38:855][209]Cmd: ACTOR DELETE
+[2020.07.13-13.29.38:865][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-13.29.38:900][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.07.13-13.29.38:906][209]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2020.07.13-13.29.43:819][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x310)
+[2020.07.13-13.29.47:637][474]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x311)
+[2020.07.13-13.29.48:405][495]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x312)
+[2020.07.13-13.30.07:826][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-13.30.07:854][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.07.13-13.30.08:018][ 37]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia76CBC8D14C2888E4E7232BAFB7C4D5BA.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-13.30.08:082][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-13.30.08:121][ 37]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltData24B268884BE73D4B7056B2811F4B8127.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-13.30.08:149][ 37]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.30.08:150][ 37]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-13.30.08:150][ 37]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-13.30.40:464][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.13-13.30.40:549][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.13-13.30.40:549][ 94]PIE: New page: PIE session: RoomITMafia (13 лип. 2020 р., 19:30:40)
+[2020.07.13-13.30.40:552][ 94]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RoomITMafia
+[2020.07.13-13.30.40:596][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043290s)
+[2020.07.13-13.30.40:606][ 94]LogAIModule: Creating AISystem for world RoomITMafia
+[2020.07.13-13.30.40:607][ 94]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000014A10AB2400), frame # 36094
+[2020.07.13-13.30.40:609][ 94]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001498C4DFC40), frame # 36094
+[2020.07.13-13.30.40:610][ 94]LogPlayLevel: PIE: World Init took: (0.013291s)
+[2020.07.13-13.30.40:611][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RoomITMafia.RoomITMafia to /Game/UEDPIE_0_RoomITMafia.RoomITMafia (0.057522s)
+[2020.07.13-13.30.40:642][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.07.13-13.30.40:649][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.13-13.30.40:649][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.13-13.30.40:649][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.13-13.30.40:650][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.13-13.30.40:650][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.13-13.30.40:650][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.13-13.30.40:650][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.13-13.30.40:650][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.13-13.30.40:653][ 94]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.13-13.30.40:654][ 94]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.13-13.30.40:673][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.13-13.30.40:674][ 94]LogAudioMixer: Display: 1: FrontRight
+[2020.07.13-13.30.41:001][ 94]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.07.13-13.30.41:002][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.13-13.30.41:003][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.13-13.30.41:003][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.13-13.30.41:012][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.13-13.30.41:050][ 94]LogInit: FAudioDevice initialized.
+[2020.07.13-13.30.41:085][ 94]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.13-13.30.41:093][ 94]LogWorld: Bringing World /Game/UEDPIE_0_RoomITMafia.RoomITMafia up for play (max tick rate 60) at 2020.07.13-16.30.41
+[2020.07.13-13.30.41:095][ 94]LogWorld: Bringing up level for play took: 0.006450
+[2020.07.13-13.30.41:097][ 94]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.07.13-13.30.41:125][ 94]PIE: Server logged in
+[2020.07.13-13.30.41:127][ 94]PIE: Play in editor total start time 0,598 seconds.
+[2020.07.13-13.30.58:378][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-13.30.58:385][692]LogWorld: BeginTearingDown for /Game/UEDPIE_0_RoomITMafia
+[2020.07.13-13.30.58:386][692]LogWorld: UWorld::CleanupWorld for RoomITMafia, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.30.58:388][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-13.30.58:404][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.13-13.30.58:410][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-13.30.58:507][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-13.30.58:517][692]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001498C4DFC40), frame # 36692
+[2020.07.13-13.30.58:517][692]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000014A10AB2400), frame # 36692
+[2020.07.13-13.30.58:521][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.07.13-13.30.58:608][693]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.07.13-13.31.10:399][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling4)
+[2020.07.13-13.31.20:313][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x313)
+[2020.07.13-13.31.21:158][313]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x318)
+[2020.07.13-13.31.22:024][336]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x308)
+[2020.07.13-13.31.35:240][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling3)
+[2020.07.13-13.31.53:060][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling2)
+[2020.07.13-13.32.01:014][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling)
+[2020.07.13-13.32.12:574][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling4)
+[2020.07.13-13.32.19:757][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-13.32.19:794][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.07.13-13.32.19:973][887]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia25BC4C7C466AEB4A17A71CA76028BB09.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-13.32.20:047][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-13.32.20:091][887]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltData3E8625A34B608CBC035D1AA84169640D.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-13.32.20:115][887]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.32.20:115][887]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-13.32.20:116][887]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-13.32.35:693][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Picture3)
+[2020.07.13-13.32.36:414][411]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Classic_Picture2)
+[2020.07.13-13.32.37:150][432]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Classic_Picture)
+[2020.07.13-13.32.38:408][472]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Classic_Picture5)
+[2020.07.13-13.32.52:321][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-13.32.52:367][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.07.13-13.32.52:640][892]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafiaFEC99F104F5A2799CBBBF1A089975CDF.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-13.32.52:741][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-13.32.52:810][892]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltDataD46B8BDF45AE988D37214C95A0E9C3DD.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-13.32.52:853][892]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.32.52:853][892]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-13.32.52:853][892]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-13.32.56:079][989]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.13-13.32.56:184][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.13-13.32.56:192][989]PIE: New page: PIE session: RoomITMafia (13 лип. 2020 р., 19:32:56)
+[2020.07.13-13.32.56:193][989]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RoomITMafia
+[2020.07.13-13.32.56:254][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060266s)
+[2020.07.13-13.32.56:258][989]LogAIModule: Creating AISystem for world RoomITMafia
+[2020.07.13-13.32.56:258][989]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000014A10BAB000), frame # 39989
+[2020.07.13-13.32.56:259][989]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001496E35A840), frame # 39989
+[2020.07.13-13.32.56:259][989]LogPlayLevel: PIE: World Init took: (0.005110s)
+[2020.07.13-13.32.56:260][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RoomITMafia.RoomITMafia to /Game/UEDPIE_0_RoomITMafia.RoomITMafia (0.066311s)
+[2020.07.13-13.32.56:306][989]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.07.13-13.32.56:318][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.13-13.32.56:319][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.13-13.32.56:319][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.13-13.32.56:319][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.13-13.32.56:319][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.13-13.32.56:319][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.13-13.32.56:319][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.13-13.32.56:320][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.13-13.32.56:321][989]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.13-13.32.56:321][989]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.13-13.32.56:346][989]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.13-13.32.56:346][989]LogAudioMixer: Display: 1: FrontRight
+[2020.07.13-13.32.56:754][989]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.07.13-13.32.56:755][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.13-13.32.56:755][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.13-13.32.56:755][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.13-13.32.56:758][989]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.13-13.32.56:808][989]LogInit: FAudioDevice initialized.
+[2020.07.13-13.32.56:828][989]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.13-13.32.56:836][989]LogWorld: Bringing World /Game/UEDPIE_0_RoomITMafia.RoomITMafia up for play (max tick rate 60) at 2020.07.13-16.32.56
+[2020.07.13-13.32.56:837][989]LogWorld: Bringing up level for play took: 0.005625
+[2020.07.13-13.32.56:837][989]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.07.13-13.32.56:850][989]PIE: Server logged in
+[2020.07.13-13.32.56:852][989]PIE: Play in editor total start time 0,692 seconds.
+[2020.07.13-13.33.19:080][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-13.33.19:080][764]LogWorld: BeginTearingDown for /Game/UEDPIE_0_RoomITMafia
+[2020.07.13-13.33.19:081][764]LogWorld: UWorld::CleanupWorld for RoomITMafia, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.33.19:083][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-13.33.19:103][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.13-13.33.19:106][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-13.33.19:193][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-13.33.19:196][764]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001496E35A840), frame # 40764
+[2020.07.13-13.33.19:196][764]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000014A10BAB000), frame # 40764
+[2020.07.13-13.33.19:199][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.07.13-13.33.19:277][765]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.07.13-13.34.28:730][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\2924289.5efedf977c7aa\wall clock\wall clock.FBX)
+[2020.07.13-13.34.28:901][303]LogFbx: Loading FBX Scene from C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\2924289.5efedf977c7aa\wall clock\wall clock.FBX
+[2020.07.13-13.34.30:050][303]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.13-13.34.31:071][303]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.13-13.34.31:143][303]LogMaterial: Display: Missing cached shader map for material Material__38, compiling. 
+[2020.07.13-13.34.31:169][303]LogFbx: Display: Triangulating static mesh 3
+[2020.07.13-13.34.38:350][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.34.38:350][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.34.38:350][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-13.34.38:350][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.34.38:376][303]LogStaticMesh: Building static mesh wall_clock_3...
+[2020.07.13-13.34.39:446][303]LogStaticMesh: Built static mesh [1.07s] /Game/MyContent/3d/it/wall_clock_3.wall_clock_3
+[2020.07.13-13.34.39:833][303]LogFbx: Display: Triangulating static mesh Object001_Retopo
+[2020.07.13-13.34.48:713][303]LogStaticMesh: Building static mesh wall_clock_Object001_Retopo...
+[2020.07.13-13.34.50:440][303]LogStaticMesh: Built static mesh [1.74s] /Game/MyContent/3d/it/wall_clock_Object001_Retopo.wall_clock_Object001_Retopo
+[2020.07.13-13.34.51:329][303]LogFbx: Display: Triangulating static mesh 9
+[2020.07.13-13.34.55:805][303]LogStaticMesh: Building static mesh wall_clock_9...
+[2020.07.13-13.34.56:969][303]LogStaticMesh: Built static mesh [1.16s] /Game/MyContent/3d/it/wall_clock_9.wall_clock_9
+[2020.07.13-13.34.57:419][303]LogFbx: Display: Triangulating static mesh Object005_Retopo
+[2020.07.13-13.35.02:891][303]LogStaticMesh: Building static mesh wall_clock_Object005_Retopo...
+[2020.07.13-13.35.04:952][303]LogStaticMesh: Built static mesh [2.10s] /Game/MyContent/3d/it/wall_clock_Object005_Retopo.wall_clock_Object005_Retopo
+[2020.07.13-13.35.05:439][303]LogFbx: Display: Triangulating static mesh Object004_Retopo
+[2020.07.13-13.35.10:169][303]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo...
+[2020.07.13-13.35.11:412][303]LogStaticMesh: Built static mesh [1.25s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo.wall_clock_Object004_Retopo
+[2020.07.13-13.35.11:616][303]LogFbx: Display: Triangulating static mesh Object004_Retopo001
+[2020.07.13-13.35.16:383][303]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo001...
+[2020.07.13-13.35.17:590][303]LogStaticMesh: Built static mesh [1.21s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo001.wall_clock_Object004_Retopo001
+[2020.07.13-13.35.17:826][303]LogFbx: Display: Triangulating static mesh Object004_Retopo002
+[2020.07.13-13.35.23:991][303]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo002...
+[2020.07.13-13.35.25:386][303]LogStaticMesh: Built static mesh [1.40s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo002.wall_clock_Object004_Retopo002
+[2020.07.13-13.35.25:633][303]LogFbx: Display: Triangulating static mesh Object004_Retopo003
+[2020.07.13-13.35.31:355][303]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo003...
+[2020.07.13-13.35.32:861][303]LogStaticMesh: Built static mesh [1.51s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo003.wall_clock_Object004_Retopo003
+[2020.07.13-13.35.33:171][303]LogFbx: Display: Triangulating static mesh Object004_Retopo004
+[2020.07.13-13.35.39:831][303]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo004...
+[2020.07.13-13.35.41:004][303]LogStaticMesh: Built static mesh [1.17s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo004.wall_clock_Object004_Retopo004
+[2020.07.13-13.35.41:213][303]LogFbx: Display: Triangulating static mesh Object004_Retopo005
+[2020.07.13-13.35.45:969][303]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo005...
+[2020.07.13-13.35.47:138][303]LogStaticMesh: Built static mesh [1.18s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo005.wall_clock_Object004_Retopo005
+[2020.07.13-13.35.47:370][303]LogFbx: Display: Triangulating static mesh Object004_Retopo006
+[2020.07.13-13.35.54:778][303]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo006...
+[2020.07.13-13.35.55:931][303]LogStaticMesh: Built static mesh [1.15s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo006.wall_clock_Object004_Retopo006
+[2020.07.13-13.35.56:155][303]LogFbx: Display: Triangulating static mesh Object004_Retopo007
+[2020.07.13-13.36.01:184][303]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo007...
+[2020.07.13-13.36.02:444][303]LogStaticMesh: Built static mesh [1.27s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo007.wall_clock_Object004_Retopo007
+[2020.07.13-13.36.02:654][303]LogFbx: Display: Triangulating static mesh Object003_Retopo
+[2020.07.13-13.36.07:082][303]LogStaticMesh: Building static mesh wall_clock_Object003_Retopo...
+[2020.07.13-13.36.08:295][303]LogStaticMesh: Built static mesh [1.22s] /Game/MyContent/3d/it/wall_clock_Object003_Retopo.wall_clock_Object003_Retopo
+[2020.07.13-13.36.08:539][303]LogFbx: Display: Triangulating static mesh Object003_Retopo001
+[2020.07.13-13.36.14:193][303]LogStaticMesh: Building static mesh wall_clock_Object003_Retopo001...
+[2020.07.13-13.36.15:331][303]LogStaticMesh: Built static mesh [1.14s] /Game/MyContent/3d/it/wall_clock_Object003_Retopo001.wall_clock_Object003_Retopo001
+[2020.07.13-13.36.15:549][303]LogMaterial: Display: Missing cached shader map for material Material__51, compiling. 
+[2020.07.13-13.36.15:573][303]LogFbx: Display: Triangulating static mesh Object003_Retopo
+[2020.07.13-13.36.43:761][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.36.43:761][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.36.43:761][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-13.36.43:762][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.36.43:792][303]LogStaticMesh: Building static mesh wall_clock_Object003_Retopo_1...
+[2020.07.13-13.36.46:050][303]LogStaticMesh: Built static mesh [2.27s] /Game/MyContent/3d/it/wall_clock_Object003_Retopo_1.wall_clock_Object003_Retopo_1
+[2020.07.13-13.36.46:178][303]LogMaterial: Display: Missing cached shader map for material base, compiling. 
+[2020.07.13-13.36.46:193][303]LogFbx: Display: Triangulating static mesh Layer:0_Retopo
+[2020.07.13-13.36.52:219][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.36.52:219][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.36.52:219][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-13.36.52:219][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.36.52:234][303]LogStaticMesh: Building static mesh wall_clock_0_Retopo...
+[2020.07.13-13.36.53:071][303]LogStaticMesh: Built static mesh [0.84s] /Game/MyContent/3d/it/wall_clock_0_Retopo.wall_clock_0_Retopo
+[2020.07.13-13.36.53:441][303]LogFbx: Display: Triangulating static mesh Object001_Retopo
+[2020.07.13-13.36.56:986][303]LogStaticMesh: Building static mesh wall_clock_Object001_Retopo_1...
+[2020.07.13-13.36.57:443][303]LogStaticMesh: Built static mesh [0.46s] /Game/MyContent/3d/it/wall_clock_Object001_Retopo_1.wall_clock_Object001_Retopo_1
+[2020.07.13-13.36.59:475][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.13-13.37.00:160][303]LogSlate: Took 0.003883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.13-13.37.21:531][388]LogSlate: Window 'Message Log' being destroyed
+[2020.07.13-13.37.21:589][388]LogSlate: Window 'Message Log' being destroyed
+[2020.07.13-13.37.29:164][543]LogActorFactory: Actor Factory created wall_clock_3
+[2020.07.13-13.37.29:172][543]LogActorFactory: Actor Factory created wall_clock_9
+[2020.07.13-13.37.29:176][543]LogActorFactory: Actor Factory created wall_clock_0_Retopo
+[2020.07.13-13.37.29:178][543]LogActorFactory: Actor Factory created wall_clock_Object001_Retopo
+[2020.07.13-13.37.29:180][543]LogActorFactory: Actor Factory created wall_clock_Object001_Retopo_1
+[2020.07.13-13.37.29:183][543]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo
+[2020.07.13-13.37.29:184][543]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo_1
+[2020.07.13-13.37.29:186][543]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo001
+[2020.07.13-13.37.29:189][543]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo
+[2020.07.13-13.37.29:192][543]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo001
+[2020.07.13-13.37.29:195][543]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo002
+[2020.07.13-13.37.29:197][543]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo003
+[2020.07.13-13.37.29:199][543]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo004
+[2020.07.13-13.37.29:202][543]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo005
+[2020.07.13-13.37.29:204][543]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo006
+[2020.07.13-13.37.29:207][543]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo007
+[2020.07.13-13.37.29:209][543]LogActorFactory: Actor Factory created wall_clock_Object005_Retopo
+[2020.07.13-13.37.32:662][613]LogActorFactory: Actor Factory created wall_clock_3
+[2020.07.13-13.37.32:743][613]LogActorFactory: Actor Factory created wall_clock_9
+[2020.07.13-13.37.32:800][613]LogActorFactory: Actor Factory created wall_clock_0_Retopo
+[2020.07.13-13.37.32:863][613]LogActorFactory: Actor Factory created wall_clock_Object001_Retopo
+[2020.07.13-13.37.32:930][613]LogActorFactory: Actor Factory created wall_clock_Object001_Retopo_1
+[2020.07.13-13.37.32:996][613]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo
+[2020.07.13-13.37.33:053][613]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo_1
+[2020.07.13-13.37.33:111][613]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo001
+[2020.07.13-13.37.33:166][613]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo
+[2020.07.13-13.37.33:219][613]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo001
+[2020.07.13-13.37.33:280][613]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo002
+[2020.07.13-13.37.33:340][613]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo003
+[2020.07.13-13.37.33:391][613]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo004
+[2020.07.13-13.37.33:442][613]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo005
+[2020.07.13-13.37.33:484][613]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo006
+[2020.07.13-13.37.33:534][613]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo007
+[2020.07.13-13.37.33:577][613]LogActorFactory: Actor Factory created wall_clock_Object005_Retopo
+[2020.07.13-13.38.08:896][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x318)
+[2020.07.13-13.38.10:467][421]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.07.13-13.38.45:767][ 90]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\2924289.5efedf977c7aa\wall clock\Maps\Chair baxter greta-Cloth-2.jpg)
+[2020.07.13-13.38.46:041][ 90]LogTexture: Display: Building textures: Chair_baxter_greta-Cloth-2 (AutoDXT, 2000X2000)
+[2020.07.13-13.39.07:850][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x318)
+[2020.07.13-13.39.10:589][197]LogMaterial: Display: Missing cached shader map for material Chair_baxter_greta-Cloth-2_Mat, compiling. 
+[2020.07.13-13.39.10:626][197]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.39.10:626][197]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.39.10:626][197]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-13.39.10:626][197]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.39.11:959][225]Cmd: TRANSACTION UNDO
+[2020.07.13-13.39.11:960][225]LogEditorTransaction: Undo Create Actors
+[2020.07.13-13.39.15:525][285]Cmd: TRANSACTION UNDO
+[2020.07.13-13.39.15:526][285]LogEditorTransaction: Undo Create Actors
+[2020.07.13-13.39.23:993][428]Cmd: TRANSACTION UNDO
+[2020.07.13-13.39.23:993][428]LogEditorTransaction: Undo Create Actors
+[2020.07.13-13.40.33:869][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-13.40.33:922][382]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.07.13-13.40.34:174][382]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia28A5E7584BCF43A3D1E6D7A7152B42A4.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-13.40.34:256][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-13.40.34:318][382]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltData6A4BD0B84BF60CA333B3E8A784C08269.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-13.40.34:367][382]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.40.34:368][382]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-13.40.34:368][382]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-13.46.28:199][282]LogMaterial: Display: Missing cached shader map for material unnamed_Mat, compiling. 
+[2020.07.13-13.46.28:215][282]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.46.28:215][282]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.46.28:215][282]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-13.46.28:215][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.46.37:706][550]LogMaterial: Display: Missing cached shader map for material Постійність_пам_яті_Mat, compiling. 
+[2020.07.13-13.46.37:726][550]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-13.46.37:727][550]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-13.46.37:727][550]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-13.46.37:727][550]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-13.47.08:477][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-13.47.08:502][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.07.13-13.47.08:612][539]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia02ADE6AC4754D03CB60FC5B61056CB83.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-13.47.08:651][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-13.47.08:684][539]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltData63B32F744DD48DDE93B5E1A1B2A5723A.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-13.47.08:720][539]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.47.08:720][539]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-13.47.08:720][539]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-13.47.12:615][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.13-13.47.14:233][598]LogSlate: Window 'Save Content' being destroyed
+[2020.07.13-13.47.14:330][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/3d/it/base" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/base.uasset" SILENT=true
+[2020.07.13-13.47.14:361][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/base1DF6969B494C596969F6B98AC6DF8348.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/base.uasset'
+[2020.07.13-13.47.14:396][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/3d/it/bookshelf" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/bookshelf.uasset" SILENT=true
+[2020.07.13-13.47.14:425][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/bookshelfBB98B60B445A2011A596039D3DD63F20.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/bookshelf.uasset'
+[2020.07.13-13.47.14:511][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/b_leaf_b367B29814BC3B287F3A30B86E0753AEC.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/b_leaf_b.uasset'
+[2020.07.13-13.47.14:573][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/b_leaf_d9D24C1A749D2AA98C673BCBBA063E183.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/b_leaf_d.uasset'
+[2020.07.13-13.47.14:613][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/b_leaf_MatE2E3AC364703C647CC45ADB6D8A6E323.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/b_leaf_Mat.uasset'
+[2020.07.13-13.47.14:671][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/bark_b_b450653ED4C238BC4C85E8284435BBDC8.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/bark_b_b.uasset'
+[2020.07.13-13.47.14:715][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/bark_b_b_Mat656930DA4929F383A6D049BD39F49686.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/bark_b_b_Mat.uasset'
+[2020.07.13-13.47.14:796][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/bark_b_dD185CB7A4A66CDF4C4098B938110AE0B.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/bark_b_d.uasset'
+[2020.07.13-13.47.14:844][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/bark_b_Mat6DEE2BC2471B306FD008C6A4F12AC261.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/bark_b_Mat.uasset'
+[2020.07.13-13.47.14:887][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/boxwood_plant01Mat46E459E240B070F5108ECE9800608EB6.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant01Mat.uasset'
+[2020.07.13-13.47.14:934][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/boxwood_plant02Mat4B3D3B2D4A2590F9C14C7FA01C165CF6.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant02Mat.uasset'
+[2020.07.13-13.47.14:978][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/boxwood_plant03Mat74C904234A9D242C7C8338A362B9DF6E.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant03Mat.uasset'
+[2020.07.13-13.47.15:848][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/boxwood_plant_boxwood_plant013AE8D85D49FEB9E8CAA88B8FDCF2C37F.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant_boxwood_plant01.uasset'
+[2020.07.13-13.47.15:903][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/boxwood_plant_boxwood_plant02C05DFE1F4DEE41FE20C969BBBF89D42A.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant_boxwood_plant02.uasset'
+[2020.07.13-13.47.15:974][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/boxwood_plant_boxwood_plant038002A6904FAE6E1CFA62E28B8E4E77C4.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant_boxwood_plant03.uasset'
+[2020.07.13-13.47.16:098][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/concrete_mask56C4E6D240B3EB761EA842A692FEF7DA.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/concrete_mask.uasset'
+[2020.07.13-13.47.16:150][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/concrete_mask_Mat6B86941A4B910046B3ECA99F309CB00A.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/concrete_mask_Mat.uasset'
+[2020.07.13-13.47.16:337][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/ground26A3DF58471050084C7BCCA448B395D5.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/ground.uasset'
+[2020.07.13-13.47.16:462][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/ground_bump1E2D9B584C0FE8E5E6C7D58E11A9A1D7.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/ground_bump.uasset'
+[2020.07.13-13.47.16:754][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/stone_black85519EED4243230E62F776A2297E371C.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/stone_black.uasset'
+[2020.07.13-13.47.16:798][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/stone_black_MatF639498C485B3E04DE83F08F4ACCD8E1.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/stone_black_Mat.uasset'
+[2020.07.13-13.47.17:055][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Chair_baxter_greta-Cloth-2602F4A9E400C74A941122292FEE851B2.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/Chair_baxter_greta-Cloth-2.uasset'
+[2020.07.13-13.47.17:091][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/3d/it/defaultMat" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/defaultMat.uasset" SILENT=true
+[2020.07.13-13.47.17:100][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/defaultMatB42C452743EA65CBC97003BC2D592E5A.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/defaultMat.uasset'
+[2020.07.13-13.47.17:135][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/3d/it/Material__38" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/Material__38.uasset" SILENT=true
+[2020.07.13-13.47.17:143][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Material__3812A877A742EED3908B41879361BED2E5.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/Material__38.uasset'
+[2020.07.13-13.47.17:178][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/3d/it/Material__51" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/Material__51.uasset" SILENT=true
+[2020.07.13-13.47.17:186][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Material__519490296245FCDCA7BB1D3680A8545AE2.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/Material__51.uasset'
+[2020.07.13-13.47.17:336][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_0_Retopo1C6B700E4CA5245702DB4188EAE26287.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_0_Retopo.uasset'
+[2020.07.13-13.47.17:371][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/3d/it/wall_clock_3" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_3.uasset" SILENT=true
+[2020.07.13-13.47.17:519][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_34C181577454E86D212CF628CCD272857.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_3.uasset'
+[2020.07.13-13.47.17:554][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/3d/it/wall_clock_9" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_9.uasset" SILENT=true
+[2020.07.13-13.47.17:704][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_91365E6E2479B538674B90C984A580086.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_9.uasset'
+[2020.07.13-13.47.18:024][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object001_Retopo2F8BA5EB44F0D32F4BC588BC84B5ACCC.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object001_Retopo.uasset'
+[2020.07.13-13.47.18:175][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object001_Retopo_14FF6800A4B98FF297893B3B50C52F87C.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object001_Retopo_1.uasset'
+[2020.07.13-13.47.18:369][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object003_Retopo095EAEEA4A6AB591513968998D67B655.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object003_Retopo.uasset'
+[2020.07.13-13.47.18:535][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object003_Retopo001C03DF01E4AC5FD4FE960019EB2A7B951.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object003_Retopo001.uasset'
+[2020.07.13-13.47.18:995][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object003_Retopo_156F67A9F4FBC16F62D802EAB33EF97E7.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object003_Retopo_1.uasset'
+[2020.07.13-13.47.19:211][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object004_Retopo96CFE0024E9834E18A35ADB251B4024A.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object004_Retopo.uasset'
+[2020.07.13-13.47.19:405][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object004_Retopo001749383F84D4D9D196F093D9DE3595407.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object004_Retopo001.uasset'
+[2020.07.13-13.47.19:616][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object004_Retopo002B1EBDA5944B2305147D730B66D2DCEB0.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object004_Retopo002.uasset'
+[2020.07.13-13.47.19:789][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object004_Retopo00399A090554111F5B1262EEBB2377DC8B2.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object004_Retopo003.uasset'
+[2020.07.13-13.47.19:968][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object004_Retopo004C731C0CC423904C78C6AE3BAE1E493AA.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object004_Retopo004.uasset'
+[2020.07.13-13.47.20:148][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object004_Retopo00510280E634819A11F6D35558A16616CB6.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object004_Retopo005.uasset'
+[2020.07.13-13.47.20:346][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object004_Retopo0065472C5164EACAA5EAFD111B5CF320E8E.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object004_Retopo006.uasset'
+[2020.07.13-13.47.20:562][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object004_Retopo007232FD27E464320B8F6904DB1E9F3C266.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object004_Retopo007.uasset'
+[2020.07.13-13.47.20:804][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/wall_clock_Object005_RetopoA3938497441E7A9C0DFA278DDD535E21.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/3d/it/wall_clock_Object005_Retopo.uasset'
+[2020.07.13-13.47.20:877][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/591704-4c4c73fea524ab31b3093e1fa07B84E5C4A9D9772B178A597D19F5A16.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/591704-4c4c73fea524ab31b3093e1fa48a4bc6_Mat.uasset'
+[2020.07.13-13.47.20:924][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Paints/unnamed_Mat" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/Paints/unnamed_Mat.uasset" SILENT=true
+[2020.07.13-13.47.20:936][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/unnamed_Mat778901DC440CC71DF60B528B9C7D5B7C.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/Paints/unnamed_Mat.uasset'
+[2020.07.13-13.47.20:994][598]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Постійність_пам_яті_MatA168A9324962C4943AF4FAAC4BA696EA.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/Paints/Постійність_пам_яті_Mat.uasset'
+[2020.07.13-13.47.21:102][598]LogSlate: Window 'MafiaGame - Unreal Editor' being destroyed
+[2020.07.13-13.47.21:641][598]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-13.47.21:641][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/base.base
+[2020.07.13-13.47.21:641][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/bookshelf.bookshelf
+[2020.07.13-13.47.21:641][598]LogContentValidation: Display: Validating Texture2D /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/b_leaf_b.b_leaf_b
+[2020.07.13-13.47.21:641][598]LogContentValidation: Display: Validating Texture2D /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/b_leaf_d.b_leaf_d
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/b_leaf_Mat.b_leaf_Mat
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating Texture2D /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/bark_b_b.bark_b_b
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/bark_b_b_Mat.bark_b_b_Mat
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating Texture2D /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/bark_b_d.bark_b_d
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/bark_b_Mat.bark_b_Mat
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant01Mat.boxwood_plant01Mat
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant02Mat.boxwood_plant02Mat
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant03Mat.boxwood_plant03Mat
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant_boxwood_plant01.boxwood_plant_boxwood_plant01
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant_boxwood_plant02.boxwood_plant_boxwood_plant02
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/boxwood_plant_boxwood_plant03.boxwood_plant_boxwood_plant03
+[2020.07.13-13.47.21:642][598]LogContentValidation: Display: Validating Texture2D /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/concrete_mask.concrete_mask
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/concrete_mask_Mat.concrete_mask_Mat
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating Texture2D /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/ground.ground
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating Texture2D /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/ground_bump.ground_bump
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating Texture2D /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/stone_black.stone_black
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/boxwood_plant_obj/boxwood_plant_obj/stone_black_Mat.stone_black_Mat
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating Texture2D /Game/MyContent/3d/it/Chair_baxter_greta-Cloth-2.Chair_baxter_greta-Cloth-2
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/defaultMat.defaultMat
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/Material__38.Material__38
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating Material /Game/MyContent/3d/it/Material__51.Material__51
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_0_Retopo.wall_clock_0_Retopo
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_3.wall_clock_3
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_9.wall_clock_9
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object001_Retopo.wall_clock_Object001_Retopo
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object001_Retopo_1.wall_clock_Object001_Retopo_1
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object003_Retopo.wall_clock_Object003_Retopo
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object003_Retopo001.wall_clock_Object003_Retopo001
+[2020.07.13-13.47.21:643][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object003_Retopo_1.wall_clock_Object003_Retopo_1
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object004_Retopo.wall_clock_Object004_Retopo
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object004_Retopo001.wall_clock_Object004_Retopo001
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object004_Retopo002.wall_clock_Object004_Retopo002
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object004_Retopo003.wall_clock_Object004_Retopo003
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object004_Retopo004.wall_clock_Object004_Retopo004
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object004_Retopo005.wall_clock_Object004_Retopo005
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object004_Retopo006.wall_clock_Object004_Retopo006
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object004_Retopo007.wall_clock_Object004_Retopo007
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/3d/it/wall_clock_Object005_Retopo.wall_clock_Object005_Retopo
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating Material /Game/MyContent/591704-4c4c73fea524ab31b3093e1fa48a4bc6_Mat.591704-4c4c73fea524ab31b3093e1fa48a4bc6_Mat
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating Material /Game/MyContent/Paints/unnamed_Mat.unnamed_Mat
+[2020.07.13-13.47.21:644][598]LogContentValidation: Display: Validating Material /Game/MyContent/Paints/Постійність_пам_яті_Mat.Постійність_пам_яті_Mat
+[2020.07.13-13.47.21:814][599]Cmd: QUIT_EDITOR
+[2020.07.13-13.47.21:814][599]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.07.13-13.47.21:845][599]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.07.13-13.47.22:940][599]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-13.47.23:008][599]LogExit: Preparing to exit.
+[2020.07.13-13.47.24:244][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:244][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:244][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:244][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:244][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:244][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:244][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:245][599]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.47.24:245][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:246][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:247][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:248][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:248][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:248][599]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.13-13.47.24:248][599]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-13.47.24:343][599]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.07.13-13.47.24:682][599]LogExit: Editor shut down
+[2020.07.13-13.47.24:684][599]LogExit: Transaction tracking system shut down
+[2020.07.13-13.47.26:600][599]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001496E365D00), frame # 47599
+[2020.07.13-13.47.26:600][599]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000149B41BF600), frame # 47599
+[2020.07.13-13.47.26:656][599]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (00000149494E6980), frame # 47599
+[2020.07.13-13.47.26:657][599]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014949386AC0), frame # 47599
+[2020.07.13-13.47.26:659][599]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000149493D5C00), frame # 47599
+[2020.07.13-13.47.27:024][599]LogExit: Object subsystem successfully closed.
+[2020.07.13-13.47.27:132][599]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.07.13-13.47.27:498][599]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (796)
+[2020.07.13-13.47.27:498][599]LogModuleManager: Shutting down and abandoning module Voice (794)
+[2020.07.13-13.47.27:499][599]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (792)
+[2020.07.13-13.47.27:499][599]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.07.13-13.47.27:499][599]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.07.13-13.47.27:500][599]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.07.13-13.47.27:536][599]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.07.13-13.47.27:536][599]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.07.13-13.47.27:536][599]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.07.13-13.47.27:538][599]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.07.13-13.47.27:541][599]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.07.13-13.47.27:541][599]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.07.13-13.47.27:541][599]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.07.13-13.47.27:546][599]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.07.13-13.47.27:547][599]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.07.13-13.47.27:547][599]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.07.13-13.47.27:547][599]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.07.13-13.47.27:548][599]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.07.13-13.47.27:548][599]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.07.13-13.47.27:549][599]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.07.13-13.47.27:550][599]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.07.13-13.47.27:550][599]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.07.13-13.47.27:550][599]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.07.13-13.47.27:550][599]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.07.13-13.47.27:557][599]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.07.13-13.47.27:559][599]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.07.13-13.47.27:565][599]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.07.13-13.47.27:568][599]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.07.13-13.47.27:568][599]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.07.13-13.47.27:568][599]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.07.13-13.47.27:568][599]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.07.13-13.47.27:568][599]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.07.13-13.47.27:569][599]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.07.13-13.47.27:571][599]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.07.13-13.47.27:573][599]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.07.13-13.47.27:574][599]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.07.13-13.47.27:575][599]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.07.13-13.47.27:575][599]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.07.13-13.47.27:575][599]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.07.13-13.47.27:575][599]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.07.13-13.47.27:575][599]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.07.13-13.47.27:575][599]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.07.13-13.47.27:575][599]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.07.13-13.47.27:575][599]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.07.13-13.47.27:575][599]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.07.13-13.47.27:575][599]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.07.13-13.47.27:576][599]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.07.13-13.47.27:576][599]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.07.13-13.47.27:576][599]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.07.13-13.47.27:578][599]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.07.13-13.47.27:578][599]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.07.13-13.47.27:579][599]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.07.13-13.47.27:580][599]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.07.13-13.47.27:580][599]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.07.13-13.47.27:580][599]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.07.13-13.47.27:582][599]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.07.13-13.47.27:582][599]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.07.13-13.47.27:582][599]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.07.13-13.47.27:586][599]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.07.13-13.47.27:588][599]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.07.13-13.47.27:592][599]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.07.13-13.47.27:593][599]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.07.13-13.47.27:595][599]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.07.13-13.47.27:595][599]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.07.13-13.47.27:597][599]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.07.13-13.47.27:597][599]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.07.13-13.47.27:743][599]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.07.13-13.47.27:743][599]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.07.13-13.47.27:743][599]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.07.13-13.47.27:743][599]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.07.13-13.47.27:743][599]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.07.13-13.47.27:753][599]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.07.13-13.47.27:755][599]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.07.13-13.47.27:755][599]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.07.13-13.47.27:756][599]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.07.13-13.47.27:757][599]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.07.13-13.47.27:760][599]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.07.13-13.47.27:761][599]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.07.13-13.47.27:762][599]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.07.13-13.47.27:763][599]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.07.13-13.47.27:763][599]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.07.13-13.47.27:764][599]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.07.13-13.47.27:764][599]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.07.13-13.47.27:764][599]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.07.13-13.47.27:765][599]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.07.13-13.47.27:767][599]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.07.13-13.47.27:767][599]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.07.13-13.47.27:768][599]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.07.13-13.47.27:769][599]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.07.13-13.47.27:770][599]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.07.13-13.47.27:771][599]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.07.13-13.47.27:773][599]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.07.13-13.47.27:807][599]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.07.13-13.47.27:808][599]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.07.13-13.47.27:809][599]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.07.13-13.47.27:812][599]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.07.13-13.47.27:812][599]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.07.13-13.47.27:813][599]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.07.13-13.47.27:813][599]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.07.13-13.47.27:817][599]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.07.13-13.47.27:819][599]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.07.13-13.47.27:819][599]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.07.13-13.47.27:819][599]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.07.13-13.47.27:824][599]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.07.13-13.47.27:824][599]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.07.13-13.47.27:829][599]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.07.13-13.47.27:830][599]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.07.13-13.47.27:830][599]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.07.13-13.47.27:830][599]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.07.13-13.47.27:831][599]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.07.13-13.47.27:833][599]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.07.13-13.47.27:834][599]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.07.13-13.47.27:834][599]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.07.13-13.47.27:836][599]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.07.13-13.47.27:836][599]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.07.13-13.47.27:836][599]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.07.13-13.47.27:837][599]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.07.13-13.47.27:837][599]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.07.13-13.47.27:837][599]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.07.13-13.47.27:837][599]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.07.13-13.47.27:837][599]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.07.13-13.47.27:837][599]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.07.13-13.47.27:837][599]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.07.13-13.47.27:837][599]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.07.13-13.47.27:837][599]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.07.13-13.47.27:838][599]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.07.13-13.47.27:838][599]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.07.13-13.47.27:838][599]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.07.13-13.47.27:838][599]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.07.13-13.47.28:072][599]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.07.13-13.47.28:073][599]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.07.13-13.47.28:073][599]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.07.13-13.47.28:073][599]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.07.13-13.47.28:075][599]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.07.13-13.47.28:075][599]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.07.13-13.47.28:075][599]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.07.13-13.47.28:075][599]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.07.13-13.47.28:075][599]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.07.13-13.47.28:075][599]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.07.13-13.47.28:075][599]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.07.13-13.47.28:076][599]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.07.13-13.47.28:076][599]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.07.13-13.47.28:076][599]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.07.13-13.47.28:076][599]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.07.13-13.47.28:076][599]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.07.13-13.47.28:077][599]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.07.13-13.47.28:077][599]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.07.13-13.47.28:077][599]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.07.13-13.47.28:077][599]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.07.13-13.47.28:077][599]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.07.13-13.47.28:077][599]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.07.13-13.47.28:079][599]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.07.13-13.47.28:079][599]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.07.13-13.47.28:080][599]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.07.13-13.47.28:080][599]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.07.13-13.47.28:080][599]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.07.13-13.47.28:080][599]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.07.13-13.47.28:080][599]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.07.13-13.47.28:081][599]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.07.13-13.47.28:081][599]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.07.13-13.47.28:081][599]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.07.13-13.47.28:081][599]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.07.13-13.47.28:081][599]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.07.13-13.47.28:081][599]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.07.13-13.47.28:081][599]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.07.13-13.47.28:081][599]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.07.13-13.47.28:081][599]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.07.13-13.47.28:085][599]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.07.13-13.47.28:086][599]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.07.13-13.47.28:086][599]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.07.13-13.47.28:087][599]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.07.13-13.47.28:087][599]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.07.13-13.47.28:088][599]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.07.13-13.47.28:088][599]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.07.13-13.47.28:088][599]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.07.13-13.47.28:088][599]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.07.13-13.47.28:088][599]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.07.13-13.47.28:089][599]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.07.13-13.47.28:089][599]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.07.13-13.47.28:089][599]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.07.13-13.47.28:089][599]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.07.13-13.47.28:089][599]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.07.13-13.47.28:089][599]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.07.13-13.47.28:090][599]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.07.13-13.47.28:090][599]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.07.13-13.47.28:090][599]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.07.13-13.47.28:090][599]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.07.13-13.47.28:090][599]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.07.13-13.47.28:090][599]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.07.13-13.47.28:090][599]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.07.13-13.47.28:091][599]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.07.13-13.47.28:092][599]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.07.13-13.47.28:093][599]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.07.13-13.47.28:096][599]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.07.13-13.47.28:097][599]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.07.13-13.47.28:098][599]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.07.13-13.47.28:098][599]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.07.13-13.47.28:100][599]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.07.13-13.47.28:100][599]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.07.13-13.47.28:100][599]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.07.13-13.47.28:101][599]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.07.13-13.47.28:101][599]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.07.13-13.47.28:101][599]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.07.13-13.47.28:103][599]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.07.13-13.47.28:103][599]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.07.13-13.47.28:106][599]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.07.13-13.47.28:110][599]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.07.13-13.47.28:112][599]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.07.13-13.47.28:113][599]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.07.13-13.47.28:113][599]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.07.13-13.47.28:113][599]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.07.13-13.47.28:114][599]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.07.13-13.47.28:114][599]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.07.13-13.47.28:114][599]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.07.13-13.47.28:114][599]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.07.13-13.47.28:114][599]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.07.13-13.47.28:116][599]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.07.13-13.47.28:116][599]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.07.13-13.47.28:117][599]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.07.13-13.47.28:117][599]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.07.13-13.47.28:117][599]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.07.13-13.47.28:117][599]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.07.13-13.47.28:117][599]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.07.13-13.47.28:218][599]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.07.13-13.47.28:320][599]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.07.13-13.47.28:320][599]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.07.13-13.47.28:320][599]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.07.13-13.47.28:321][599]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.07.13-13.47.28:321][599]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.07.13-13.47.28:322][599]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.07.13-13.47.28:322][599]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.07.13-13.47.28:322][599]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.07.13-13.47.28:322][599]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.07.13-13.47.28:323][599]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.07.13-13.47.28:325][599]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.07.13-13.47.28:326][599]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.07.13-13.47.28:327][599]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.07.13-13.47.28:328][599]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.07.13-13.47.28:328][599]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.07.13-13.47.28:328][599]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.07.13-13.47.28:328][599]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.07.13-13.47.28:332][599]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.07.13-13.47.28:333][599]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.07.13-13.47.28:339][599]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.07.13-13.47.28:339][599]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.07.13-13.47.28:340][599]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.07.13-13.47.28:341][599]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.07.13-13.47.28:341][599]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.07.13-13.47.28:341][599]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.07.13-13.47.28:344][599]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.07.13-13.47.28:350][599]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.07.13-13.47.28:352][599]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.07.13-13.47.28:353][599]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.07.13-13.47.28:355][599]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.07.13-13.47.28:357][599]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.07.13-13.47.28:357][599]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.07.13-13.47.28:359][599]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.07.13-13.47.28:359][599]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.07.13-13.47.28:359][599]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.07.13-13.47.28:360][599]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.07.13-13.47.28:385][599]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.07.13-13.47.28:385][599]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.07.13-13.47.28:385][599]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.07.13-13.47.28:385][599]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.07.13-13.47.28:385][599]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.07.13-13.47.28:389][599]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.07.13-13.47.28:389][599]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.07.13-13.47.28:389][599]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.07.13-13.47.28:389][599]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.07.13-13.47.28:390][599]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.07.13-13.47.28:391][599]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.07.13-13.47.28:391][599]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.07.13-13.47.28:393][599]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.07.13-13.47.28:394][599]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.07.13-13.47.28:395][599]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.07.13-13.47.28:396][599]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.07.13-13.47.28:399][599]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.07.13-13.47.28:400][599]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.07.13-13.47.28:404][599]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.07.13-13.47.28:408][599]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.07.13-13.47.28:412][599]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.07.13-13.47.28:416][599]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.07.13-13.47.28:417][599]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.07.13-13.47.28:417][599]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.07.13-13.47.28:417][599]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.07.13-13.47.28:417][599]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.07.13-13.47.28:417][599]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.07.13-13.47.28:417][599]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.07.13-13.47.28:418][599]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.07.13-13.47.28:419][599]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.07.13-13.47.28:419][599]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.07.13-13.47.28:419][599]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.07.13-13.47.28:424][599]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.07.13-13.47.28:427][599]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.07.13-13.47.28:433][599]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.07.13-13.47.28:443][599]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.07.13-13.47.28:443][599]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.07.13-13.47.28:443][599]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.07.13-13.47.28:446][599]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.07.13-13.47.28:448][599]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.07.13-13.47.28:448][599]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.07.13-13.47.28:449][599]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.07.13-13.47.28:449][599]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.07.13-13.47.28:455][599]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.07.13-13.47.28:456][599]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.07.13-13.47.28:458][599]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.07.13-13.47.28:458][599]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.07.13-13.47.28:460][599]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.07.13-13.47.28:461][599]LogXGEController: Cleaning working directory: C:/Users/S406UA-BM012T/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.07.13-13.47.28:462][599]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.07.13-13.47.28:466][599]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.07.13-13.47.28:467][599]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.07.13-13.47.28:467][599]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.07.13-13.47.28:468][599]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.07.13-13.47.28:468][599]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.07.13-13.47.28:469][599]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.07.13-13.47.28:469][599]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.07.13-13.47.28:469][599]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.07.13-13.47.28:470][599]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.07.13-13.47.28:473][599]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.07.13-13.47.28:473][599]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.07.13-13.47.28:473][599]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.07.13-13.47.28:473][599]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.07.13-13.47.28:473][599]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.07.13-13.47.28:473][599]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.07.13-13.47.28:473][599]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.07.13-13.47.28:473][599]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.07.13-13.47.28:473][599]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.07.13-13.47.28:473][599]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.07.13-13.47.28:474][599]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.07.13-13.47.28:533][599]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.07.13-13.47.28:549][599]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.07.13-13.47.28:550][599]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.07.13-13.47.28:550][599]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.07.13-13.47.28:551][599]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.07.13-13.47.28:551][599]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.07.13-13.47.28:552][599]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.07.13-13.47.28:552][599]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.07.13-13.47.28:553][599]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.07.13-13.47.28:553][599]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.07.13-13.47.28:563][599]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.07.13-13.47.28:627][599]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.07.13-13.47.28:629][599]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.07.13-13.47.28:629][599]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.07.13-13.47.28:629][599]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.07.13-13.47.28:634][599]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.07.13-13.47.28:634][599]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.07.13-13.47.28:636][599]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.07.13-13.47.28:636][599]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.07.13-13.47.28:637][599]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.07.13-13.47.28:637][599]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.07.13-13.47.28:637][599]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.07.13-13.47.28:638][599]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.07.13-13.47.28:639][599]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.07.13-13.47.28:639][599]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.07.13-13.47.28:639][599]LogHMD: Freeing OpenVRDLLHandle.
+[2020.07.13-13.47.28:639][599]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.07.13-13.47.28:640][599]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.07.13-13.47.28:640][599]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.07.13-13.47.28:640][599]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.07.13-13.47.28:640][599]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.07.13-13.47.28:643][599]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.07.13-13.47.28:646][599]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.07.13-13.47.28:685][599]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.07.13-13.47.28:685][599]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.07.13-13.47.28:685][599]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8AE6FCDE-4188-307A-BFFF-DAA66B532D7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=3dff3312477a6ac79ea9f0b4ebbb027b%7C91735f494ca04da69c07369395b1a216%7C0f4d9955-6882-4768-aaad-96355c4e0138&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.07.13-13.47.28:711][599]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.07.13-13.47.28:726][599]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.07.13-13.47.28:734][599]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.07.13-13.47.28:736][599]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.07.13-13.47.28:736][599]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.07.13-13.47.28:736][599]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.07.13-13.47.28:737][599]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.07.13-13.47.28:737][599]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.07.13-13.47.28:737][599]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.07.13-13.47.28:737][599]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.07.13-13.47.28:738][599]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.07.13-13.47.28:739][599]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.07.13-13.47.28:739][599]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.07.13-13.47.28:739][599]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.07.13-13.47.28:740][599]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.07.13-13.47.28:743][599]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.07.13-13.47.28:748][599]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.07.13-13.47.28:748][599]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.07.13-13.47.28:749][599]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.07.13-13.47.28:749][599]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.07.13-13.47.28:756][599]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.07.13-13.47.28:757][599]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.07.13-13.47.28:757][599]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.07.13-13.47.28:757][599]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.07.13-13.47.28:758][599]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.07.13-13.47.28:758][599]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.07.13-13.47.28:758][599]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.07.13-13.47.28:759][599]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.07.13-13.47.28:759][599]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.07.13-13.47.28:759][599]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.07.13-13.47.28:760][599]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.07.13-13.47.28:763][599]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.07.13-13.47.28:764][599]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.07.13-13.47.28:813][599]LogD3D11RHI: Shutdown
+[2020.07.13-13.47.28:813][599]LogD3D11RHI: CleanupD3DDevice
+[2020.07.13-13.47.29:073][599]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2020.07.13-13.47.29:093][599]LogExit: Exiting.
+[2020.07.13-13.47.29:110][599]Log file closed, 07/13/20 16:47:29
