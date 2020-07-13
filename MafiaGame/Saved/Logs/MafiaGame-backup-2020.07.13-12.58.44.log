@@ -1,0 +1,1473 @@
+﻿Log file open, 07/13/20 15:14:46
+LogInit: Display: Running engine for game: MafiaGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.524946
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.13-12.14.47:943][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.13-12.14.47:943][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.13-12.14.47:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-12.14.47:944][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.13-12.14.47:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-12.14.47:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-12.14.47:944][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.13-12.14.47:944][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.13-12.14.47:945][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-12.14.47:945][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-12.14.47:952][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:952][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.13-12.14.47:952][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.13-12.14.47:952][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:952][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.13-12.14.47:952][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:952][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.13-12.14.47:952][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.13-12.14.47:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.13-12.14.47:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.13-12.14.47:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.13-12.14.47:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.13-12.14.47:954][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.13-12.14.47:955][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.13-12.14.47:956][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.13-12.14.47:957][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.13-12.14.47:958][  0]LogHAL: Display: Platform has ~ 8 GB [8444059648 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.13-12.14.47:959][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.13-12.14.47:959][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:959][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.13-12.14.47:959][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.13-12.14.47:959][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.13-12.14.47:960][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.13-12.14.47:961][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.13-12.14.47:962][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.13-12.14.47:963][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.13-12.14.47:963][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.13-12.14.47:963][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.07.13-12.14.47:963][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Config/Windows/Engine.ini]
+[2020.07.13-12.14.47:965][  0]LogInit: Computer: DESKTOP-81OU72V
+[2020.07.13-12.14.47:965][  0]LogInit: User: S406UABM012T
+[2020.07.13-12.14.47:965][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.13-12.14.47:965][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.13-12.14.47:965][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.07.13-12.14.47:965][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.13-12.14.47:965][  0]LogMemory: Process Physical Memory: 114.06 MB used, 114.06 MB peak
+[2020.07.13-12.14.47:965][  0]LogMemory: Process Virtual Memory: 96.26 MB used, 96.27 MB peak
+[2020.07.13-12.14.47:965][  0]LogMemory: Physical Memory: 3325.47 MB used,  4727.41 MB free, 8052.88 MB total
+[2020.07.13-12.14.47:965][  0]LogMemory: Virtual Memory: 5109.80 MB used,  134212616.00 MB free, 134217728.00 MB total
+[2020.07.13-12.14.47:976][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.13-12.14.48:269][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.07.13-12.14.48:277][  0]LogInit: Using OS detected language (uk-UA).
+[2020.07.13-12.14.48:277][  0]LogInit: Using OS detected locale (uk-UA).
+[2020.07.13-12.14.48:327][  0]LogTextLocalizationManager: No localization for 'uk-UA' exists, so 'en' will be used for the language.
+[2020.07.13-12.14.48:725][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.13-12.14.48:807][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.13-12.14.48:807][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.13-12.14.49:396][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.13-12.14.49:396][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.13-12.14.49:396][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.13-12.14.49:396][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.13-12.14.49:555][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.07.13-12.14.49:555][  0]LogD3D11RHI:       128/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.07.13-12.14.49:560][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.13-12.14.49:560][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.13-12.14.49:560][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.13-12.14.49:568][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.13-12.14.49:568][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.13-12.14.49:568][  0]LogWindows: EnumDisplayDevices:
+[2020.07.13-12.14.49:568][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.07.13-12.14.49:568][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.07.13-12.14.49:569][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.07.13-12.14.49:569][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.07.13-12.14.49:569][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2020.07.13-12.14.49:569][  0]LogD3D11RHI:   Driver Version: 26.20.100.7325 (internal:26.20.100.7325, unified:26.20.100.7325)
+[2020.07.13-12.14.49:569][  0]LogD3D11RHI:      Driver Date: 10-7-2019
+[2020.07.13-12.14.49:571][  0]LogRHI: Texture pool is 1498 MB (70% of 2141 MB)
+[2020.07.13-12.14.49:863][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.07.13-12.14.49:869][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.07.13-12.14.49:870][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.13-12.14.49:870][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.07.13-12.14.49:911][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.07.13-12.14.50:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.13-12.14.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.13-12.14.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.13-12.14.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.13-12.14.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.13-12.14.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.13-12.14.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.13-12.14.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.13-12.14.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.13-12.14.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.13-12.14.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.13-12.14.50:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.13-12.14.50:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.13-12.14.50:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.07.13-12.14.50:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.13-12.14.50:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.13-12.14.50:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.13-12.14.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.13-12.14.50:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.13-12.14.50:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.13-12.14.50:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.13-12.14.50:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.13-12.14.50:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.13-12.14.50:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.13-12.14.50:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.13-12.14.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.13-12.14.50:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.13-12.14.50:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.13-12.14.50:670][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.13-12.14.50:693][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.13-12.14.50:879][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Intermediate/Shaders/WorkingDirectory/12860/).
+[2020.07.13-12.14.50:879][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/S406UA-BM012T/AppData/Local/Temp/UnrealShaderWorkingDir/2D7C6AD1433B3473176D6180A7559E70/'.
+[2020.07.13-12.14.50:880][  0]LogXGEController: Cleaning working directory: C:/Users/S406UA-BM012T/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.07.13-12.14.50:881][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.13-12.14.50:881][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.13-12.14.50:881][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.13-12.14.52:220][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.13-12.14.52:431][  0]LogDerivedDataCache: Loaded boot cache 0.21s 75MB C:/Users/S406UA-BM012T/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.13-12.14.52:431][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/S406UA-BM012T/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.07.13-12.14.52:431][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.13-12.14.52:431][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.13-12.14.52:431][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.13-12.14.52:431][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.13-12.14.52:447][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.13-12.14.52:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.13-12.14.52:447][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.13-12.14.52:450][  0]LogDerivedDataCache: Using Local data cache path C:/Users/S406UA-BM012T/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.13-12.14.52:450][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.13-12.14.52:450][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.13-12.14.52:522][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.13-12.14.52:531][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.13-12.14.52:597][  0]LogAssetRegistry: FAssetRegistry took 0.0091 seconds to start up
+[2020.07.13-12.14.53:040][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.13-12.14.53:332][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.13-12.14.53:332][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.13-12.14.53:332][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.13-12.14.53:333][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.13-12.14.53:334][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.13-12.14.53:399][  0]LogNetVersion: MafiaGame 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1002246912)
+[2020.07.13-12.14.54:551][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001C6043E6980), frame # 0
+[2020.07.13-12.14.54:551][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C60427EAC0), frame # 0
+[2020.07.13-12.14.54:561][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C6042D9C00), frame # 0
+[2020.07.13-12.14.54:656][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.047460 seconds
+[2020.07.13-12.14.54:662][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.07.13-12.14.54:662][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.07.13-12.14.54:662][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.13-12.14.56:131][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.13-12.14.56:146][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.13-12.14.56:440][  0]SourceControl: Source control is disabled
+[2020.07.13-12.14.56:440][  0]SourceControl: Source control is disabled
+[2020.07.13-12.14.56:480][  0]SourceControl: Source control is disabled
+[2020.07.13-12.14.56:493][  0]SourceControl: Source control is disabled
+[2020.07.13-12.14.56:513][  0]SourceControl: Source control is disabled
+[2020.07.13-12.14.57:360][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.13-12.14.57:420][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.13-12.14.57:420][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.13-12.14.57:557][  0]LogOcInput: OculusInput pre-init called
+[2020.07.13-12.14.57:595][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.13-12.14.57:595][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.13-12.14.57:841][  0]LogEngine: Initializing Engine...
+[2020.07.13-12.14.57:844][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.13-12.14.57:844][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.07.13-12.14.57:851][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2020.07.13-12.14.58:048][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.13-12.14.58:117][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.13-12.14.58:117][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C60716BC00), frame # 0
+[2020.07.13-12.14.58:118][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C60718B240), frame # 0
+[2020.07.13-12.14.58:143][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.13-12.14.58:143][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.13-12.14.58:143][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.13-12.14.58:143][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.13-12.14.58:143][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.13-12.14.58:143][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.13-12.14.58:143][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.13-12.14.58:143][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.13-12.14.58:148][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.13-12.14.58:148][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.13-12.14.58:191][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.13-12.14.58:191][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.13-12.14.58:601][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.07.13-12.14.58:607][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.13-12.14.58:614][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.13-12.14.58:614][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.13-12.14.58:616][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.13-12.14.58:618][  0]LogInit: FAudioDevice initialized.
+[2020.07.13-12.14.58:619][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.13-12.14.58:728][  0]LogDerivedDataCache: Saved boot cache 0.11s 75MB C:/Users/S406UA-BM012T/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.13-12.14.58:728][  0]LogInit: Texture streaming: Enabled
+[2020.07.13-12.14.58:771][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.13-12.14.58:772][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.13-12.14.58:790][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.13-12.14.58:866][  0]LogInit: Transaction tracking system initialized
+[2020.07.13-12.14.58:958][  0]BlueprintLog: New page: Editor Load
+[2020.07.13-12.14.59:294][  0]LocalizationService: Localization service is disabled
+[2020.07.13-12.14.59:777][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.13-12.14.59:777][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.13-12.15.00:204][  0]LogFileCache: Scanning file cache for directory 'C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/' took 0.02s
+[2020.07.13-12.15.00:573][  0]SourceControl: Source control is disabled
+[2020.07.13-12.15.00:574][  0]LogUnrealEdMisc: Loading editor; pre map load, took 26.065
+[2020.07.13-12.15.00:576][  0]Cmd: MAP LOAD FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.13-12.15.00:577][  0]LightingResults: New page: Lighting Build
+[2020.07.13-12.15.00:585][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.15.00:585][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.15.00:586][  0]MapCheck: New page: Map Check
+[2020.07.13-12.15.00:586][  0]LightingResults: New page: Lighting Build
+[2020.07.13-12.15.00:606][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C60716BC00), frame # 0
+[2020.07.13-12.15.00:606][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C60718B240), frame # 0
+[2020.07.13-12.15.00:607][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.07.13-12.15.04:995][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line041.BabyGrandPiano1_Line041.
+[2020.07.13-12.15.04:996][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line041.BabyGrandPiano1_Line041:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.04:999][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line040.BabyGrandPiano1_Line040.
+[2020.07.13-12.15.04:999][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line040.BabyGrandPiano1_Line040:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:002][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line039.BabyGrandPiano1_Line039.
+[2020.07.13-12.15.05:002][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line039.BabyGrandPiano1_Line039:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:007][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line038.BabyGrandPiano1_Line038.
+[2020.07.13-12.15.05:007][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line038.BabyGrandPiano1_Line038:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:010][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line037.BabyGrandPiano1_Line037.
+[2020.07.13-12.15.05:010][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line037.BabyGrandPiano1_Line037:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:023][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line033.BabyGrandPiano1_Line033.
+[2020.07.13-12.15.05:023][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line033.BabyGrandPiano1_Line033:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:026][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line031.BabyGrandPiano1_Line031.
+[2020.07.13-12.15.05:026][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line031.BabyGrandPiano1_Line031:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:042][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line027.BabyGrandPiano1_Line027.
+[2020.07.13-12.15.05:042][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line027.BabyGrandPiano1_Line027:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:046][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line026.BabyGrandPiano1_Line026.
+[2020.07.13-12.15.05:046][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line026.BabyGrandPiano1_Line026:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:051][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line025.BabyGrandPiano1_Line025.
+[2020.07.13-12.15.05:051][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line025.BabyGrandPiano1_Line025:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:055][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line024.BabyGrandPiano1_Line024.
+[2020.07.13-12.15.05:055][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line024.BabyGrandPiano1_Line024:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:057][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line023.BabyGrandPiano1_Line023.
+[2020.07.13-12.15.05:058][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line023.BabyGrandPiano1_Line023:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:060][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line022.BabyGrandPiano1_Line022.
+[2020.07.13-12.15.05:060][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line022.BabyGrandPiano1_Line022:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:064][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line020.BabyGrandPiano1_Line020.
+[2020.07.13-12.15.05:064][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line020.BabyGrandPiano1_Line020:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:067][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line019.BabyGrandPiano1_Line019.
+[2020.07.13-12.15.05:068][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line019.BabyGrandPiano1_Line019:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:072][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line018.BabyGrandPiano1_Line018.
+[2020.07.13-12.15.05:072][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line018.BabyGrandPiano1_Line018:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:092][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line014.BabyGrandPiano1_Line014.
+[2020.07.13-12.15.05:092][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line014.BabyGrandPiano1_Line014:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:095][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line013.BabyGrandPiano1_Line013.
+[2020.07.13-12.15.05:095][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line013.BabyGrandPiano1_Line013:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:099][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line012.BabyGrandPiano1_Line012.
+[2020.07.13-12.15.05:099][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line012.BabyGrandPiano1_Line012:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:104][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line011.BabyGrandPiano1_Line011.
+[2020.07.13-12.15.05:104][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line011.BabyGrandPiano1_Line011:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:107][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line010.BabyGrandPiano1_Line010.
+[2020.07.13-12.15.05:107][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line010.BabyGrandPiano1_Line010:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:118][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line006.BabyGrandPiano1_Line006.
+[2020.07.13-12.15.05:118][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line006.BabyGrandPiano1_Line006:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:118][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line009.BabyGrandPiano1_Line009.
+[2020.07.13-12.15.05:118][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line009.BabyGrandPiano1_Line009:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:124][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line008.BabyGrandPiano1_Line008.
+[2020.07.13-12.15.05:124][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line008.BabyGrandPiano1_Line008:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:130][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/MyContent/3d/BabyGrandPiano1_Line005.BabyGrandPiano1_Line005.
+[2020.07.13-12.15.05:130][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyContent/3d/BabyGrandPiano1_Line005.BabyGrandPiano1_Line005:BodySetup_0 when we are unable to.
+[2020.07.13-12.15.05:477][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.13-12.15.05:478][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C62EFC3E00), frame # 0
+[2020.07.13-12.15.05:478][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C62F0A4F40), frame # 0
+[2020.07.13-12.15.05:653][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.13-12.15.05:824][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.07.13-12.15.05:825][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.13-12.15.05:826][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,685ms to complete.
+[2020.07.13-12.15.05:826][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 5.251
+[2020.07.13-12.15.05:874][  0]LogUnrealEdMisc: Total Editor Startup Time, took 31.366
+[2020.07.13-12.15.06:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-12.15.06:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-12.15.06:120][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-12.15.06:127][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-12.15.06:163][  0]LogCollectionManager: Loaded 0 collections in 0.003091 seconds
+[2020.07.13-12.15.06:226][  0]LogFileCache: Scanning file cache for directory 'C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/Collections/' took 0.00s
+[2020.07.13-12.15.06:226][  0]LogFileCache: Scanning file cache for directory 'C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/Developers/S406UABM012T/Collections/' took 0.00s
+[2020.07.13-12.15.06:226][  0]LogFileCache: Scanning file cache for directory 'C:/Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/Collections/' took 0.00s
+[2020.07.13-12.15.06:226][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 3427 classes and 821 folders.
+[2020.07.13-12.15.06:241][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.07.13-12.15.06:674][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.13-12.15.06:687][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.07.13-12.15.06:818][  0]LogSlate: Took 0.001751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.13-12.15.06:823][  0]LogSlate: Took 0.001530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.13-12.15.06:833][  0]LogSlate: Took 0.001123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.13-12.15.06:991][  0]LogRenderer: Reallocating scene render targets to support 652x348 Format 10 NumSamples 1 (Frame:1).
+[2020.07.13-12.15.08:626][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.07.13-12.15.08:626][  0]LogLoad: (Engine Initialization) Total time: 34.12 seconds
+[2020.07.13-12.15.08:626][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.13-12.15.08:719][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.13-12.15.08:738][  0]LogSlate: Took 0.001566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.13-12.15.08:783][  1]LogAssetRegistry: Asset discovery search completed in 16.1874 seconds
+[2020.07.13-12.15.08:788][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.07.13-12.15.45:643][437]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-12.15.45:643][437]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-12.16.08:974][529]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.13-12.16.09:008][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\carpet-4.jpg)
+[2020.07.13-12.16.09:034][529]LogTexture: Display: Building textures: carpet-4 (AutoDXT, 1000X1000)
+[2020.07.13-12.16.09:475][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\carpet-32.jpg)
+[2020.07.13-12.16.09:515][529]LogTexture: Display: Building textures: carpet-32 (AutoDXT, 800X804)
+[2020.07.13-12.16.10:255][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\marblegreendark-9.jpg)
+[2020.07.13-12.16.10:402][529]LogTexture: Display: Building textures: marblegreendark-9 (AutoDXT, 2048X2048)
+[2020.07.13-12.16.11:472][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\mosaic-6.jpg)
+[2020.07.13-12.16.11:558][529]LogTexture: Display: Building textures: mosaic-6 (BGRA8, 2683X2683)
+[2020.07.13-12.16.11:854][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\rocktiles01-02.jpg)
+[2020.07.13-12.16.12:093][529]LogTexture: Display: Building textures: rocktiles01-02 (AutoDXT, 4000X2000)
+[2020.07.13-12.16.17:958][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\rocktiles01-03.jpg)
+[2020.07.13-12.16.18:216][529]LogTexture: Display: Building textures: rocktiles01-03 (AutoDXT, 4000X2000)
+[2020.07.13-12.16.25:869][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\woodfine-36.jpg)
+[2020.07.13-12.16.26:170][529]LogTexture: Display: Building textures: woodfine-36 (BGRA8, 4096X2355)
+[2020.07.13-12.16.26:538][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\002.jpg)
+[2020.07.13-12.16.26:588][529]LogTexture: Display: Building textures: 002 (AutoDXT, 1024X1024)
+[2020.07.13-12.16.26:903][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\65ff326bab67ebcbe4aa0bbd31b8e9e0.jpg)
+[2020.07.13-12.16.26:951][529]LogTexture: Display: Building textures: 65ff326bab67ebcbe4aa0bbd31b8e9e0 (AutoDXT, 1000X1000)
+[2020.07.13-12.16.28:417][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\131-roof-002-refl.jpg)
+[2020.07.13-12.16.28:526][529]LogTexture: Display: Building textures: 131-roof-002-refl (AutoDXT, 2048X2048)
+[2020.07.13-12.16.30:548][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\213053-37c115ac5837e99a38bc1119658b0e6b.jpg)
+[2020.07.13-12.16.30:574][529]LogTexture: Display: Building textures: 213053-37c115ac5837e99a38bc1119658b0e6b (AutoDXT, 1000X1000)
+[2020.07.13-12.16.31:640][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\ОБОЇ\bricksmalldark-6.jpg)
+[2020.07.13-12.16.31:807][529]LogTexture: Display: Building textures: bricksmalldark-6 (AutoDXT, 2532X2532)
+[2020.07.13-12.16.44:868][621]LogMaterial: Display: Missing cached shader map for material carpet-4_Mat, compiling. 
+[2020.07.13-12.16.44:957][621]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.16.44:957][621]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.16.44:957][621]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.16.44:957][621]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.16.58:667][768]LogMaterial: Display: Missing cached shader map for material mosaic-6_Mat, compiling. 
+[2020.07.13-12.16.58:692][768]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.16.58:692][768]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.16.58:692][768]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.16.58:692][768]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.17.08:140][914]Cmd: STAT FPS
+[2020.07.13-12.17.26:163][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.07.13-12.17.26:494][ 99]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/FirstPersonExampleMap92F5BB3E4C138A07A9F248A051B56F89.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.13-12.17.28:025][ 99]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/FirstPersonExampleMap_BuiltData0601FE3F430C96E10FFA2481094F6406.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.13-12.17.28:049][ 99]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-12.17.28:049][ 99]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.13-12.17.28:049][ 99]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.13-12.17.33:894][172]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.13-12.17.33:969][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.13-12.17.33:972][172]PIE: New page: PIE session: FirstPersonExampleMap (13 лип. 2020 р., 18:17:33)
+[2020.07.13-12.17.33:983][172]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.13-12.17.33:989][172]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.07.13-12.17.33:991][172]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.13-12.17.34:094][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102022s)
+[2020.07.13-12.17.34:097][172]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.13-12.17.34:097][172]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C6A1FCA600), frame # 1172
+[2020.07.13-12.17.34:098][172]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C62EB94540), frame # 1172
+[2020.07.13-12.17.34:098][172]LogPlayLevel: PIE: World Init took: (0.004706s)
+[2020.07.13-12.17.34:099][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.107409s)
+[2020.07.13-12.17.34:126][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.07.13-12.17.34:136][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.13-12.17.34:136][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.13-12.17.34:136][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.13-12.17.34:136][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.13-12.17.34:136][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.13-12.17.34:136][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.13-12.17.34:136][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.13-12.17.34:136][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.13-12.17.34:137][172]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.13-12.17.34:137][172]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.13-12.17.34:149][172]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.13-12.17.34:149][172]LogAudioMixer: Display: 1: FrontRight
+[2020.07.13-12.17.34:416][172]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.07.13-12.17.34:416][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.13-12.17.34:416][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.13-12.17.34:416][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.13-12.17.34:417][172]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.13-12.17.34:448][172]LogInit: FAudioDevice initialized.
+[2020.07.13-12.17.34:481][172]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.13-12.17.34:529][172]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.07.13-15.17.34
+[2020.07.13-12.17.34:533][172]LogWorld: Bringing up level for play took: 0.038027
+[2020.07.13-12.17.34:535][172]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.07.13-12.17.34:739][172]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2020.07.13-12.17.34:773][172]PIE: Server logged in
+[2020.07.13-12.17.34:776][172]PIE: Play in editor total start time 0,832 seconds.
+[2020.07.13-12.17.49:207][329]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-359.93 Y=198.30 Z=0.00 Location: X=-1022.43 Y=477.77 Z=287.89 Normal: X=0.50 Y=-0.87 Z=0.00 PenetrationDepth:0.000 Actor:BabyGrandPiano1_EdgeBig003_613 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.07.13-12.17.50:215][342]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-23.74 Y=36.35 Z=0.00 Location: X=-1034.49 Y=468.45 Z=344.94 Normal: X=0.50 Y=-0.87 Z=-0.05 PenetrationDepth:0.000 Actor:BabyGrandPiano1_EdgeBig002_611 Component:StaticMeshComponent0 BoneName:None (2 other events since notify)
+[2020.07.13-12.18.13:095][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-12.18.13:096][612]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.13-12.18.13:100][612]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.18.13:108][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.18.13:269][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.13-12.18.13:274][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.18.13:345][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-12.18.13:362][612]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C6A1FCA600), frame # 1612
+[2020.07.13-12.18.13:362][612]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C62EB94540), frame # 1612
+[2020.07.13-12.18.13:366][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.07.13-12.18.13:422][613]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.07.13-12.18.29:446][740]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-12.18.29:466][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.07.13-12.18.31:283][740]LogSlate: Window 'Save Content' being destroyed
+[2020.07.13-12.18.31:322][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/New/002" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/002.uasset" SILENT=true
+[2020.07.13-12.18.31:412][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/00281A2B3A6489FD72759532997BEB51087.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/002.uasset'
+[2020.07.13-12.18.31:741][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/131-roof-002-refl6412CEFB415E4133FCC90A80E23E0FFE.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/131-roof-002-refl.uasset'
+[2020.07.13-12.18.31:858][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/213053-37c115ac5837e99a38bc11196D6F2A98948402DA872EDF0B8A16B8CD0.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/213053-37c115ac5837e99a38bc1119658b0e6b.uasset'
+[2020.07.13-12.18.32:012][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/65ff326bab67ebcbe4aa0bbd31b8e9e06C117A9D42B8F9636C3C54BD376C9FDC.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/65ff326bab67ebcbe4aa0bbd31b8e9e0.uasset'
+[2020.07.13-12.18.32:633][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/bricksmalldark-62FC9FA4D410A46BF872624B5A136504C.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/bricksmalldark-6.uasset'
+[2020.07.13-12.18.32:644][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/New/carpet-32" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/carpet-32.uasset" SILENT=true
+[2020.07.13-12.18.32:725][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/carpet-3269962FF348B73AA0BA11ED8901946967.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/carpet-32.uasset'
+[2020.07.13-12.18.32:735][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/New/carpet-4" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/carpet-4.uasset" SILENT=true
+[2020.07.13-12.18.32:812][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/carpet-46DCB55D046077C42E977FA873A4B2B3E.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/carpet-4.uasset'
+[2020.07.13-12.18.32:851][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/New/carpet-4_Mat" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/carpet-4_Mat.uasset" SILENT=true
+[2020.07.13-12.18.32:868][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/carpet-4_Mat1546544F46096D662C447EB9E8841206.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/carpet-4_Mat.uasset'
+[2020.07.13-12.18.33:273][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/marblegreendark-9CF71F89143EC2B2B9EC94480BFB1F45C.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/marblegreendark-9.uasset'
+[2020.07.13-12.18.33:283][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/New/mosaic-6" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/mosaic-6.uasset" SILENT=true
+[2020.07.13-12.18.33:567][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/mosaic-60A5D0B2B4A213648B767BEBFEBCAA3DB.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/mosaic-6.uasset'
+[2020.07.13-12.18.33:597][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/New/mosaic-6_Mat" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/mosaic-6_Mat.uasset" SILENT=true
+[2020.07.13-12.18.33:606][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/mosaic-6_Mat4500052E47A05700F838ADBB6CB34DE4.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/mosaic-6_Mat.uasset'
+[2020.07.13-12.18.33:613][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/New/rocktiles01-02" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/rocktiles01-02.uasset" SILENT=true
+[2020.07.13-12.18.34:276][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/rocktiles01-0292F55CB249BE153B2C8356A872AEA8C5.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/rocktiles01-02.uasset'
+[2020.07.13-12.18.34:283][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/New/rocktiles01-03" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/rocktiles01-03.uasset" SILENT=true
+[2020.07.13-12.18.35:007][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/rocktiles01-03AC0A416844399AC22B45FFBD04AA0B3C.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/rocktiles01-03.uasset'
+[2020.07.13-12.18.35:015][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/New/woodfine-36" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/woodfine-36.uasset" SILENT=true
+[2020.07.13-12.18.35:770][740]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/woodfine-369195B3DF46E1FDEC949D6EBED7FB693D.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/MyContent/New/woodfine-36.uasset'
+[2020.07.13-12.18.35:776][740]Cmd: MAP LOAD FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.13-12.18.35:780][740]LightingResults: New page: Lighting Build
+[2020.07.13-12.18.35:786][740]LoadErrors: New page: Loading map: RoomITMafia.umap
+[2020.07.13-12.18.35:803][740]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-12.18.35:804][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-12.18.35:804][740]MapCheck: New page: Map Check
+[2020.07.13-12.18.35:806][740]LightingResults: New page: Lighting Build
+[2020.07.13-12.18.35:832][740]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C62EFC3E00), frame # 1740
+[2020.07.13-12.18.35:832][740]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C62F0A4F40), frame # 1740
+[2020.07.13-12.18.35:834][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.07.13-12.18.35:875][740]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.13-12.18.35:875][740]LogAIModule: Creating AISystem for world RoomITMafia
+[2020.07.13-12.18.35:875][740]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C6A24B1400), frame # 1740
+[2020.07.13-12.18.35:876][740]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C62EC45080), frame # 1740
+[2020.07.13-12.18.35:896][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.07.13-12.18.35:928][740]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.13-12.18.35:929][740]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,572ms to complete.
+[2020.07.13-12.18.35:930][740]LogFileHelpers: Loading map 'RoomITMafia' took 0.156
+[2020.07.13-12.18.36:042][740]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-12.18.36:043][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/002.002
+[2020.07.13-12.18.36:043][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/131-roof-002-refl.131-roof-002-refl
+[2020.07.13-12.18.36:043][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/213053-37c115ac5837e99a38bc1119658b0e6b.213053-37c115ac5837e99a38bc1119658b0e6b
+[2020.07.13-12.18.36:043][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/65ff326bab67ebcbe4aa0bbd31b8e9e0.65ff326bab67ebcbe4aa0bbd31b8e9e0
+[2020.07.13-12.18.36:043][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/bricksmalldark-6.bricksmalldark-6
+[2020.07.13-12.18.36:043][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/carpet-32.carpet-32
+[2020.07.13-12.18.36:043][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/carpet-4.carpet-4
+[2020.07.13-12.18.36:044][740]LogContentValidation: Display: Validating Material /Game/MyContent/New/carpet-4_Mat.carpet-4_Mat
+[2020.07.13-12.18.36:044][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/marblegreendark-9.marblegreendark-9
+[2020.07.13-12.18.36:044][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/mosaic-6.mosaic-6
+[2020.07.13-12.18.36:044][740]LogContentValidation: Display: Validating Material /Game/MyContent/New/mosaic-6_Mat.mosaic-6_Mat
+[2020.07.13-12.18.36:044][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/rocktiles01-02.rocktiles01-02
+[2020.07.13-12.18.36:044][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/rocktiles01-03.rocktiles01-03
+[2020.07.13-12.18.36:044][740]LogContentValidation: Display: Validating Texture2D /Game/MyContent/New/woodfine-36.woodfine-36
+[2020.07.13-12.18.54:196][354]LogMaterial: Display: Missing cached shader map for material 65ff326bab67ebcbe4aa0bbd31b8e9e0_Mat, compiling. 
+[2020.07.13-12.18.54:223][354]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.18.54:223][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.18.54:223][354]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.18.54:223][354]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.19.06:034][781]Cmd: TRANSACTION UNDO
+[2020.07.13-12.19.06:034][781]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.19.06:038][781]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/RoomITMafia.RoomITMafia:PersistentLevel.ModelComponent_8' invalid (824 verts, 0 indices).
+[2020.07.13-12.19.06:038][781]LogPhysics: Warning: Attempt to build physics data for /Game/RoomITMafia.RoomITMafia:PersistentLevel.ModelComponent_8.BodySetup_0 when we are unable to.
+[2020.07.13-12.20.23:981][ 81]Cmd: DELETE
+[2020.07.13-12.20.23:983][ 81]Cmd: ACTOR DELETE
+[2020.07.13-12.20.24:013][ 81]LogEditorActor: Deleted Actor: SkyLight
+[2020.07.13-12.20.24:047][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.07.13-12.20.24:054][ 81]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2020.07.13-12.20.34:560][490]LogMaterial: Display: Missing cached shader map for material rocktiles01-02_Mat, compiling. 
+[2020.07.13-12.20.34:586][490]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.20.34:586][490]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.20.34:586][490]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.20.34:586][490]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.20.45:224][761]Cmd: TRANSACTION UNDO
+[2020.07.13-12.20.45:225][761]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.20.48:517][844]LogMaterial: Display: Missing cached shader map for material 131-roof-002-refl_Mat, compiling. 
+[2020.07.13-12.20.48:539][844]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.20.48:539][844]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.20.48:539][844]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.20.48:539][844]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.21.38:620][576]LogMaterial: Display: Missing cached shader map for material marblegreendark-9_Mat, compiling. 
+[2020.07.13-12.21.38:645][576]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.21.38:645][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.21.38:645][576]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.21.38:645][576]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.21.46:149][842]Cmd: TRANSACTION UNDO
+[2020.07.13-12.21.46:149][842]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.21.48:596][909]LogMaterial: Display: Missing cached shader map for material 213053-37c115ac5837e99a38bc1119658b0e6b_Mat, compiling. 
+[2020.07.13-12.21.48:614][909]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.21.48:614][909]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.21.48:614][909]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.21.48:614][909]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.21.58:237][211]Cmd: TRANSACTION UNDO
+[2020.07.13-12.21.58:237][211]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.22.01:566][286]LogMaterial: Display: Missing cached shader map for material rocktiles01-03_Mat, compiling. 
+[2020.07.13-12.22.01:584][286]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.22.01:584][286]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.22.01:584][286]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.22.01:584][286]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.22.08:262][476]Cmd: TRANSACTION UNDO
+[2020.07.13-12.22.08:262][476]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.22.10:865][539]LogMaterial: Display: Missing cached shader map for material woodfine-36_Mat, compiling. 
+[2020.07.13-12.22.10:882][539]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.22.10:883][539]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.22.10:883][539]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.22.10:883][539]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.22.17:431][734]Cmd: TRANSACTION UNDO
+[2020.07.13-12.22.17:431][734]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.22.20:787][838]Cmd: TRANSACTION UNDO
+[2020.07.13-12.22.20:787][838]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.22.20:822][838]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/RoomITMafia.RoomITMafia:PersistentLevel.ModelComponent_8' invalid (824 verts, 0 indices).
+[2020.07.13-12.22.20:822][838]LogPhysics: Warning: Attempt to build physics data for /Game/RoomITMafia.RoomITMafia:PersistentLevel.ModelComponent_8.BodySetup_0 when we are unable to.
+[2020.07.13-12.22.48:592][770]LogMaterial: Display: Missing cached shader map for material bricksmalldark-6_Mat, compiling. 
+[2020.07.13-12.22.48:612][770]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.22.48:612][770]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.22.48:612][770]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.22.48:612][770]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.22.59:292][121]Cmd: TRANSACTION UNDO
+[2020.07.13-12.22.59:292][121]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.23.05:391][338]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.07.13-12.23.37:382][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x308)
+[2020.07.13-12.23.42:517][672]LogMaterial: Display: Missing cached shader map for material carpet-32_Mat, compiling. 
+[2020.07.13-12.23.42:552][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.23.42:552][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.23.42:552][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.23.42:552][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.23.50:620][925]Cmd: TRANSACTION UNDO
+[2020.07.13-12.23.50:620][925]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.23.50:647][925]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/RoomITMafia.RoomITMafia:PersistentLevel.ModelComponent_44' invalid (960 verts, 0 indices).
+[2020.07.13-12.23.50:647][925]LogPhysics: Warning: Attempt to build physics data for /Game/RoomITMafia.RoomITMafia:PersistentLevel.ModelComponent_44.BodySetup_0 when we are unable to.
+[2020.07.13-12.23.52:041][966]Cmd: DELETE
+[2020.07.13-12.23.52:041][966]Cmd: ACTOR DELETE
+[2020.07.13-12.23.52:056][966]LogEditorActor: Deleted Actor: Brush
+[2020.07.13-12.23.52:078][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.07.13-12.23.52:103][966]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.07.13-12.23.56:974][135]LogMaterial: Display: Missing cached shader map for material 002_Mat, compiling. 
+[2020.07.13-12.23.56:996][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.23.56:996][135]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.23.56:996][135]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.23.56:996][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.24.16:123][819]Cmd: TRANSACTION UNDO
+[2020.07.13-12.24.16:123][819]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.24.25:535][ 75]Cmd: TRANSACTION UNDO
+[2020.07.13-12.24.25:535][ 75]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.24.25:781][ 77]Cmd: TRANSACTION UNDO
+[2020.07.13-12.24.25:781][ 77]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.24.26:039][ 83]Cmd: TRANSACTION UNDO
+[2020.07.13-12.24.26:039][ 83]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.24.26:312][ 94]Cmd: TRANSACTION UNDO
+[2020.07.13-12.24.26:312][ 94]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.24.26:972][113]Cmd: TRANSACTION UNDO
+[2020.07.13-12.24.26:973][113]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.24.27:333][123]Cmd: TRANSACTION UNDO
+[2020.07.13-12.24.27:333][123]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.24.52:258][966]LogMaterial: Display: Missing cached shader map for material Постійність_пам_яті_Mat, compiling. 
+[2020.07.13-12.24.52:285][966]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.24.52:285][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.24.52:285][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.24.52:285][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.25.23:027][683]LogMaterial: Display: Missing cached shader map for material unnamed_Mat, compiling. 
+[2020.07.13-12.25.23:055][683]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.25.23:055][683]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.25.23:055][683]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.25.23:055][683]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.25.32:484][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Picture3)
+[2020.07.13-12.25.51:396][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Commode_2)
+[2020.07.13-12.25.52:075][617]Cmd: DELETE
+[2020.07.13-12.25.52:075][617]Cmd: ACTOR DELETE
+[2020.07.13-12.25.52:084][617]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.25.52:112][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.07.13-12.25.52:119][617]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.07.13-12.25.52:828][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Commode_3)
+[2020.07.13-12.25.53:435][666]Cmd: DELETE
+[2020.07.13-12.25.53:435][666]Cmd: ACTOR DELETE
+[2020.07.13-12.25.53:442][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.25.53:465][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.13-12.25.53:467][666]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.07.13-12.25.54:192][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TV)
+[2020.07.13-12.25.54:824][713]Cmd: DELETE
+[2020.07.13-12.25.54:824][713]Cmd: ACTOR DELETE
+[2020.07.13-12.25.54:829][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.25.54:849][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.07.13-12.25.54:851][713]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.07.13-12.25.55:772][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Commode)
+[2020.07.13-12.25.56:707][775]Cmd: DELETE
+[2020.07.13-12.25.56:707][775]Cmd: ACTOR DELETE
+[2020.07.13-12.25.56:715][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.25.56:736][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.07.13-12.25.56:738][775]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.07.13-12.26.01:380][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_Lamp)
+[2020.07.13-12.26.02:097][998]Cmd: DELETE
+[2020.07.13-12.26.02:097][998]Cmd: ACTOR DELETE
+[2020.07.13-12.26.02:102][998]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.26.02:121][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.13-12.26.02:123][998]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.07.13-12.26.52:802][625]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2020.07.13-12.26.54:422][688]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2020.07.13-12.27.05:123][161]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.05:123][161]LogEditorTransaction: Undo Move Actors
+[2020.07.13-12.27.05:583][171]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.05:583][171]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.27.05:934][186]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.05:934][186]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.27.06:415][208]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.06:415][208]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.27.06:761][223]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.06:761][223]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.27.07:123][239]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.07:123][239]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.27.07:490][249]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.07:490][249]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.27.07:906][262]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.07:906][262]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.27.08:240][272]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.08:240][272]LogEditorTransaction: Undo Delete Actors
+[2020.07.13-12.27.08:767][292]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.08:767][292]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.13-12.27.09:360][318]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.09:361][318]LogEditorTransaction: Undo Delete Actors
+[2020.07.13-12.27.09:939][334]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.09:940][334]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.13-12.27.10:312][346]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.10:312][346]LogEditorTransaction: Undo Delete Actors
+[2020.07.13-12.27.10:673][356]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.10:673][356]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.13-12.27.11:070][371]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.11:070][371]LogEditorTransaction: Undo Delete Actors
+[2020.07.13-12.27.11:414][383]Cmd: TRANSACTION UNDO
+[2020.07.13-12.27.11:414][383]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.13-12.27.25:191][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TV)
+[2020.07.13-12.27.26:023][ 35]Cmd: DELETE
+[2020.07.13-12.27.26:023][ 35]Cmd: ACTOR DELETE
+[2020.07.13-12.27.26:028][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.27.26:047][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.07.13-12.27.26:050][ 35]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.07.13-12.27.26:830][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Commode_3)
+[2020.07.13-12.27.27:316][ 87]Cmd: DELETE
+[2020.07.13-12.27.27:316][ 87]Cmd: ACTOR DELETE
+[2020.07.13-12.27.27:321][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.27.27:341][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.13-12.27.27:343][ 87]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.07.13-12.27.28:172][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Commode)
+[2020.07.13-12.27.28:685][140]Cmd: DELETE
+[2020.07.13-12.27.28:685][140]Cmd: ACTOR DELETE
+[2020.07.13-12.27.28:690][140]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.27.28:708][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.13-12.27.28:710][140]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.07.13-12.27.29:525][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_Lamp)
+[2020.07.13-12.27.30:137][200]Cmd: DELETE
+[2020.07.13-12.27.30:137][200]Cmd: ACTOR DELETE
+[2020.07.13-12.27.30:142][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.27.30:160][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.13-12.27.30:162][200]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.07.13-12.27.46:330][836]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2020.07.13-12.27.49:508][967]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2020.07.13-12.28.10:610][759]Cmd: TRANSACTION UNDO
+[2020.07.13-12.28.10:610][759]LogEditorTransaction: Undo Scale Actors
+[2020.07.13-12.28.13:080][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2020.07.13-12.28.14:201][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling)
+[2020.07.13-12.29.18:071][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-12.29.18:098][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.07.13-12.29.18:223][474]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafiaBC24F31743EF19175823FE88DC5FE047.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-12.29.18:284][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-12.29.18:322][474]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltDataDD6BDF8846F2A10673A242BFE47CAE91.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-12.29.18:359][474]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-12.29.18:359][474]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-12.29.18:360][474]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-12.30.39:304][512]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\plate_obj\Plate obj\Plate.obj)
+[2020.07.13-12.30.39:379][512]LogFbx: Loading FBX Scene from C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\plate_obj\Plate obj\Plate.obj
+[2020.07.13-12.30.40:366][512]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.13-12.30.42:408][512]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.13-12.30.43:567][512]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2020.07.13-12.30.44:026][512]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.30.44:026][512]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.30.44:026][512]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.30.44:026][512]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.30.44:072][512]LogStaticMesh: Building static mesh Plate...
+[2020.07.13-12.30.50:124][512]LogStaticMesh: Built static mesh [6.05s] /Game/MyContent/3d/it/Plate.Plate
+[2020.07.13-12.30.50:519][512]LogStaticMesh: Warning: Plate has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.07.13-12.30.50:519][512]LogStaticMesh: Warning: Plate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.07.13-12.30.51:012][512]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.13-12.30.51:012][512]FBXImport: Warning: Plate has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2020.07.13-12.30.51:012][512]FBXImport: Warning: Plate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.07.13-12.30.51:686][512]LogSlate: Took 0.001274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.13-12.30.53:186][559]LogSlate: Window 'Message Log' being destroyed
+[2020.07.13-12.30.53:229][559]LogSlate: Window 'Message Log' being destroyed
+[2020.07.13-12.30.59:330][739]LogActorFactory: Actor Factory created Plate
+[2020.07.13-12.31.01:267][802]LogActorFactory: Actor Factory created Plate
+[2020.07.13-12.31.03:889][902]LogActorFactory: Actor Factory created Plate
+[2020.07.13-12.31.31:262][933]Cmd: TRANSACTION UNDO
+[2020.07.13-12.31.31:262][933]LogEditorTransaction: Undo Rotate Actors
+[2020.07.13-12.31.33:463][  6]Cmd: TRANSACTION UNDO
+[2020.07.13-12.31.33:463][  6]LogEditorTransaction: Undo Rotate Actors
+[2020.07.13-12.31.37:222][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2020.07.13-12.31.38:029][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plate)
+[2020.07.13-12.31.39:284][209]Cmd: DELETE
+[2020.07.13-12.31.39:284][209]Cmd: ACTOR DELETE
+[2020.07.13-12.31.39:300][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.31.39:333][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.07.13-12.31.39:342][209]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.07.13-12.31.40:942][253]LogActorFactory: Actor Factory created Plate
+[2020.07.13-12.31.42:626][311]LogActorFactory: Actor Factory created Plate
+[2020.07.13-12.32.12:623][321]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\plate_obj\Plate obj\Plate_0.jpg)
+[2020.07.13-12.32.13:023][321]LogTexture: Display: Building textures: Plate_0 (AutoDXT, 4096X4096)
+[2020.07.13-12.32.20:489][381]LogMaterial: Display: Missing cached shader map for material Plate_0_Mat, compiling. 
+[2020.07.13-12.32.20:507][381]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.32.20:507][381]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.32.20:507][381]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.32.20:507][381]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.32.43:239][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x310)
+[2020.07.13-12.33.25:090][715]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\2924289.5efedf977c7aa\wall clock\wall clock.FBX)
+[2020.07.13-12.33.25:190][715]LogFbx: Loading FBX Scene from C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\2924289.5efedf977c7aa\wall clock\wall clock.FBX
+[2020.07.13-12.33.25:915][715]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.13-12.33.27:326][715]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.13-12.33.27:374][715]LogMaterial: Display: Missing cached shader map for material Material__38, compiling. 
+[2020.07.13-12.33.27:387][715]LogFbx: Display: Triangulating static mesh 3
+[2020.07.13-12.33.31:292][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.33.31:292][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.33.31:292][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.33.31:292][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.33.31:318][715]LogStaticMesh: Building static mesh wall_clock_3...
+[2020.07.13-12.33.32:109][715]LogStaticMesh: Built static mesh [0.79s] /Game/MyContent/3d/it/wall_clock_3.wall_clock_3
+[2020.07.13-12.33.32:409][715]LogFbx: Display: Triangulating static mesh Object001_Retopo
+[2020.07.13-12.33.39:188][715]LogStaticMesh: Building static mesh wall_clock_Object001_Retopo...
+[2020.07.13-12.33.40:712][715]LogStaticMesh: Built static mesh [1.53s] /Game/MyContent/3d/it/wall_clock_Object001_Retopo.wall_clock_Object001_Retopo
+[2020.07.13-12.33.41:359][715]LogFbx: Display: Triangulating static mesh 9
+[2020.07.13-12.33.44:836][715]LogStaticMesh: Building static mesh wall_clock_9...
+[2020.07.13-12.33.45:645][715]LogStaticMesh: Built static mesh [0.82s] /Game/MyContent/3d/it/wall_clock_9.wall_clock_9
+[2020.07.13-12.33.45:942][715]LogFbx: Display: Triangulating static mesh Object005_Retopo
+[2020.07.13-12.33.49:718][715]LogStaticMesh: Building static mesh wall_clock_Object005_Retopo...
+[2020.07.13-12.33.50:531][715]LogStaticMesh: Built static mesh [0.82s] /Game/MyContent/3d/it/wall_clock_Object005_Retopo.wall_clock_Object005_Retopo
+[2020.07.13-12.33.50:851][715]LogFbx: Display: Triangulating static mesh Object004_Retopo
+[2020.07.13-12.33.54:012][715]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo...
+[2020.07.13-12.33.54:672][715]LogStaticMesh: Built static mesh [0.66s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo.wall_clock_Object004_Retopo
+[2020.07.13-12.33.54:783][715]LogFbx: Display: Triangulating static mesh Object004_Retopo001
+[2020.07.13-12.33.57:050][715]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo001...
+[2020.07.13-12.33.57:601][715]LogStaticMesh: Built static mesh [0.56s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo001.wall_clock_Object004_Retopo001
+[2020.07.13-12.33.57:702][715]LogFbx: Display: Triangulating static mesh Object004_Retopo002
+[2020.07.13-12.33.59:900][715]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo002...
+[2020.07.13-12.34.00:505][715]LogStaticMesh: Built static mesh [0.61s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo002.wall_clock_Object004_Retopo002
+[2020.07.13-12.34.00:628][715]LogFbx: Display: Triangulating static mesh Object004_Retopo003
+[2020.07.13-12.34.02:892][715]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo003...
+[2020.07.13-12.34.03:444][715]LogStaticMesh: Built static mesh [0.55s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo003.wall_clock_Object004_Retopo003
+[2020.07.13-12.34.03:561][715]LogFbx: Display: Triangulating static mesh Object004_Retopo004
+[2020.07.13-12.34.05:809][715]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo004...
+[2020.07.13-12.34.06:534][715]LogStaticMesh: Built static mesh [0.73s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo004.wall_clock_Object004_Retopo004
+[2020.07.13-12.34.06:680][715]LogFbx: Display: Triangulating static mesh Object004_Retopo005
+[2020.07.13-12.34.09:847][715]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo005...
+[2020.07.13-12.34.10:531][715]LogStaticMesh: Built static mesh [0.69s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo005.wall_clock_Object004_Retopo005
+[2020.07.13-12.34.10:668][715]LogFbx: Display: Triangulating static mesh Object004_Retopo006
+[2020.07.13-12.34.13:463][715]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo006...
+[2020.07.13-12.34.14:129][715]LogStaticMesh: Built static mesh [0.67s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo006.wall_clock_Object004_Retopo006
+[2020.07.13-12.34.14:257][715]LogFbx: Display: Triangulating static mesh Object004_Retopo007
+[2020.07.13-12.34.17:063][715]LogStaticMesh: Building static mesh wall_clock_Object004_Retopo007...
+[2020.07.13-12.34.17:713][715]LogStaticMesh: Built static mesh [0.66s] /Game/MyContent/3d/it/wall_clock_Object004_Retopo007.wall_clock_Object004_Retopo007
+[2020.07.13-12.34.17:836][715]LogFbx: Display: Triangulating static mesh Object003_Retopo
+[2020.07.13-12.34.21:306][715]LogStaticMesh: Building static mesh wall_clock_Object003_Retopo...
+[2020.07.13-12.34.22:144][715]LogStaticMesh: Built static mesh [0.84s] /Game/MyContent/3d/it/wall_clock_Object003_Retopo.wall_clock_Object003_Retopo
+[2020.07.13-12.34.22:324][715]LogFbx: Display: Triangulating static mesh Object003_Retopo001
+[2020.07.13-12.34.25:159][715]LogStaticMesh: Building static mesh wall_clock_Object003_Retopo001...
+[2020.07.13-12.34.26:013][715]LogStaticMesh: Built static mesh [0.85s] /Game/MyContent/3d/it/wall_clock_Object003_Retopo001.wall_clock_Object003_Retopo001
+[2020.07.13-12.34.26:154][715]LogMaterial: Display: Missing cached shader map for material Material__51, compiling. 
+[2020.07.13-12.34.26:168][715]LogFbx: Display: Triangulating static mesh Object003_Retopo
+[2020.07.13-12.34.39:712][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.34.39:712][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.34.39:712][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.34.39:712][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.34.39:738][715]LogStaticMesh: Building static mesh wall_clock_Object003_Retopo_1...
+[2020.07.13-12.34.41:330][715]LogStaticMesh: Built static mesh [1.59s] /Game/MyContent/3d/it/wall_clock_Object003_Retopo_1.wall_clock_Object003_Retopo_1
+[2020.07.13-12.34.41:423][715]LogMaterial: Display: Missing cached shader map for material base, compiling. 
+[2020.07.13-12.34.41:435][715]LogFbx: Display: Triangulating static mesh Layer:0_Retopo
+[2020.07.13-12.34.44:757][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.34.44:757][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.34.44:757][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.34.44:757][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.34.44:773][715]LogStaticMesh: Building static mesh wall_clock_0_Retopo...
+[2020.07.13-12.34.45:236][715]LogStaticMesh: Built static mesh [0.47s] /Game/MyContent/3d/it/wall_clock_0_Retopo.wall_clock_0_Retopo
+[2020.07.13-12.34.45:457][715]LogFbx: Display: Triangulating static mesh Object001_Retopo
+[2020.07.13-12.34.47:530][715]LogStaticMesh: Building static mesh wall_clock_Object001_Retopo_1...
+[2020.07.13-12.34.47:808][715]LogStaticMesh: Built static mesh [0.28s] /Game/MyContent/3d/it/wall_clock_Object001_Retopo_1.wall_clock_Object001_Retopo_1
+[2020.07.13-12.34.49:015][715]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.13-12.34.56:267][934]LogSlate: Window 'Message Log' being destroyed
+[2020.07.13-12.34.56:327][934]LogSlate: Window 'Message Log' being destroyed
+[2020.07.13-12.35.05:920][234]LogActorFactory: Actor Factory created wall_clock_3
+[2020.07.13-12.35.05:921][234]LogActorFactory: Actor Factory created wall_clock_9
+[2020.07.13-12.35.05:921][234]LogActorFactory: Actor Factory created wall_clock_0_Retopo
+[2020.07.13-12.35.05:922][234]LogActorFactory: Actor Factory created wall_clock_Object001_Retopo
+[2020.07.13-12.35.05:922][234]LogActorFactory: Actor Factory created wall_clock_Object001_Retopo_1
+[2020.07.13-12.35.05:924][234]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo
+[2020.07.13-12.35.05:925][234]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo_1
+[2020.07.13-12.35.05:926][234]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo001
+[2020.07.13-12.35.05:927][234]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo
+[2020.07.13-12.35.05:927][234]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo001
+[2020.07.13-12.35.05:928][234]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo002
+[2020.07.13-12.35.05:928][234]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo003
+[2020.07.13-12.35.05:929][234]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo004
+[2020.07.13-12.35.05:930][234]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo005
+[2020.07.13-12.35.05:930][234]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo006
+[2020.07.13-12.35.05:931][234]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo007
+[2020.07.13-12.35.05:932][234]LogActorFactory: Actor Factory created wall_clock_Object005_Retopo
+[2020.07.13-12.35.09:324][345]LogActorFactory: Actor Factory created wall_clock_3
+[2020.07.13-12.35.09:352][345]LogActorFactory: Actor Factory created wall_clock_9
+[2020.07.13-12.35.09:379][345]LogActorFactory: Actor Factory created wall_clock_0_Retopo
+[2020.07.13-12.35.09:406][345]LogActorFactory: Actor Factory created wall_clock_Object001_Retopo
+[2020.07.13-12.35.09:432][345]LogActorFactory: Actor Factory created wall_clock_Object001_Retopo_1
+[2020.07.13-12.35.09:457][345]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo
+[2020.07.13-12.35.09:482][345]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo_1
+[2020.07.13-12.35.09:507][345]LogActorFactory: Actor Factory created wall_clock_Object003_Retopo001
+[2020.07.13-12.35.09:531][345]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo
+[2020.07.13-12.35.09:556][345]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo001
+[2020.07.13-12.35.09:579][345]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo002
+[2020.07.13-12.35.09:602][345]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo003
+[2020.07.13-12.35.09:625][345]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo004
+[2020.07.13-12.35.09:649][345]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo005
+[2020.07.13-12.35.09:671][345]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo006
+[2020.07.13-12.35.09:693][345]LogActorFactory: Actor Factory created wall_clock_Object004_Retopo007
+[2020.07.13-12.35.09:715][345]LogActorFactory: Actor Factory created wall_clock_Object005_Retopo
+[2020.07.13-12.35.59:111][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.07.13-12.36.14:643][103]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\2924289.5efedf977c7aa\wall clock\Maps\Chair baxter greta-Cloth-2.jpg)
+[2020.07.13-12.36.14:725][103]LogTexture: Display: Building textures: Chair_baxter_greta-Cloth-2 (AutoDXT, 2000X2000)
+[2020.07.13-12.36.28:700][272]LogMaterial: Display: Missing cached shader map for material Chair_baxter_greta-Cloth-2_Mat, compiling. 
+[2020.07.13-12.36.28:721][272]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.36.28:721][272]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.36.28:721][272]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.36.28:721][272]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.37.31:239][910]Cmd: TRANSACTION UNDO
+[2020.07.13-12.37.31:239][910]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.37.35:670][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-12.37.35:699][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.07.13-12.37.35:834][ 49]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia4A479D5147379EF6D22AD096182D5F6A.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-12.37.35:893][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-12.37.35:931][ 49]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltData491A449C42C369EE7696D4BDFF53F950.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-12.37.35:953][ 49]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-12.37.35:953][ 49]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-12.37.35:953][ 49]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-12.37.40:607][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair3)
+[2020.07.13-12.38.18:561][647]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\Нова папка\Decoration_18_obj\Decoration-18-2-prev.jpg)
+[2020.07.13-12.38.18:605][647]LogTexture: Display: Building textures: Decoration-18-2-prev (AutoDXT, 1200X1200)
+[2020.07.13-12.39.28:640][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-12.39.28:674][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.07.13-12.39.28:823][130]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafiaF029D3D846962349F03226B0E21A1156.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia.umap'
+[2020.07.13-12.39.28:871][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RoomITMafia_BuiltData" FILE="../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset" SILENT=true
+[2020.07.13-12.39.28:903][130]LogSavePackage: Moving '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Saved/RoomITMafia_BuiltData863DBD3A42B73C7C380F39A288BAD491.tmp' to '../../../../../../Users/S406UA-BM012T/Documents/GitHub/artMafia/MafiaGame/Content/RoomITMafia_BuiltData.uasset'
+[2020.07.13-12.39.28:927][130]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-12.39.28:927][130]LogContentValidation: Display: Validating World /Game/RoomITMafia.RoomITMafia
+[2020.07.13-12.39.28:927][130]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RoomITMafia_BuiltData.RoomITMafia_BuiltData
+[2020.07.13-12.40.22:627][526]LogActorFactory: Actor Factory created plant_247_obj_plant_247_00
+[2020.07.13-12.40.22:629][526]LogActorFactory: Actor Factory created plant_247_obj_plant_247_01
+[2020.07.13-12.40.25:436][602]LogActorFactory: Actor Factory created plant_247_obj_plant_247_00
+[2020.07.13-12.40.25:437][602]LogActorFactory: Actor Factory created plant_247_obj_plant_247_01
+[2020.07.13-12.40.26:114][622]LogActorFactory: Actor Factory created plant_247_obj_plant_247_00
+[2020.07.13-12.40.26:164][622]LogActorFactory: Actor Factory created plant_247_obj_plant_247_01
+[2020.07.13-12.41.06:782][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x317)
+[2020.07.13-12.41.07:284][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_247_obj_plant_247_00)
+[2020.07.13-12.41.22:249][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_247_obj_plant_247_00)
+[2020.07.13-12.41.28:096][580]Cmd: TRANSACTION UNDO
+[2020.07.13-12.41.28:097][580]LogEditorTransaction: Undo Set Scale
+[2020.07.13-12.41.40:994][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_247_obj_plant_247_01)
+[2020.07.13-12.41.49:970][ 78]Cmd: TRANSACTION UNDO
+[2020.07.13-12.41.49:970][ 78]LogEditorTransaction: Undo Set Scale
+[2020.07.13-12.41.51:381][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_247_obj_plant_247_01)
+[2020.07.13-12.42.25:470][ 64]Cmd: DELETE
+[2020.07.13-12.42.25:477][ 64]Cmd: ACTOR DELETE
+[2020.07.13-12.42.25:496][ 64]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.42.25:498][ 64]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.42.25:530][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.07.13-12.42.25:541][ 64]LogEditorActor: Deleted 2 Actors (0.060 secs)
+[2020.07.13-12.43.12:837][545]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\Нова папка\boxwood_plant_obj\boxwood_plant_obj\boxwood_plant.obj)
+[2020.07.13-12.43.12:926][545]LogFbx: Loading FBX Scene from C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\Нова папка\boxwood_plant_obj\boxwood_plant_obj\boxwood_plant.obj
+[2020.07.13-12.43.16:536][545]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.13-12.43.18:611][545]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.13-12.43.18:654][545]LogMaterial: Display: Missing cached shader map for material boxwood_plant01Mat, compiling. 
+[2020.07.13-12.43.18:664][545]LogFbx: Display: Triangulating static mesh boxwood_plant01
+[2020.07.13-12.43.34:142][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.43.34:142][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.43.34:142][545]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.43.34:142][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.43.34:182][545]LogStaticMesh: Building static mesh boxwood_plant_boxwood_plant01...
+[2020.07.13-12.43.37:399][545]LogStaticMesh: Built static mesh [3.22s] /Game/MyContent/3d/it/boxwood_plant_boxwood_plant01.boxwood_plant_boxwood_plant01
+[2020.07.13-12.43.40:401][545]LogMaterial: Display: Missing cached shader map for material boxwood_plant02Mat, compiling. 
+[2020.07.13-12.43.40:412][545]LogFbx: Display: Triangulating static mesh boxwood_plant02
+[2020.07.13-12.43.40:470][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.43.40:470][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.43.40:470][545]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.43.40:470][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.43.40:479][545]LogStaticMesh: Building static mesh boxwood_plant_boxwood_plant02...
+[2020.07.13-12.43.40:499][545]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/3d/it/boxwood_plant_boxwood_plant02.boxwood_plant_boxwood_plant02
+[2020.07.13-12.43.40:525][545]LogMaterial: Display: Missing cached shader map for material boxwood_plant03Mat, compiling. 
+[2020.07.13-12.43.40:542][545]LogFbx: Display: Triangulating static mesh boxwood_plant03
+[2020.07.13-12.43.40:994][545]LogStaticMesh: Building static mesh boxwood_plant_boxwood_plant03...
+[2020.07.13-12.43.41:123][545]LogStaticMesh: Built static mesh [0.13s] /Game/MyContent/3d/it/boxwood_plant_boxwood_plant03.boxwood_plant_boxwood_plant03
+[2020.07.13-12.43.44:640][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.07.13-12.43.44:640][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.07.13-12.43.44:641][545]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.13-12.43.44:641][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.07.13-12.43.44:641][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.43.44:876][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.13-12.43.45:351][549]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.13-12.43.54:952][730]LogActorFactory: Actor Factory created boxwood_plant_boxwood_plant03
+[2020.07.13-12.43.54:953][730]LogActorFactory: Actor Factory created boxwood_plant_boxwood_plant02
+[2020.07.13-12.43.54:954][730]LogActorFactory: Actor Factory created boxwood_plant_boxwood_plant01
+[2020.07.13-12.43.57:662][826]LogActorFactory: Actor Factory created boxwood_plant_boxwood_plant03
+[2020.07.13-12.43.57:685][826]LogActorFactory: Actor Factory created boxwood_plant_boxwood_plant02
+[2020.07.13-12.43.57:709][826]LogActorFactory: Actor Factory created boxwood_plant_boxwood_plant01
+[2020.07.13-12.44.43:531][418]Cmd: DELETE
+[2020.07.13-12.44.43:531][418]Cmd: ACTOR DELETE
+[2020.07.13-12.44.43:544][418]LogEditorActor: Deleted Actor: SpotLight
+[2020.07.13-12.44.43:565][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.07.13-12.44.43:571][418]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.07.13-12.44.48:340][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (boxwood_plant_boxwood_plant03)
+[2020.07.13-12.45.04:892][ 61]Cmd: TRANSACTION UNDO
+[2020.07.13-12.45.04:893][ 61]LogEditorTransaction: Undo Scale Actors
+[2020.07.13-12.46.14:218][341]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-12.46.14:219][341]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-12.46.18:782][402]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\Нова папка\boxwood_plant_obj\boxwood_plant_obj\b_leaf_d.jpg)
+[2020.07.13-12.46.18:809][402]LogTexture: Display: Building textures: b_leaf_d (AutoDXT, 1024X1024)
+[2020.07.13-12.46.23:348][432]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\Нова папка\boxwood_plant_obj\boxwood_plant_obj\ground.jpg)
+[2020.07.13-12.46.23:414][432]LogTexture: Display: Building textures: ground (AutoDXT, 936X936)
+[2020.07.13-12.46.31:102][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (boxwood_plant_boxwood_plant01)
+[2020.07.13-12.46.32:932][572]LogMaterial: Display: Missing cached shader map for material b_leaf_Mat, compiling. 
+[2020.07.13-12.46.32:957][572]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.46.32:957][572]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.46.32:957][572]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.46.32:957][572]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.46.46:199][785]LogMaterial: Display: Missing cached shader map for material ground_Mat, compiling. 
+[2020.07.13-12.46.46:229][785]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.46.46:229][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.46.46:229][785]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.46.46:229][785]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.47.08:271][110]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\Нова папка\boxwood_plant_obj\boxwood_plant_obj\bark_b_d.jpg)
+[2020.07.13-12.47.08:309][110]LogTexture: Display: Building textures: bark_b_d (BGRA8, 365X1024)
+[2020.07.13-12.47.12:120][144]LogMaterial: Display: Missing cached shader map for material bark_b_Mat, compiling. 
+[2020.07.13-12.47.12:143][144]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.47.12:143][144]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.47.12:143][144]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.47.12:143][144]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.47.23:818][414]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.07.13-12.47.24:610][434]Cmd: DELETE
+[2020.07.13-12.47.24:610][434]Cmd: ACTOR DELETE
+[2020.07.13-12.47.24:620][434]LogEditorActor: Deleted Actor: PointLight
+[2020.07.13-12.47.24:648][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.07.13-12.47.24:660][434]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.07.13-12.48.11:828][138]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\Нова папка\ace_fbx\ace\ace.FBX)
+[2020.07.13-12.48.11:858][138]LogFbx: Loading FBX Scene from C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\Нова папка\ace_fbx\ace\ace.FBX
+[2020.07.13-12.48.11:910][138]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.13-12.48.14:084][138]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.13-12.48.14:240][138]LogTexture: Display: Building textures: ACE_diffuse (AutoDXT, 2048X2048)
+[2020.07.13-12.48.15:789][138]LogTexture: Display: Building textures: ACE_specular (AutoDXT, 2048X2048)
+[2020.07.13-12.48.16:633][138]LogTexture: Display: Building textures: ACE_gloss (AutoDXT, 2048X2048)
+[2020.07.13-12.48.17:531][138]LogTexture: Display: Building textures: ACE_normal (BC5, 2048X2048)
+[2020.07.13-12.48.17:755][138]LogMaterial: Display: Missing cached shader map for material gun, compiling. 
+[2020.07.13-12.48.17:929][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.13-12.48.17:929][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.07.13-12.48.17:929][138]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.13-12.48.17:929][138]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.13-12.48.17:934][138]LogStaticMesh: Building static mesh ace...
+[2020.07.13-12.48.18:998][138]LogStaticMesh: Built static mesh [1.06s] /Game/MyContent/3d/it/ace.ace
+[2020.07.13-12.48.19:115][138]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.13-12.48.20:888][142]LogSlate: Window 'Message Log' being destroyed
+[2020.07.13-12.48.20:986][142]LogSlate: Window 'Message Log' being destroyed
+[2020.07.13-12.48.29:821][389]LogActorFactory: Actor Factory created ace
+[2020.07.13-12.48.33:743][524]LogActorFactory: Actor Factory created ace
+[2020.07.13-12.48.34:464][551]LogActorFactory: Actor Factory created ace
+[2020.07.13-12.48.35:463][587]Cmd: DELETE
+[2020.07.13-12.48.35:463][587]Cmd: ACTOR DELETE
+[2020.07.13-12.48.35:477][587]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.48.35:496][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.07.13-12.48.35:509][587]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.07.13-12.49.04:168][108]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\Нова папка\bookshelf.obj)
+[2020.07.13-12.49.04:175][108]LogFbx: Loading FBX Scene from C:\Users\S406UA-BM012T\Desktop\ПРАКТИКА\3D\Нова папка\bookshelf.obj
+[2020.07.13-12.49.04:182][108]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.13-12.49.05:845][108]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.13-12.49.05:885][108]LogFbx: Display: Triangulating static mesh default
+[2020.07.13-12.49.05:930][108]LogStaticMesh: Building static mesh bookshelf...
+[2020.07.13-12.49.05:944][108]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/3d/it/bookshelf.bookshelf
+[2020.07.13-12.49.09:186][151]LogActorFactory: Actor Factory created bookshelf
+[2020.07.13-12.49.10:916][221]LogActorFactory: Actor Factory created bookshelf
+[2020.07.13-12.49.48:553][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x311)
+[2020.07.13-12.49.49:251][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf)
+[2020.07.13-12.50.29:126][548]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-12.50.29:127][548]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-12.51.09:068][746]Cmd: DELETE
+[2020.07.13-12.51.09:068][746]Cmd: ACTOR DELETE
+[2020.07.13-12.51.09:080][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.51.09:120][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.07.13-12.51.09:128][746]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.07.13-12.51.14:655][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf3)
+[2020.07.13-12.51.15:632][ 23]Cmd: TRANSACTION UNDO
+[2020.07.13-12.51.15:633][ 23]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.13-12.51.16:105][ 34]Cmd: TRANSACTION UNDO
+[2020.07.13-12.51.16:105][ 34]LogEditorTransaction: Undo Delete Actors
+[2020.07.13-12.51.21:780][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x311)
+[2020.07.13-12.51.47:251][928]LogActorFactory: Actor Factory created SM_Classic_Commode
+[2020.07.13-12.51.47:252][928]LogActorFactory: Actor Factory created SM_Classic_Commode_Drawer_1
+[2020.07.13-12.51.47:253][928]LogActorFactory: Actor Factory created SM_Classic_Commode_Drawer_2
+[2020.07.13-12.51.49:583][ 14]LogActorFactory: Actor Factory created SM_Classic_Commode
+[2020.07.13-12.51.49:613][ 14]LogActorFactory: Actor Factory created SM_Classic_Commode_Drawer_1
+[2020.07.13-12.51.49:648][ 14]LogActorFactory: Actor Factory created SM_Classic_Commode_Drawer_2
+[2020.07.13-12.51.53:316][131]Cmd: TRANSACTION UNDO
+[2020.07.13-12.51.53:317][131]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.51.53:672][134]Cmd: TRANSACTION UNDO
+[2020.07.13-12.51.53:673][134]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.13-12.51.59:326][277]LogActorFactory: Actor Factory created SM_Classic_Cupboard
+[2020.07.13-12.52.01:342][351]LogActorFactory: Actor Factory created SM_Classic_Cupboard
+[2020.07.13-12.52.29:708][304]LogActorFactory: Actor Factory created SM_Classic_Cupboard_Door_Right
+[2020.07.13-12.52.32:603][418]LogActorFactory: Actor Factory created SM_Classic_Cupboard_Door_Right
+[2020.07.13-12.52.48:249][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x310)
+[2020.07.13-12.52.49:179][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Cupboard_Door_Right)
+[2020.07.13-12.53.04:390][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x310)
+[2020.07.13-12.53.05:453][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Cupboard)
+[2020.07.13-12.53.08:432][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Cupboard_Door_Right)
+[2020.07.13-12.53.25:050][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Cupboard_Door_Right)
+[2020.07.13-12.53.57:802][309]LogActorFactory: Actor Factory created SM_Classic_Commode_Drawer_1
+[2020.07.13-12.54.00:274][396]LogActorFactory: Actor Factory created SM_Classic_Commode_Drawer_1
+[2020.07.13-12.54.00:696][408]LogActorFactory: Actor Factory created SM_Classic_Commode_Drawer_1
+[2020.07.13-12.54.10:305][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Cupboard)
+[2020.07.13-12.54.11:539][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Cupboard)
+[2020.07.13-12.54.14:791][940]Cmd: TRANSACTION UNDO
+[2020.07.13-12.54.14:791][940]LogEditorTransaction: Undo Move Actors
+[2020.07.13-12.54.15:882][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Commode_Drawer_1)
+[2020.07.13-12.56.32:095][768]Cmd: TRANSACTION UNDO
+[2020.07.13-12.56.32:095][768]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.56.34:887][850]Cmd: TRANSACTION UNDO
+[2020.07.13-12.56.34:887][850]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.56.41:060][ 44]Cmd: TRANSACTION UNDO
+[2020.07.13-12.56.41:060][ 44]LogEditorTransaction: Undo Create Actors
+[2020.07.13-12.57.19:509][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Cupboard_Door_Right2)
+[2020.07.13-12.57.24:003][504]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Classic_Cupboard_Door_Right)
+[2020.07.13-12.57.24:967][541]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Classic_Commode_Drawer_1)
+[2020.07.13-12.57.25:862][578]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Classic_Cupboard)
+[2020.07.13-12.57.26:658][610]Cmd: DELETE
+[2020.07.13-12.57.26:658][610]Cmd: ACTOR DELETE
+[2020.07.13-12.57.26:665][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.57.26:666][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.57.26:667][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.57.26:667][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.57.26:690][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.07.13-12.57.26:702][610]LogEditorActor: Deleted 4 Actors (0.045 secs)
+[2020.07.13-12.57.55:441][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf3)
+[2020.07.13-12.57.56:088][700]Cmd: DELETE
+[2020.07.13-12.57.56:088][700]Cmd: ACTOR DELETE
+[2020.07.13-12.57.56:094][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.57.56:122][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.07.13-12.57.56:132][700]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.07.13-12.57.57:302][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf4)
+[2020.07.13-12.57.57:871][765]Cmd: DELETE
+[2020.07.13-12.57.57:871][765]Cmd: ACTOR DELETE
+[2020.07.13-12.57.57:879][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.13-12.57.57:909][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.07.13-12.57.57:914][765]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.07.13-12.58.01:428][883]Cmd: DELETE
+[2020.07.13-12.58.01:429][883]Cmd: ACTOR DELETE
+[2020.07.13-12.58.01:434][883]LogEditorActor: Deleted Actor: BP_Classic_Cupboard_C
+[2020.07.13-12.58.01:456][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.07.13-12.58.01:459][883]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.07.13-12.58.08:506][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_C (BP_Classic_Commode)
+[2020.07.13-12.58.09:053][103]Cmd: DELETE
+[2020.07.13-12.58.09:053][103]Cmd: ACTOR DELETE
+[2020.07.13-12.58.09:059][103]LogEditorActor: Deleted Actor: BP_Classic_Commode_C
+[2020.07.13-12.58.09:093][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.07.13-12.58.09:097][103]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.07.13-12.58.09:868][137]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_2_C (BP_Classic_Commode_2)
+[2020.07.13-12.58.35:749][993]LogD3D11RHI: Error: D3DDevice failed CreateBuffer VB with ByteWidth=5760, BindFlags=0x1 Usage=2, CPUAccess=0x10000, MiscFlags=0x0
+[2020.07.13-12.58.35:749][993]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11VertexBuffer.cpp:90 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.07.13-12.58.35:776][993]LogD3D11RHI: [Aftermath] GDynamicRHI=000001C661B3E0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.07.13-12.58.35:776][993]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.07.13-12.58.44:276][993]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.07.13-12.58.44:276][993]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.07.13-12.58.44:276][993]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.07.13-12.58.44:276][993]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2020.07.13-12.58.44:281][993]Log file closed, 07/13/20 15:58:44
