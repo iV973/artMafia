@@ -968,3 +968,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.15-12.55.35:980][910]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/JapaneseRoomDBEA54184224DFE3AA896EA61375043F.tmp' to '../../../../../../artMafia/MafiaGame/Content/JapaneseRoom.umap'
 [2020.07.15-12.55.36:021][910]AssetCheck: New page: Asset Save: JapaneseRoom
 [2020.07.15-12.55.36:021][910]LogContentValidation: Display: Validating World /Game/JapaneseRoom.JapaneseRoom
+[2020.07.15-13.05.36:124][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.07.15-13.05.36:127][ 41]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JapaneseRoom' took 0.014
+[2020.07.15-13.05.36:128][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Textures/196285-e9292d171613e14028b71123646f1ea4] ([1] browsable assets)...
+[2020.07.15-13.05.36:170][ 41]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyContent/Textures/196285-e9292d171613e14028b71123646f1ea4.196285-e9292d171613e14028b71123646f1ea4]
+[2020.07.15-13.05.36:170][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Textures/196285-e9292d171613e14028b71123646f1ea4]
+[2020.07.15-13.05.36:191][ 41]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/196285-e9292d171613e14028b711236C685FADF40E9011EFFE4B1829821FF79.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MyContent/Textures/196285-e9292d171613e14028b71123646f1ea4_Auto1.uasset'
+[2020.07.15-13.05.36:192][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Textures/322579-eec10bbd612a4288e81d7db3589270ca] ([1] browsable assets)...
+[2020.07.15-13.05.36:199][ 41]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyContent/Textures/322579-eec10bbd612a4288e81d7db3589270ca.322579-eec10bbd612a4288e81d7db3589270ca]
+[2020.07.15-13.05.36:199][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Textures/322579-eec10bbd612a4288e81d7db3589270ca]
+[2020.07.15-13.05.36:225][ 41]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/322579-eec10bbd612a4288e81d7db35787AE6E34017CC0F41487DBE9EFD5AEC.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MyContent/Textures/322579-eec10bbd612a4288e81d7db3589270ca_Auto1.uasset'
+[2020.07.15-13.05.36:226][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Textures/603456-a5bcac917211e7c639d8a17eae5f7112] ([1] browsable assets)...
+[2020.07.15-13.05.36:234][ 41]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyContent/Textures/603456-a5bcac917211e7c639d8a17eae5f7112.603456-a5bcac917211e7c639d8a17eae5f7112]
+[2020.07.15-13.05.36:234][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Textures/603456-a5bcac917211e7c639d8a17eae5f7112]
+[2020.07.15-13.05.36:260][ 41]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/603456-a5bcac917211e7c639d8a17ea37A1551B463B3B7994103287EB6A721B.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MyContent/Textures/603456-a5bcac917211e7c639d8a17eae5f7112_Auto1.uasset'
+[2020.07.15-13.05.36:261][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Textures/768838-21217a199140ecc546ba96a3d3486e8f] ([1] browsable assets)...
+[2020.07.15-13.05.36:271][ 41]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyContent/Textures/768838-21217a199140ecc546ba96a3d3486e8f.768838-21217a199140ecc546ba96a3d3486e8f]
+[2020.07.15-13.05.36:271][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Textures/768838-21217a199140ecc546ba96a3d3486e8f]
+[2020.07.15-13.05.36:299][ 41]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/768838-21217a199140ecc546ba96a3d4F76087C4B7BCBD6A55A2E9858329810.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MyContent/Textures/768838-21217a199140ecc546ba96a3d3486e8f_Auto1.uasset'
+[2020.07.15-13.05.36:381][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Textures/wallpaper-71] ([1] browsable assets)...
+[2020.07.15-13.05.36:389][ 41]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyContent/Textures/wallpaper-71.wallpaper-71]
+[2020.07.15-13.05.36:389][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Textures/wallpaper-71]
+[2020.07.15-13.05.36:414][ 41]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/wallpaper-71_Auto155D86AB54D5D67A62B555EB5D95AA232.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MyContent/Textures/wallpaper-71_Auto1.uasset'
+[2020.07.15-13.05.36:416][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Textures/wallpaper-103] ([1] browsable assets)...
+[2020.07.15-13.05.36:425][ 41]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyContent/Textures/wallpaper-103.wallpaper-103]
+[2020.07.15-13.05.36:425][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Textures/wallpaper-103]
+[2020.07.15-13.05.36:440][ 41]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/wallpaper-103_Auto1BE3AA7524A37ACC48959908BFD762EC1.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MyContent/Textures/wallpaper-103_Auto1.uasset'
+[2020.07.15-13.05.36:440][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Textures/wood-boards-spruce-0053-01-1460mm-by-200mm-02-cg-source] ([1] browsable assets)...
+[2020.07.15-13.05.36:442][ 41]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyContent/Textures/wood-boards-spruce-0053-01-1460mm-by-200mm-02-cg-source.wood-boards-spruce-0053-01-1460mm-by-200mm-02-cg-source]
+[2020.07.15-13.05.36:442][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Textures/wood-boards-spruce-0053-01-1460mm-by-200mm-02-cg-source]
+[2020.07.15-13.05.36:460][ 41]LogSavePackage: Moving '../../../../../../artMafia/MafiaGame/Saved/wood-boards-spruce-0053-01-1460mAF38B46A4C552C054C831EB1BBB7F569.tmp' to '../../../../../../artMafia/MafiaGame/Saved/Autosaves/Game/MyContent/Textures/wood-boards-spruce-0053-01-1460mm-by-200mm-02-cg-source_Auto1.uasset'
+[2020.07.15-13.05.36:461][ 41]LogFileHelpers: Auto-saving content packages took 0.334
